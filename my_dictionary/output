@@ -1,0 +1,7204 @@
+
+snippet addAIORow "Innovus command" i
+addAIORow
+endsnippet
+
+snippet addAIoFiller "Innovus command" i
+addAIoFiller
+endsnippet
+
+snippet addBufferForFeedthrough "Innovus command" i
+addBufferForFeedthrough
+endsnippet
+
+snippet addBufferToBusSinkGroup "Innovus command" i
+addBufferToBusSinkGroup
+endsnippet
+
+snippet addBumpConnectTargetConstraint "Innovus command" i
+addBumpConnectTargetConstraint
+endsnippet
+
+snippet addChannelDensityControl "Innovus command" i
+addChannelDensityControl
+endsnippet
+
+snippet addDeCap "Innovus command" i
+addDeCap
+endsnippet
+
+snippet addDeCapCellCandidates "Innovus command" i
+addDeCapCellCandidates
+endsnippet
+
+snippet addEndCap "Innovus command" i
+addEndCap
+endsnippet
+
+snippet addFiller "Innovus command" i
+addFiller
+endsnippet
+
+snippet addFillerGap "Innovus command" i
+addFillerGap
+endsnippet
+
+snippet addHaloToBlock "Innovus command" i
+addHaloToBlock
+endsnippet
+
+snippet addHierInst "Innovus command" i
+addHierInst
+endsnippet
+
+snippet addInst "Innovus command" i
+addInst
+endsnippet
+
+snippet addInstToInstGroup "Innovus command" i
+addInstToInstGroup
+endsnippet
+
+snippet addIoFiller "Innovus command" i
+addIoFiller
+endsnippet
+
+snippet addIoInstance "Innovus command" i
+addIoInstance
+endsnippet
+
+snippet addIoRowFiller "Innovus command" i
+addIoRowFiller
+endsnippet
+
+snippet addMetalFill "Innovus command" i
+addMetalFill
+endsnippet
+
+snippet addMimCap "Innovus command" i
+addMimCap
+endsnippet
+
+snippet addModulePort "Innovus command" i
+addModulePort
+endsnippet
+
+snippet addModuleToFPlan "Innovus command" i
+addModuleToFPlan
+endsnippet
+
+snippet addNet "Innovus command" i
+addNet
+endsnippet
+
+snippet addNetToNetGroup "Innovus command" i
+addNetToNetGroup
+endsnippet
+
+snippet addObjFPlanCutBox "Innovus command" i
+addObjFPlanCutBox
+endsnippet
+
+snippet addPinToPinGroup "Innovus command" i
+addPinToPinGroup
+endsnippet
+
+snippet addPowerSwitch "Innovus command" i
+addPowerSwitch
+endsnippet
+
+snippet addRepeaterByRule "Innovus command" i
+addRepeaterByRule
+endsnippet
+
+snippet addRing "Innovus command" i
+addRing
+endsnippet
+
+snippet addRoutingHalo "Innovus command" i
+addRoutingHalo
+endsnippet
+
+snippet addSizeBlockage "Innovus command" i
+addSizeBlockage
+endsnippet
+
+snippet addSpareInstance "Innovus command" i
+addSpareInstance
+endsnippet
+
+snippet addSpecialRoute "Innovus command" i
+addSpecialRoute
+endsnippet
+
+snippet addSplitPowerVia "Innovus command" i
+addSplitPowerVia
+endsnippet
+
+snippet addStripe "Innovus command" i
+addStripe
+endsnippet
+
+snippet addTSV "Innovus command" i
+addTSV
+endsnippet
+
+snippet addTieHiLo "Innovus command" i
+addTieHiLo
+endsnippet
+
+snippet addViaFill "Innovus command" i
+addViaFill
+endsnippet
+
+snippet addWellTap "Innovus command" i
+addWellTap
+endsnippet
+
+snippet add_cell_obs "Innovus command" i
+add_cell_obs
+endsnippet
+
+snippet add_decomp_filler "Innovus command" i
+add_decomp_filler
+endsnippet
+
+snippet add_gate_array_filler "Innovus command" i
+add_gate_array_filler
+endsnippet
+
+snippet add_gui_marker "Innovus command" i
+add_gui_marker
+endsnippet
+
+snippet add_gui_shape "Innovus command" i
+add_gui_shape
+endsnippet
+
+snippet add_gui_text "Innovus command" i
+add_gui_text
+endsnippet
+
+snippet add_ndr "Innovus command" i
+add_ndr
+endsnippet
+
+snippet add_oa_library_property "Innovus command" i
+add_oa_library_property
+endsnippet
+
+snippet add_shape "Innovus command" i
+add_shape
+endsnippet
+
+snippet add_tap_walls "Innovus command" i
+add_tap_walls
+endsnippet
+
+snippet add_text "Innovus command" i
+add_text
+endsnippet
+
+snippet add_to_collection "Innovus command" i
+add_to_collection
+endsnippet
+
+snippet add_tracks "Innovus command" i
+add_tracks
+endsnippet
+
+snippet add_via "Innovus command" i
+add_via
+endsnippet
+
+snippet add_via_definition "Innovus command" i
+add_via_definition
+endsnippet
+
+snippet adjustFPlanChannel "Innovus command" i
+adjustFPlanChannel
+endsnippet
+
+snippet aggregate_reports "Innovus command" i
+aggregate_reports
+endsnippet
+
+snippet alignObject "Innovus command" i
+alignObject
+endsnippet
+
+snippet alignPtnClone "Innovus command" i
+alignPtnClone
+endsnippet
+
+snippet all_analysis_views "Innovus command" i
+all_analysis_views
+endsnippet
+
+snippet all_clocks "Innovus command" i
+all_clocks
+endsnippet
+
+snippet all_connected "Innovus command" i
+all_connected
+endsnippet
+
+snippet all_constraint_modes "Innovus command" i
+all_constraint_modes
+endsnippet
+
+snippet all_delay_corners "Innovus command" i
+all_delay_corners
+endsnippet
+
+snippet all_fanin "Innovus command" i
+all_fanin
+endsnippet
+
+snippet all_fanout "Innovus command" i
+all_fanout
+endsnippet
+
+snippet all_hold_analysis_views "Innovus command" i
+all_hold_analysis_views
+endsnippet
+
+snippet all_inputs "Innovus command" i
+all_inputs
+endsnippet
+
+snippet all_instances "Innovus command" i
+all_instances
+endsnippet
+
+snippet all_library_sets "Innovus command" i
+all_library_sets
+endsnippet
+
+snippet all_op_conds "Innovus command" i
+all_op_conds
+endsnippet
+
+snippet all_outputs "Innovus command" i
+all_outputs
+endsnippet
+
+snippet all_rc_corners "Innovus command" i
+all_rc_corners
+endsnippet
+
+snippet all_registers "Innovus command" i
+all_registers
+endsnippet
+
+snippet all_setup_analysis_views "Innovus command" i
+all_setup_analysis_views
+endsnippet
+
+snippet analyze_esd "Innovus command" i
+analyze_esd
+endsnippet
+
+snippet analyze_esd_voltage "Innovus command" i
+analyze_esd_voltage
+endsnippet
+
+snippet analyze_package "Innovus command" i
+analyze_package
+endsnippet
+
+snippet analyze_paths_by_basic_path_group "Innovus command" i
+analyze_paths_by_basic_path_group
+endsnippet
+
+snippet analyze_paths_by_bottleneck "Innovus command" i
+analyze_paths_by_bottleneck
+endsnippet
+
+snippet analyze_paths_by_clock_domain "Innovus command" i
+analyze_paths_by_clock_domain
+endsnippet
+
+snippet analyze_paths_by_critical_false_path "Innovus command" i
+analyze_paths_by_critical_false_path
+endsnippet
+
+snippet analyze_paths_by_drv "Innovus command" i
+analyze_paths_by_drv
+endsnippet
+
+snippet analyze_paths_by_hier_port "Innovus command" i
+analyze_paths_by_hier_port
+endsnippet
+
+snippet analyze_paths_by_hierarchy "Innovus command" i
+analyze_paths_by_hierarchy
+endsnippet
+
+snippet analyze_paths_by_view "Innovus command" i
+analyze_paths_by_view
+endsnippet
+
+snippet analyze_rail "Innovus command" i
+analyze_rail
+endsnippet
+
+snippet analyze_resistance "Innovus command" i
+analyze_resistance
+endsnippet
+
+snippet analyze_self_heat "Innovus command" i
+analyze_self_heat
+endsnippet
+
+snippet analyze_signal_resistance "Innovus command" i
+analyze_signal_resistance
+endsnippet
+
+snippet aocv_chip_size "Innovus command" i
+aocv_chip_size
+endsnippet
+
+snippet aocv_core_size "Innovus command" i
+aocv_core_size
+endsnippet
+
+snippet append_to_collection "Innovus command" i
+append_to_collection
+endsnippet
+
+snippet applyGlobalNets "Innovus command" i
+applyGlobalNets
+endsnippet
+
+snippet assembleDesign "Innovus command" i
+assembleDesign
+endsnippet
+
+snippet assemble_proto_model "Innovus command" i
+assemble_proto_model
+endsnippet
+
+snippet assignBump "Innovus command" i
+assignBump
+endsnippet
+
+snippet assignIoPins "Innovus command" i
+assignIoPins
+endsnippet
+
+snippet assignPGBumps "Innovus command" i
+assignPGBumps
+endsnippet
+
+snippet assignPtnPin "Innovus command" i
+assignPtnPin
+endsnippet
+
+snippet assignSigToBump "Innovus command" i
+assignSigToBump
+endsnippet
+
+snippet assignTSV "Innovus command" i
+assignTSV
+endsnippet
+
+snippet assign_clock_tree_source_groups "Innovus command" i
+assign_clock_tree_source_groups
+endsnippet
+
+snippet attachDiode "Innovus command" i
+attachDiode
+endsnippet
+
+snippet attachIOBuffer "Innovus command" i
+attachIOBuffer
+endsnippet
+
+snippet attachModulePort "Innovus command" i
+attachModulePort
+endsnippet
+
+snippet attachTerm "Innovus command" i
+attachTerm
+endsnippet
+
+snippet autoGenRelativeFPlan "Innovus command" i
+autoGenRelativeFPlan
+endsnippet
+
+snippet auto_file_dir "Innovus command" i
+auto_file_dir
+endsnippet
+
+snippet auto_file_prefix "Innovus command" i
+auto_file_prefix
+endsnippet
+
+snippet auto_wire_load_selection "Innovus command" i
+auto_wire_load_selection
+endsnippet
+
+snippet bindKey "Innovus command" i
+bindKey
+endsnippet
+
+snippet bufferTreeSynthesis "Innovus command" i
+bufferTreeSynthesis
+endsnippet
+
+snippet calNegSlack "Innovus command" i
+calNegSlack
+endsnippet
+
+snippet calculate_ccopt_cannot_clone_reason "Innovus command" i
+calculate_ccopt_cannot_clone_reason
+endsnippet
+
+snippet ccopt_add_exclusion_drivers "Innovus command" i
+ccopt_add_exclusion_drivers
+endsnippet
+
+snippet ccopt_design "Innovus command" i
+ccopt_design
+endsnippet
+
+snippet ccopt_pro "Innovus command" i
+ccopt_pro
+endsnippet
+
+snippet changeBBoxMasterFromR0 "Innovus command" i
+changeBBoxMasterFromR0
+endsnippet
+
+snippet changeBBoxMasterToR0 "Innovus command" i
+changeBBoxMasterToR0
+endsnippet
+
+snippet changeBumpMaster "Innovus command" i
+changeBumpMaster
+endsnippet
+
+snippet changeFloorplan "Innovus command" i
+changeFloorplan
+endsnippet
+
+snippet changeInstName "Innovus command" i
+changeInstName
+endsnippet
+
+snippet changeIoConstraints "Innovus command" i
+changeIoConstraints
+endsnippet
+
+snippet checkBondPadSpacing "Innovus command" i
+checkBondPadSpacing
+endsnippet
+
+snippet checkBump "Innovus command" i
+checkBump
+endsnippet
+
+snippet checkDesign "Innovus command" i
+checkDesign
+endsnippet
+
+snippet checkFPlan "Innovus command" i
+checkFPlan
+endsnippet
+
+snippet checkFPlanSpace "Innovus command" i
+checkFPlanSpace
+endsnippet
+
+snippet checkFiller "Innovus command" i
+checkFiller
+endsnippet
+
+snippet checkFootPrint "Innovus command" i
+checkFootPrint
+endsnippet
+
+snippet checkHierRoute "Innovus command" i
+checkHierRoute
+endsnippet
+
+snippet checkMacroLLOnTrack "Innovus command" i
+checkMacroLLOnTrack
+endsnippet
+
+snippet checkMultiCpuUsage "Innovus command" i
+checkMultiCpuUsage
+endsnippet
+
+snippet checkNetlist "Innovus command" i
+checkNetlist
+endsnippet
+
+snippet checkPartitionSdc "Innovus command" i
+checkPartitionSdc
+endsnippet
+
+snippet checkPinAssignment "Innovus command" i
+checkPinAssignment
+endsnippet
+
+snippet checkPlace "Innovus command" i
+checkPlace
+endsnippet
+
+snippet checkRoute "Innovus command" i
+checkRoute
+endsnippet
+
+snippet checkTQuantusModelFile "Innovus command" i
+checkTQuantusModelFile
+endsnippet
+
+snippet checkTimingLibrary "Innovus command" i
+checkTimingLibrary
+endsnippet
+
+snippet checkUnique "Innovus command" i
+checkUnique
+endsnippet
+
+snippet checkWhatIfTiming "Innovus command" i
+checkWhatIfTiming
+endsnippet
+
+snippet check_ccopt_clock_tree_convergence "Innovus command" i
+check_ccopt_clock_tree_convergence
+endsnippet
+
+snippet check_ccr "Innovus command" i
+check_ccr
+endsnippet
+
+snippet check_design "Innovus command" i
+check_design
+endsnippet
+
+snippet check_instance_library_in_views "Innovus command" i
+check_instance_library_in_views
+endsnippet
+
+snippet check_ldb_version "Innovus command" i
+check_ldb_version
+endsnippet
+
+snippet check_noise "Innovus command" i
+check_noise
+endsnippet
+
+snippet check_pg_library "Innovus command" i
+check_pg_library
+endsnippet
+
+snippet check_syntax "Innovus command" i
+check_syntax
+endsnippet
+
+snippet check_timing "Innovus command" i
+check_timing
+endsnippet
+
+snippet ciopLoadBumpColorMapFile "Innovus command" i
+ciopLoadBumpColorMapFile
+endsnippet
+
+snippet cleanupExcludeNet "Innovus command" i
+cleanupExcludeNet
+endsnippet
+
+snippet clearActiveLogicView "Innovus command" i
+clearActiveLogicView
+endsnippet
+
+snippet clearAllRulers "Innovus command" i
+clearAllRulers
+endsnippet
+
+snippet clearDeCapCellCandidates "Innovus command" i
+clearDeCapCellCandidates
+endsnippet
+
+snippet clearDrc "Innovus command" i
+clearDrc
+endsnippet
+
+snippet clearGlobalNets "Innovus command" i
+clearGlobalNets
+endsnippet
+
+snippet clearScanDisplay "Innovus command" i
+clearScanDisplay
+endsnippet
+
+snippet clearSpareCellDisplay "Innovus command" i
+clearSpareCellDisplay
+endsnippet
+
+snippet cloneMSVGate "Innovus command" i
+cloneMSVGate
+endsnippet
+
+snippet clonePlace "Innovus command" i
+clonePlace
+endsnippet
+
+snippet close_ctd_win "Innovus command" i
+close_ctd_win
+endsnippet
+
+snippet cloud_opt "Innovus command" i
+cloud_opt
+endsnippet
+
+snippet cloud_place "Innovus command" i
+cloud_place
+endsnippet
+
+snippet colorizePowerMesh "Innovus command" i
+colorizePowerMesh
+endsnippet
+
+snippet commit_ccopt_clock_tree_route_attributes "Innovus command" i
+commit_ccopt_clock_tree_route_attributes
+endsnippet
+
+snippet commit_module_model "Innovus command" i
+commit_module_model
+endsnippet
+
+snippet commit_power_intent "Innovus command" i
+commit_power_intent
+endsnippet
+
+snippet commit_pushdown_eco "Innovus command" i
+commit_pushdown_eco
+endsnippet
+
+snippet comparePinAssignStatistics "Innovus command" i
+comparePinAssignStatistics
+endsnippet
+
+snippet compare_cellview "Innovus command" i
+compare_cellview
+endsnippet
+
+snippet compare_collections "Innovus command" i
+compare_collections
+endsnippet
+
+snippet compare_model_timing "Innovus command" i
+compare_model_timing
+endsnippet
+
+snippet compare_release "Innovus command" i
+compare_release
+endsnippet
+
+snippet congRepair "Innovus command" i
+congRepair
+endsnippet
+
+snippet connectMacroFeedthrough "Innovus command" i
+connectMacroFeedthrough
+endsnippet
+
+snippet convertBlackBoxToFence "Innovus command" i
+convertBlackBoxToFence
+endsnippet
+
+snippet convertFenceToBlackBox "Innovus command" i
+convertFenceToBlackBox
+endsnippet
+
+snippet convertFenceToLef "Innovus command" i
+convertFenceToLef
+endsnippet
+
+snippet convert_gds_to_def "Innovus command" i
+convert_gds_to_def
+endsnippet
+
+snippet copyOaRestoreFiles "Innovus command" i
+copyOaRestoreFiles
+endsnippet
+
+snippet copyObject "Innovus command" i
+copyObject
+endsnippet
+
+snippet copy_bump "Innovus command" i
+copy_bump
+endsnippet
+
+snippet copy_collection "Innovus command" i
+copy_collection
+endsnippet
+
+snippet createAbuttedFPlan "Innovus command" i
+createAbuttedFPlan
+endsnippet
+
+snippet createActiveLogicView "Innovus command" i
+createActiveLogicView
+endsnippet
+
+snippet createBasicPathGroups "Innovus command" i
+createBasicPathGroups
+endsnippet
+
+snippet createBusGuide "Innovus command" i
+createBusGuide
+endsnippet
+
+snippet createBusSinkGroup "Innovus command" i
+createBusSinkGroup
+endsnippet
+
+snippet createDensityArea "Innovus command" i
+createDensityArea
+endsnippet
+
+snippet createFence "Innovus command" i
+createFence
+endsnippet
+
+snippet createGAFillerGroup "Innovus command" i
+createGAFillerGroup
+endsnippet
+
+snippet createGuide "Innovus command" i
+createGuide
+endsnippet
+
+snippet createInstGroup "Innovus command" i
+createInstGroup
+endsnippet
+
+snippet createInterfaceLogic "Innovus command" i
+createInterfaceLogic
+endsnippet
+
+snippet createIoRow "Innovus command" i
+createIoRow
+endsnippet
+
+snippet createLib "Innovus command" i
+createLib
+endsnippet
+
+snippet createLogicHierarchy "Innovus command" i
+createLogicHierarchy
+endsnippet
+
+snippet createMarker "Innovus command" i
+createMarker
+endsnippet
+
+snippet createNetGroup "Innovus command" i
+createNetGroup
+endsnippet
+
+snippet createPGPin "Innovus command" i
+createPGPin
+endsnippet
+
+snippet createPhysicalPin "Innovus command" i
+createPhysicalPin
+endsnippet
+
+snippet createPinBlkg "Innovus command" i
+createPinBlkg
+endsnippet
+
+snippet createPinGroup "Innovus command" i
+createPinGroup
+endsnippet
+
+snippet createPinGuide "Innovus command" i
+createPinGuide
+endsnippet
+
+snippet createPipelineBusGuide "Innovus command" i
+createPipelineBusGuide
+endsnippet
+
+snippet createPipelineNetGroup "Innovus command" i
+createPipelineNetGroup
+endsnippet
+
+snippet createPlaceBlockage "Innovus command" i
+createPlaceBlockage
+endsnippet
+
+snippet createPtnCut "Innovus command" i
+createPtnCut
+endsnippet
+
+snippet createPtnFeedthrough "Innovus command" i
+createPtnFeedthrough
+endsnippet
+
+snippet createRegion "Innovus command" i
+createRegion
+endsnippet
+
+snippet createRouteBlk "Innovus command" i
+createRouteBlk
+endsnippet
+
+snippet createRow "Innovus command" i
+createRow
+endsnippet
+
+snippet createRuler "Innovus command" i
+createRuler
+endsnippet
+
+snippet createShield "Innovus command" i
+createShield
+endsnippet
+
+snippet createSignalPin "Innovus command" i
+createSignalPin
+endsnippet
+
+snippet createSnapshot "Innovus command" i
+createSnapshot
+endsnippet
+
+snippet createSoftGuide "Innovus command" i
+createSoftGuide
+endsnippet
+
+snippet createSpareModule "Innovus command" i
+createSpareModule
+endsnippet
+
+snippet createStairwayBoundary "Innovus command" i
+createStairwayBoundary
+endsnippet
+
+snippet createTBOptFile "Innovus command" i
+createTBOptFile
+endsnippet
+
+snippet createTQuantusModelFile "Innovus command" i
+createTQuantusModelFile
+endsnippet
+
+snippet createTSVNoLoadSPEF "Innovus command" i
+createTSVNoLoadSPEF
+endsnippet
+
+snippet createTrack "Innovus command" i
+createTrack
+endsnippet
+
+snippet createUserBundleNet "Innovus command" i
+createUserBundleNet
+endsnippet
+
+snippet createUserDisableForCombLoopBreak "Innovus command" i
+createUserDisableForCombLoopBreak
+endsnippet
+
+snippet createWhatIfInternalGeneratedClock "Innovus command" i
+createWhatIfInternalGeneratedClock
+endsnippet
+
+snippet create_analysis_view "Innovus command" i
+create_analysis_view
+endsnippet
+
+snippet create_buffer_psPM_table "Innovus command" i
+create_buffer_psPM_table
+endsnippet
+
+snippet create_bump "Innovus command" i
+create_bump
+endsnippet
+
+snippet create_ccopt_clock_spine "Innovus command" i
+create_ccopt_clock_spine
+endsnippet
+
+snippet create_ccopt_clock_tree "Innovus command" i
+create_ccopt_clock_tree
+endsnippet
+
+snippet create_ccopt_clock_tree_source_group "Innovus command" i
+create_ccopt_clock_tree_source_group
+endsnippet
+
+snippet create_ccopt_clock_tree_spec "Innovus command" i
+create_ccopt_clock_tree_spec
+endsnippet
+
+snippet create_ccopt_flexible_htree "Innovus command" i
+create_ccopt_flexible_htree
+endsnippet
+
+snippet create_ccopt_generated_clock_tree "Innovus command" i
+create_ccopt_generated_clock_tree
+endsnippet
+
+snippet create_ccopt_macro_model_spec "Innovus command" i
+create_ccopt_macro_model_spec
+endsnippet
+
+snippet create_ccopt_preferred_cell_stripe "Innovus command" i
+create_ccopt_preferred_cell_stripe
+endsnippet
+
+snippet create_ccopt_skew_group "Innovus command" i
+create_ccopt_skew_group
+endsnippet
+
+snippet create_clock "Innovus command" i
+create_clock
+endsnippet
+
+snippet create_constraint_mode "Innovus command" i
+create_constraint_mode
+endsnippet
+
+snippet create_current_region "Innovus command" i
+create_current_region
+endsnippet
+
+snippet create_delay_corner "Innovus command" i
+create_delay_corner
+endsnippet
+
+snippet create_die_model "Innovus command" i
+create_die_model
+endsnippet
+
+snippet create_ecsm_extension "Innovus command" i
+create_ecsm_extension
+endsnippet
+
+snippet create_flexfiller_route_blockage "Innovus command" i
+create_flexfiller_route_blockage
+endsnippet
+
+snippet create_generated_clock "Innovus command" i
+create_generated_clock
+endsnippet
+
+snippet create_hier_view "Innovus command" i
+create_hier_view
+endsnippet
+
+snippet create_histogram_png "Innovus command" i
+create_histogram_png
+endsnippet
+
+snippet create_inst_space_group "Innovus command" i
+create_inst_space_group
+endsnippet
+
+snippet create_library_set "Innovus command" i
+create_library_set
+endsnippet
+
+snippet create_op_cond "Innovus command" i
+create_op_cond
+endsnippet
+
+snippet create_path_category "Innovus command" i
+create_path_category
+endsnippet
+
+snippet create_power_pads "Innovus command" i
+create_power_pads
+endsnippet
+
+snippet create_proto_model "Innovus command" i
+create_proto_model
+endsnippet
+
+snippet create_ps_per_micron_model "Innovus command" i
+create_ps_per_micron_model
+endsnippet
+
+snippet create_pushdown_eco "Innovus command" i
+create_pushdown_eco
+endsnippet
+
+snippet create_rc_corner "Innovus command" i
+create_rc_corner
+endsnippet
+
+snippet create_relative_floorplan "Innovus command" i
+create_relative_floorplan
+endsnippet
+
+snippet create_route_type "Innovus command" i
+create_route_type
+endsnippet
+
+snippet create_spice_deck "Innovus command" i
+create_spice_deck
+endsnippet
+
+snippet create_stress_rule "Innovus command" i
+create_stress_rule
+endsnippet
+
+snippet create_what_if_shape "Innovus command" i
+create_what_if_shape
+endsnippet
+
+snippet ctd_trace "Innovus command" i
+ctd_trace
+endsnippet
+
+snippet ctd_win "Innovus command" i
+ctd_win
+endsnippet
+
+snippet cts_refine_clock_tree_placement "Innovus command" i
+cts_refine_clock_tree_placement
+endsnippet
+
+snippet current_design "Innovus command" i
+current_design
+endsnippet
+
+snippet current_instance "Innovus command" i
+current_instance
+endsnippet
+
+snippet cutBoxListFromPowerDomain "Innovus command" i
+cutBoxListFromPowerDomain
+endsnippet
+
+snippet cutPowerDomainByOverlaps "Innovus command" i
+cutPowerDomainByOverlaps
+endsnippet
+
+snippet cutRectilinearInst "Innovus command" i
+cutRectilinearInst
+endsnippet
+
+snippet cutRow "Innovus command" i
+cutRow
+endsnippet
+
+snippet cvd "Innovus command" i
+cvd
+endsnippet
+
+snippet dbEdge "Innovus command" i
+dbEdge
+endsnippet
+
+snippet dbGet "Innovus command" i
+dbGet
+endsnippet
+
+snippet dbQuery "Innovus command" i
+dbQuery
+endsnippet
+
+snippet dbRestoreDbVersion "Innovus command" i
+dbRestoreDbVersion
+endsnippet
+
+snippet dbSchema "Innovus command" i
+dbSchema
+endsnippet
+
+snippet dbSet "Innovus command" i
+dbSet
+endsnippet
+
+snippet dbShape "Innovus command" i
+dbShape
+endsnippet
+
+snippet dbTransform "Innovus command" i
+dbTransform
+endsnippet
+
+snippet db_browser "Innovus command" i
+db_browser
+endsnippet
+
+snippet db_pt "Innovus command" i
+db_pt
+endsnippet
+
+snippet db_rect "Innovus command" i
+db_rect
+endsnippet
+
+snippet dbu2uu "Innovus command" i
+dbu2uu
+endsnippet
+
+snippet dd_get "Innovus command" i
+dd_get
+endsnippet
+
+snippet debugPtnBoundaryPorts "Innovus command" i
+debugPtnBoundaryPorts
+endsnippet
+
+snippet debug_irdrop "Innovus command" i
+debug_irdrop
+endsnippet
+
+snippet defComp "Innovus command" i
+defComp
+endsnippet
+
+snippet defHierChar "Innovus command" i
+defHierChar
+endsnippet
+
+snippet defIn "Innovus command" i
+defIn
+endsnippet
+
+snippet defInShapeBasedDefFile "Innovus command" i
+defInShapeBasedDefFile
+endsnippet
+
+snippet defOut "Innovus command" i
+defOut
+endsnippet
+
+snippet defOutBySection "Innovus command" i
+defOutBySection
+endsnippet
+
+snippet defOutCompressVia "Innovus command" i
+defOutCompressVia
+endsnippet
+
+snippet defOutLefNDR "Innovus command" i
+defOutLefNDR
+endsnippet
+
+snippet defOutLefVia "Innovus command" i
+defOutLefVia
+endsnippet
+
+snippet defOutPolygonDieArea "Innovus command" i
+defOutPolygonDieArea
+endsnippet
+
+snippet defOverlapWireReportFileName "Innovus command" i
+defOverlapWireReportFileName
+endsnippet
+
+snippet definePartition "Innovus command" i
+definePartition
+endsnippet
+
+snippet define_proc_arguments "Innovus command" i
+define_proc_arguments
+endsnippet
+
+snippet define_property "Innovus command" i
+define_property
+endsnippet
+
+snippet dehighlight "Innovus command" i
+dehighlight
+endsnippet
+
+snippet delaycal_default_net_delay "Innovus command" i
+delaycal_default_net_delay
+endsnippet
+
+snippet delaycal_default_net_load "Innovus command" i
+delaycal_default_net_load
+endsnippet
+
+snippet delaycal_input_transition_delay "Innovus command" i
+delaycal_input_transition_delay
+endsnippet
+
+snippet delaycal_rd_rnet_fraction_threshold "Innovus command" i
+delaycal_rd_rnet_fraction_threshold
+endsnippet
+
+snippet delaycal_support_min_max_pin_cap "Innovus command" i
+delaycal_support_min_max_pin_cap
+endsnippet
+
+snippet delaycal_support_rise_fall_pin_cap "Innovus command" i
+delaycal_support_rise_fall_pin_cap
+endsnippet
+
+snippet delaycal_support_wire_load_model "Innovus command" i
+delaycal_support_wire_load_model
+endsnippet
+
+snippet delaycal_use_default_delay_limit "Innovus command" i
+delaycal_use_default_delay_limit
+endsnippet
+
+snippet deleteAIoFiller "Innovus command" i
+deleteAIoFiller
+endsnippet
+
+snippet deleteAllCellPad "Innovus command" i
+deleteAllCellPad
+endsnippet
+
+snippet deleteAllDensityAreas "Innovus command" i
+deleteAllDensityAreas
+endsnippet
+
+snippet deleteAllFPObjects "Innovus command" i
+deleteAllFPObjects
+endsnippet
+
+snippet deleteAllInstGroups "Innovus command" i
+deleteAllInstGroups
+endsnippet
+
+snippet deleteAllPowerPreroutes "Innovus command" i
+deleteAllPowerPreroutes
+endsnippet
+
+snippet deleteAllPtnCuts "Innovus command" i
+deleteAllPtnCuts
+endsnippet
+
+snippet deleteAllPtnFeedthroughs "Innovus command" i
+deleteAllPtnFeedthroughs
+endsnippet
+
+snippet deleteAllScanCells "Innovus command" i
+deleteAllScanCells
+endsnippet
+
+snippet deleteAllSignalPreroutes "Innovus command" i
+deleteAllSignalPreroutes
+endsnippet
+
+snippet deleteBNet "Innovus command" i
+deleteBNet
+endsnippet
+
+snippet deleteBufferTree "Innovus command" i
+deleteBufferTree
+endsnippet
+
+snippet deleteBumpConnectTargetConstraint "Innovus command" i
+deleteBumpConnectTargetConstraint
+endsnippet
+
+snippet deleteBumps "Innovus command" i
+deleteBumps
+endsnippet
+
+snippet deleteBusGuide "Innovus command" i
+deleteBusGuide
+endsnippet
+
+snippet deleteBusSinkGroup "Innovus command" i
+deleteBusSinkGroup
+endsnippet
+
+snippet deleteCellEdgeSpacing "Innovus command" i
+deleteCellEdgeSpacing
+endsnippet
+
+snippet deleteCellEdgeType "Innovus command" i
+deleteCellEdgeType
+endsnippet
+
+snippet deleteCellPad "Innovus command" i
+deleteCellPad
+endsnippet
+
+snippet deleteDangling1b1Or0s "Innovus command" i
+deleteDangling1b1Or0s
+endsnippet
+
+snippet deleteDanglingNet "Innovus command" i
+deleteDanglingNet
+endsnippet
+
+snippet deleteDanglingPort "Innovus command" i
+deleteDanglingPort
+endsnippet
+
+snippet deleteDeCap "Innovus command" i
+deleteDeCap
+endsnippet
+
+snippet deleteEmptyModule "Innovus command" i
+deleteEmptyModule
+endsnippet
+
+snippet deleteFPObject "Innovus command" i
+deleteFPObject
+endsnippet
+
+snippet deleteFiller "Innovus command" i
+deleteFiller
+endsnippet
+
+snippet deleteGAFillerGroup "Innovus command" i
+deleteGAFillerGroup
+endsnippet
+
+snippet deleteHaloFromBlock "Innovus command" i
+deleteHaloFromBlock
+endsnippet
+
+snippet deleteInst "Innovus command" i
+deleteInst
+endsnippet
+
+snippet deleteInstFromInstGroup "Innovus command" i
+deleteInstFromInstGroup
+endsnippet
+
+snippet deleteInstGroup "Innovus command" i
+deleteInstGroup
+endsnippet
+
+snippet deleteInstPad "Innovus command" i
+deleteInstPad
+endsnippet
+
+snippet deleteIntegRouteConstraint "Innovus command" i
+deleteIntegRouteConstraint
+endsnippet
+
+snippet deleteIoFiller "Innovus command" i
+deleteIoFiller
+endsnippet
+
+snippet deleteIoInstance "Innovus command" i
+deleteIoInstance
+endsnippet
+
+snippet deleteIoRowFiller "Innovus command" i
+deleteIoRowFiller
+endsnippet
+
+snippet deleteMetalFill "Innovus command" i
+deleteMetalFill
+endsnippet
+
+snippet deleteMimCap "Innovus command" i
+deleteMimCap
+endsnippet
+
+snippet deleteModule "Innovus command" i
+deleteModule
+endsnippet
+
+snippet deleteModulePort "Innovus command" i
+deleteModulePort
+endsnippet
+
+snippet deleteNet "Innovus command" i
+deleteNet
+endsnippet
+
+snippet deleteNetFromNetGroup "Innovus command" i
+deleteNetFromNetGroup
+endsnippet
+
+snippet deleteNetGroup "Innovus command" i
+deleteNetGroup
+endsnippet
+
+snippet deleteNetWeight "Innovus command" i
+deleteNetWeight
+endsnippet
+
+snippet deleteNotchFill "Innovus command" i
+deleteNotchFill
+endsnippet
+
+snippet deletePGPin "Innovus command" i
+deletePGPin
+endsnippet
+
+snippet deletePartition "Innovus command" i
+deletePartition
+endsnippet
+
+snippet deletePinBlkg "Innovus command" i
+deletePinBlkg
+endsnippet
+
+snippet deletePinFromPinGroup "Innovus command" i
+deletePinFromPinGroup
+endsnippet
+
+snippet deletePinGroup "Innovus command" i
+deletePinGroup
+endsnippet
+
+snippet deletePinGuide "Innovus command" i
+deletePinGuide
+endsnippet
+
+snippet deletePipelineNetGroup "Innovus command" i
+deletePipelineNetGroup
+endsnippet
+
+snippet deletePlaceBlockage "Innovus command" i
+deletePlaceBlockage
+endsnippet
+
+snippet deletePowerSwitch "Innovus command" i
+deletePowerSwitch
+endsnippet
+
+snippet deletePtnCut "Innovus command" i
+deletePtnCut
+endsnippet
+
+snippet deleteRouteBlk "Innovus command" i
+deleteRouteBlk
+endsnippet
+
+snippet deleteRoutingHalo "Innovus command" i
+deleteRoutingHalo
+endsnippet
+
+snippet deleteRow "Innovus command" i
+deleteRow
+endsnippet
+
+snippet deleteScanCell "Innovus command" i
+deleteScanCell
+endsnippet
+
+snippet deleteScanChain "Innovus command" i
+deleteScanChain
+endsnippet
+
+snippet deleteScanChainPartition "Innovus command" i
+deleteScanChainPartition
+endsnippet
+
+snippet deleteSelectedFromFPlan "Innovus command" i
+deleteSelectedFromFPlan
+endsnippet
+
+snippet deleteShield "Innovus command" i
+deleteShield
+endsnippet
+
+snippet deleteSizeBlockage "Innovus command" i
+deleteSizeBlockage
+endsnippet
+
+snippet deleteSpareModule "Innovus command" i
+deleteSpareModule
+endsnippet
+
+snippet deleteTSV "Innovus command" i
+deleteTSV
+endsnippet
+
+snippet deleteTieHiLo "Innovus command" i
+deleteTieHiLo
+endsnippet
+
+snippet deleteTrack "Innovus command" i
+deleteTrack
+endsnippet
+
+snippet deleteUserBundleNet "Innovus command" i
+deleteUserBundleNet
+endsnippet
+
+snippet deleteWhatIfTimingAssertions "Innovus command" i
+deleteWhatIfTimingAssertions
+endsnippet
+
+snippet deleteWorkspace "Innovus command" i
+deleteWorkspace
+endsnippet
+
+snippet delete_ccopt_clock_spines "Innovus command" i
+delete_ccopt_clock_spines
+endsnippet
+
+snippet delete_ccopt_clock_tree_source_group "Innovus command" i
+delete_ccopt_clock_tree_source_group
+endsnippet
+
+snippet delete_ccopt_clock_tree_spec "Innovus command" i
+delete_ccopt_clock_tree_spec
+endsnippet
+
+snippet delete_ccopt_clock_trees "Innovus command" i
+delete_ccopt_clock_trees
+endsnippet
+
+snippet delete_ccopt_flexible_htrees "Innovus command" i
+delete_ccopt_flexible_htrees
+endsnippet
+
+snippet delete_ccopt_preferred_cell_stripe "Innovus command" i
+delete_ccopt_preferred_cell_stripe
+endsnippet
+
+snippet delete_ccopt_skew_groups "Innovus command" i
+delete_ccopt_skew_groups
+endsnippet
+
+snippet delete_cell_obs "Innovus command" i
+delete_cell_obs
+endsnippet
+
+snippet delete_clock_tree_repeaters "Innovus command" i
+delete_clock_tree_repeaters
+endsnippet
+
+snippet delete_feedthru_buffer "Innovus command" i
+delete_feedthru_buffer
+endsnippet
+
+snippet delete_gui_object "Innovus command" i
+delete_gui_object
+endsnippet
+
+snippet delete_inst_space_group "Innovus command" i
+delete_inst_space_group
+endsnippet
+
+snippet delete_path_category "Innovus command" i
+delete_path_category
+endsnippet
+
+snippet delete_pg_keepout "Innovus command" i
+delete_pg_keepout
+endsnippet
+
+snippet delete_relative_floorplan "Innovus command" i
+delete_relative_floorplan
+endsnippet
+
+snippet delete_route_type "Innovus command" i
+delete_route_type
+endsnippet
+
+snippet deriveTimingBudget "Innovus command" i
+deriveTimingBudget
+endsnippet
+
+snippet describeCongestion "Innovus command" i
+describeCongestion
+endsnippet
+
+snippet deselectAll "Innovus command" i
+deselectAll
+endsnippet
+
+snippet deselectBusGuide "Innovus command" i
+deselectBusGuide
+endsnippet
+
+snippet deselectGroup "Innovus command" i
+deselectGroup
+endsnippet
+
+snippet deselectIOPin "Innovus command" i
+deselectIOPin
+endsnippet
+
+snippet deselectInst "Innovus command" i
+deselectInst
+endsnippet
+
+snippet deselectInstByCellName "Innovus command" i
+deselectInstByCellName
+endsnippet
+
+snippet deselectInstOnNet "Innovus command" i
+deselectInstOnNet
+endsnippet
+
+snippet deselectModule "Innovus command" i
+deselectModule
+endsnippet
+
+snippet deselectNet "Innovus command" i
+deselectNet
+endsnippet
+
+snippet deselectPin "Innovus command" i
+deselectPin
+endsnippet
+
+snippet deselect_bump "Innovus command" i
+deselect_bump
+endsnippet
+
+snippet deselect_obj "Innovus command" i
+deselect_obj
+endsnippet
+
+snippet detachModulePort "Innovus command" i
+detachModulePort
+endsnippet
+
+snippet detachTerm "Innovus command" i
+detachTerm
+endsnippet
+
+snippet detailRoute "Innovus command" i
+detailRoute
+endsnippet
+
+snippet disconnectDanglingPort "Innovus command" i
+disconnectDanglingPort
+endsnippet
+
+snippet displayBufTree "Innovus command" i
+displayBufTree
+endsnippet
+
+snippet displayScanChain "Innovus command" i
+displayScanChain
+endsnippet
+
+snippet displaySpareCell "Innovus command" i
+displaySpareCell
+endsnippet
+
+snippet displayUserBundleNet "Innovus command" i
+displayUserBundleNet
+endsnippet
+
+snippet display_obj_connectivity "Innovus command" i
+display_obj_connectivity
+endsnippet
+
+snippet display_timing_map "Innovus command" i
+display_timing_map
+endsnippet
+
+snippet distributed_mmmc_disable_reports_auto_redirection "Innovus command" i
+distributed_mmmc_disable_reports_auto_redirection
+endsnippet
+
+snippet do_extract_model "Innovus command" i
+do_extract_model
+endsnippet
+
+snippet dumpCongestArea "Innovus command" i
+dumpCongestArea
+endsnippet
+
+snippet dumpMultiBitFlopMappingFile "Innovus command" i
+dumpMultiBitFlopMappingFile
+endsnippet
+
+snippet dumpNanoCongestArea "Innovus command" i
+dumpNanoCongestArea
+endsnippet
+
+snippet dumpNetsInCongestedArea "Innovus command" i
+dumpNetsInCongestedArea
+endsnippet
+
+snippet dumpOutVias "Innovus command" i
+dumpOutVias
+endsnippet
+
+snippet dumpPictures "Innovus command" i
+dumpPictures
+endsnippet
+
+snippet dumpToGIF "Innovus command" i
+dumpToGIF
+endsnippet
+
+snippet dump_histogram_view "Innovus command" i
+dump_histogram_view
+endsnippet
+
+snippet dump_unannotated_nets "Innovus command" i
+dump_unannotated_nets
+endsnippet
+
+snippet earlyGlobalRoute "Innovus command" i
+earlyGlobalRoute
+endsnippet
+
+snippet ecoAddRepeater "Innovus command" i
+ecoAddRepeater
+endsnippet
+
+snippet ecoChangeCell "Innovus command" i
+ecoChangeCell
+endsnippet
+
+snippet ecoCloneFlop "Innovus command" i
+ecoCloneFlop
+endsnippet
+
+snippet ecoCompareNetlist "Innovus command" i
+ecoCompareNetlist
+endsnippet
+
+snippet ecoDefIn "Innovus command" i
+ecoDefIn
+endsnippet
+
+snippet ecoDeleteRepeater "Innovus command" i
+ecoDeleteRepeater
+endsnippet
+
+snippet ecoDesign "Innovus command" i
+ecoDesign
+endsnippet
+
+snippet ecoDisableNetRenamingForFlatNetlist "Innovus command" i
+ecoDisableNetRenamingForFlatNetlist
+endsnippet
+
+snippet ecoOaDesign "Innovus command" i
+ecoOaDesign
+endsnippet
+
+snippet ecoPlace "Innovus command" i
+ecoPlace
+endsnippet
+
+snippet ecoRoute "Innovus command" i
+ecoRoute
+endsnippet
+
+snippet ecoSplitFlop "Innovus command" i
+ecoSplitFlop
+endsnippet
+
+snippet ecoSwapSpareCell "Innovus command" i
+ecoSwapSpareCell
+endsnippet
+
+snippet editAddFillet "Innovus command" i
+editAddFillet
+endsnippet
+
+snippet editAddPoly "Innovus command" i
+editAddPoly
+endsnippet
+
+snippet editAddRoute "Innovus command" i
+editAddRoute
+endsnippet
+
+snippet editAddTrimMetal "Innovus command" i
+editAddTrimMetal
+endsnippet
+
+snippet editAddVia "Innovus command" i
+editAddVia
+endsnippet
+
+snippet editBumpConnectTargetConstraint "Innovus command" i
+editBumpConnectTargetConstraint
+endsnippet
+
+snippet editChangeLayer "Innovus command" i
+editChangeLayer
+endsnippet
+
+snippet editChangeNet "Innovus command" i
+editChangeNet
+endsnippet
+
+snippet editChangeRule "Innovus command" i
+editChangeRule
+endsnippet
+
+snippet editChangeStatus "Innovus command" i
+editChangeStatus
+endsnippet
+
+snippet editChangeVia "Innovus command" i
+editChangeVia
+endsnippet
+
+snippet editChangeWidth "Innovus command" i
+editChangeWidth
+endsnippet
+
+snippet editCommitPoly "Innovus command" i
+editCommitPoly
+endsnippet
+
+snippet editCommitRoute "Innovus command" i
+editCommitRoute
+endsnippet
+
+snippet editCopy "Innovus command" i
+editCopy
+endsnippet
+
+snippet editCutWire "Innovus command" i
+editCutWire
+endsnippet
+
+snippet editDelete "Innovus command" i
+editDelete
+endsnippet
+
+snippet editDeleteFillet "Innovus command" i
+editDeleteFillet
+endsnippet
+
+snippet editDeleteTrimMetal "Innovus command" i
+editDeleteTrimMetal
+endsnippet
+
+snippet editDeleteViolations "Innovus command" i
+editDeleteViolations
+endsnippet
+
+snippet editDeselect "Innovus command" i
+editDeselect
+endsnippet
+
+snippet editDeselectVia "Innovus command" i
+editDeselectVia
+endsnippet
+
+snippet editDuplicate "Innovus command" i
+editDuplicate
+endsnippet
+
+snippet editFixWideWires "Innovus command" i
+editFixWideWires
+endsnippet
+
+snippet editMerge "Innovus command" i
+editMerge
+endsnippet
+
+snippet editMove "Innovus command" i
+editMove
+endsnippet
+
+snippet editPin "Innovus command" i
+editPin
+endsnippet
+
+snippet editPowerVia "Innovus command" i
+editPowerVia
+endsnippet
+
+snippet editRotate "Innovus command" i
+editRotate
+endsnippet
+
+snippet editSelect "Innovus command" i
+editSelect
+endsnippet
+
+snippet editSelectVia "Innovus command" i
+editSelectVia
+endsnippet
+
+snippet editSplit "Innovus command" i
+editSplit
+endsnippet
+
+snippet editStretch "Innovus command" i
+editStretch
+endsnippet
+
+snippet editTrim "Innovus command" i
+editTrim
+endsnippet
+
+snippet edit_bump_name "Innovus command" i
+edit_bump_name
+endsnippet
+
+snippet encEnableMetric "Innovus command" i
+encEnableMetric
+endsnippet
+
+snippet encMessage "Innovus command" i
+encMessage
+endsnippet
+
+snippet enc_cmd_length_limit "Innovus command" i
+enc_cmd_length_limit
+endsnippet
+
+snippet enc_partial_cmd_argument_matching "Innovus command" i
+enc_partial_cmd_argument_matching
+endsnippet
+
+snippet enc_save_design_exhaustive_portable_mode "Innovus command" i
+enc_save_design_exhaustive_portable_mode
+endsnippet
+
+snippet enc_save_portable_design "Innovus command" i
+enc_save_portable_design
+endsnippet
+
+snippet enc_save_timing_constraints_always "Innovus command" i
+enc_save_timing_constraints_always
+endsnippet
+
+snippet enc_source_continue_on_error "Innovus command" i
+enc_source_continue_on_error
+endsnippet
+
+snippet enc_source_echo_filename "Innovus command" i
+enc_source_echo_filename
+endsnippet
+
+snippet enc_source_verbose "Innovus command" i
+enc_source_verbose
+endsnippet
+
+snippet enc_source_verbose_in_tcl_eval "Innovus command" i
+enc_source_verbose_in_tcl_eval
+endsnippet
+
+snippet enc_source_verbose_output "Innovus command" i
+enc_source_verbose_output
+endsnippet
+
+snippet enc_tcl_return_display_limit "Innovus command" i
+enc_tcl_return_display_limit
+endsnippet
+
+snippet end_parallel_edit "Innovus command" i
+end_parallel_edit
+endsnippet
+
+snippet end_record "Innovus command" i
+end_record
+endsnippet
+
+snippet end_replay_session "Innovus command" i
+end_replay_session
+endsnippet
+
+snippet end_sai "Innovus command" i
+end_sai
+endsnippet
+
+snippet exportNdr "Innovus command" i
+exportNdr
+endsnippet
+
+snippet exportPowerSwitch "Innovus command" i
+exportPowerSwitch
+endsnippet
+
+snippet extractRC "Innovus command" i
+extractRC
+endsnippet
+
+snippet extract_package "Innovus command" i
+extract_package
+endsnippet
+
+snippet extract_shrink_factor "Innovus command" i
+extract_shrink_factor
+endsnippet
+
+snippet fcroute "Innovus command" i
+fcroute
+endsnippet
+
+snippet fillNotch "Innovus command" i
+fillNotch
+endsnippet
+
+snippet fill_setting_save "Innovus command" i
+fill_setting_save
+endsnippet
+
+snippet filter_collection "Innovus command" i
+filter_collection
+endsnippet
+
+snippet findLefEquivalentCells "Innovus command" i
+findLefEquivalentCells
+endsnippet
+
+snippet findPinPortNumber "Innovus command" i
+findPinPortNumber
+endsnippet
+
+snippet find_global "Innovus command" i
+find_global
+endsnippet
+
+snippet finishFloorplan "Innovus command" i
+finishFloorplan
+endsnippet
+
+snippet fit "Innovus command" i
+fit
+endsnippet
+
+snippet fixACLimitViolation "Innovus command" i
+fixACLimitViolation
+endsnippet
+
+snippet fixAllIos "Innovus command" i
+fixAllIos
+endsnippet
+
+snippet fixBondPad "Innovus command" i
+fixBondPad
+endsnippet
+
+snippet fixOpenFill "Innovus command" i
+fixOpenFill
+endsnippet
+
+snippet fixVia "Innovus command" i
+fixVia
+endsnippet
+
+snippet fix_boundary_overlaps "Innovus command" i
+fix_boundary_overlaps
+endsnippet
+
+snippet fix_multi_drivers "Innovus command" i
+fix_multi_drivers
+endsnippet
+
+snippet flattenCoverCell "Innovus command" i
+flattenCoverCell
+endsnippet
+
+snippet flattenIlm "Innovus command" i
+flattenIlm
+endsnippet
+
+snippet flattenPartition "Innovus command" i
+flattenPartition
+endsnippet
+
+snippet flipModule "Innovus command" i
+flipModule
+endsnippet
+
+snippet flipOrRotateObject "Innovus command" i
+flipOrRotateObject
+endsnippet
+
+snippet flipchip_allow_routed_bump_edit "Innovus command" i
+flipchip_allow_routed_bump_edit
+endsnippet
+
+snippet floorPlan "Innovus command" i
+floorPlan
+endsnippet
+
+snippet foreach_in_collection "Innovus command" i
+foreach_in_collection
+endsnippet
+
+snippet fp_vertical_row "Innovus command" i
+fp_vertical_row
+endsnippet
+
+snippet freeDesign "Innovus command" i
+freeDesign
+endsnippet
+
+snippet freeTimingBudget "Innovus command" i
+freeTimingBudget
+endsnippet
+
+snippet free_power_intent "Innovus command" i
+free_power_intent
+endsnippet
+
+snippet genPinText "Innovus command" i
+genPinText
+endsnippet
+
+snippet generateCapTbl "Innovus command" i
+generateCapTbl
+endsnippet
+
+snippet generateFFSetupFile "Innovus command" i
+generateFFSetupFile
+endsnippet
+
+snippet generateLef "Innovus command" i
+generateLef
+endsnippet
+
+snippet generateRCFactor "Innovus command" i
+generateRCFactor
+endsnippet
+
+snippet generateVias "Innovus command" i
+generateVias
+endsnippet
+
+snippet generate_fence "Innovus command" i
+generate_fence
+endsnippet
+
+snippet generate_pg_library "Innovus command" i
+generate_pg_library
+endsnippet
+
+snippet generate_vertical_cell_edge_constraint "Innovus command" i
+generate_vertical_cell_edge_constraint
+endsnippet
+
+snippet getActiveLogicViewMode "Innovus command" i
+getActiveLogicViewMode
+endsnippet
+
+snippet getAddRingMode "Innovus command" i
+getAddRingMode
+endsnippet
+
+snippet getAddStripeMode "Innovus command" i
+getAddStripeMode
+endsnippet
+
+snippet getAllLayers "Innovus command" i
+getAllLayers
+endsnippet
+
+snippet getAnalysisMode "Innovus command" i
+getAnalysisMode
+endsnippet
+
+snippet getAnalyzeProtoMode "Innovus command" i
+getAnalyzeProtoMode
+endsnippet
+
+snippet getAttribute "Innovus command" i
+getAttribute
+endsnippet
+
+snippet getBlackBoxArea "Innovus command" i
+getBlackBoxArea
+endsnippet
+
+snippet getBondPad "Innovus command" i
+getBondPad
+endsnippet
+
+snippet getBudgetingMode "Innovus command" i
+getBudgetingMode
+endsnippet
+
+snippet getBuildArch "Innovus command" i
+getBuildArch
+endsnippet
+
+snippet getCPFUserAttributes "Innovus command" i
+getCPFUserAttributes
+endsnippet
+
+snippet getCheckMode "Innovus command" i
+getCheckMode
+endsnippet
+
+snippet getClonePtnOrient "Innovus command" i
+getClonePtnOrient
+endsnippet
+
+snippet getCmdLogFileName "Innovus command" i
+getCmdLogFileName
+endsnippet
+
+snippet getCompressLevel "Innovus command" i
+getCompressLevel
+endsnippet
+
+snippet getDbGetMode "Innovus command" i
+getDbGetMode
+endsnippet
+
+snippet getDelayCalMode "Innovus command" i
+getDelayCalMode
+endsnippet
+
+snippet getDensityMapMode "Innovus command" i
+getDensityMapMode
+endsnippet
+
+snippet getDesignMode "Innovus command" i
+getDesignMode
+endsnippet
+
+snippet getDistributeHost "Innovus command" i
+getDistributeHost
+endsnippet
+
+snippet getDrawView "Innovus command" i
+getDrawView
+endsnippet
+
+snippet getEcoMode "Innovus command" i
+getEcoMode
+endsnippet
+
+snippet getEdit "Innovus command" i
+getEdit
+endsnippet
+
+snippet getEndCapMode "Innovus command" i
+getEndCapMode
+endsnippet
+
+snippet getExportMode "Innovus command" i
+getExportMode
+endsnippet
+
+snippet getExtractRCMode "Innovus command" i
+getExtractRCMode
+endsnippet
+
+snippet getFPlanMode "Innovus command" i
+getFPlanMode
+endsnippet
+
+snippet getFillerMode "Innovus command" i
+getFillerMode
+endsnippet
+
+snippet getFinishFPlanMode "Innovus command" i
+getFinishFPlanMode
+endsnippet
+
+snippet getFlipChipMode "Innovus command" i
+getFlipChipMode
+endsnippet
+
+snippet getGenerateViaMode "Innovus command" i
+getGenerateViaMode
+endsnippet
+
+snippet getHierMode "Innovus command" i
+getHierMode
+endsnippet
+
+snippet getIlmMode "Innovus command" i
+getIlmMode
+endsnippet
+
+snippet getIlmType "Innovus command" i
+getIlmType
+endsnippet
+
+snippet getImportMode "Innovus command" i
+getImportMode
+endsnippet
+
+snippet getInstPowerDomain "Innovus command" i
+getInstPowerDomain
+endsnippet
+
+snippet getIntegRouteConstraint "Innovus command" i
+getIntegRouteConstraint
+endsnippet
+
+snippet getIoFlowFlag "Innovus command" i
+getIoFlowFlag
+endsnippet
+
+snippet getLatencyFile "Innovus command" i
+getLatencyFile
+endsnippet
+
+snippet getLayerPreference "Innovus command" i
+getLayerPreference
+endsnippet
+
+snippet getLogFileName "Innovus command" i
+getLogFileName
+endsnippet
+
+snippet getMetalFillSpacingTable "Innovus command" i
+getMetalFillSpacingTable
+endsnippet
+
+snippet getModuleView "Innovus command" i
+getModuleView
+endsnippet
+
+snippet getMsvMode "Innovus command" i
+getMsvMode
+endsnippet
+
+snippet getMultiCpuUsage "Innovus command" i
+getMultiCpuUsage
+endsnippet
+
+snippet getNanoRouteMode "Innovus command" i
+getNanoRouteMode
+endsnippet
+
+snippet getNetWeight "Innovus command" i
+getNetWeight
+endsnippet
+
+snippet getOasisOutMode "Innovus command" i
+getOasisOutMode
+endsnippet
+
+snippet getOaxMode "Innovus command" i
+getOaxMode
+endsnippet
+
+snippet getObjFPlanBoxList "Innovus command" i
+getObjFPlanBoxList
+endsnippet
+
+snippet getObjFPlanPolygon "Innovus command" i
+getObjFPlanPolygon
+endsnippet
+
+snippet getOptMode "Innovus command" i
+getOptMode
+endsnippet
+
+snippet getPGNetResis "Innovus command" i
+getPGNetResis
+endsnippet
+
+snippet getPinAssignMode "Innovus command" i
+getPinAssignMode
+endsnippet
+
+snippet getPinConstraint "Innovus command" i
+getPinConstraint
+endsnippet
+
+snippet getPinDensityMapMode "Innovus command" i
+getPinDensityMapMode
+endsnippet
+
+snippet getPlaceMode "Innovus command" i
+getPlaceMode
+endsnippet
+
+snippet getPlanDesignMode "Innovus command" i
+getPlanDesignMode
+endsnippet
+
+snippet getPowerDomainPwrGndPin "Innovus command" i
+getPowerDomainPwrGndPin
+endsnippet
+
+snippet getPreference "Innovus command" i
+getPreference
+endsnippet
+
+snippet getPtnPinStatus "Innovus command" i
+getPtnPinStatus
+endsnippet
+
+snippet getRCPOptMode "Innovus command" i
+getRCPOptMode
+endsnippet
+
+snippet getRailPrototypeMode "Innovus command" i
+getRailPrototypeMode
+endsnippet
+
+snippet getResizeFPlanMode "Innovus command" i
+getResizeFPlanMode
+endsnippet
+
+snippet getRouteMode "Innovus command" i
+getRouteMode
+endsnippet
+
+snippet getSIMode "Innovus command" i
+getSIMode
+endsnippet
+
+snippet getScanReorderMode "Innovus command" i
+getScanReorderMode
+endsnippet
+
+snippet getSchedulingFile "Innovus command" i
+getSchedulingFile
+endsnippet
+
+snippet getSignoffOptMode "Innovus command" i
+getSignoffOptMode
+endsnippet
+
+snippet getSpecialNetResis "Innovus command" i
+getSpecialNetResis
+endsnippet
+
+snippet getSrouteMode "Innovus command" i
+getSrouteMode
+endsnippet
+
+snippet getStreamOutMode "Innovus command" i
+getStreamOutMode
+endsnippet
+
+snippet getTieHiLoMode "Innovus command" i
+getTieHiLoMode
+endsnippet
+
+snippet getTimeLibFile "Innovus command" i
+getTimeLibFile
+endsnippet
+
+snippet getUsefulSkewMode "Innovus command" i
+getUsefulSkewMode
+endsnippet
+
+snippet getVerifyGeometryMode "Innovus command" i
+getVerifyGeometryMode
+endsnippet
+
+snippet getVersion "Innovus command" i
+getVersion
+endsnippet
+
+snippet getViaEdit "Innovus command" i
+getViaEdit
+endsnippet
+
+snippet getViaGenMode "Innovus command" i
+getViaGenMode
+endsnippet
+
+snippet getWhatIfTimingAssertions "Innovus command" i
+getWhatIfTimingAssertions
+endsnippet
+
+snippet getWhatIfTimingMode "Innovus command" i
+getWhatIfTimingMode
+endsnippet
+
+snippet get_abstract_mode "Innovus command" i
+get_abstract_mode
+endsnippet
+
+snippet get_activity "Innovus command" i
+get_activity
+endsnippet
+
+snippet get_analysis_view "Innovus command" i
+get_analysis_view
+endsnippet
+
+snippet get_arcs "Innovus command" i
+get_arcs
+endsnippet
+
+snippet get_capacitance_unit "Innovus command" i
+get_capacitance_unit
+endsnippet
+
+snippet get_ccopt_clock_spines "Innovus command" i
+get_ccopt_clock_spines
+endsnippet
+
+snippet get_ccopt_clock_tree_capacitance "Innovus command" i
+get_ccopt_clock_tree_capacitance
+endsnippet
+
+snippet get_ccopt_clock_tree_cells "Innovus command" i
+get_ccopt_clock_tree_cells
+endsnippet
+
+snippet get_ccopt_clock_tree_nets "Innovus command" i
+get_ccopt_clock_tree_nets
+endsnippet
+
+snippet get_ccopt_clock_tree_sinks "Innovus command" i
+get_ccopt_clock_tree_sinks
+endsnippet
+
+snippet get_ccopt_clock_tree_slew "Innovus command" i
+get_ccopt_clock_tree_slew
+endsnippet
+
+snippet get_ccopt_clock_tree_source_groups "Innovus command" i
+get_ccopt_clock_tree_source_groups
+endsnippet
+
+snippet get_ccopt_clock_trees "Innovus command" i
+get_ccopt_clock_trees
+endsnippet
+
+snippet get_ccopt_dag_traversal "Innovus command" i
+get_ccopt_dag_traversal
+endsnippet
+
+snippet get_ccopt_delay_corner "Innovus command" i
+get_ccopt_delay_corner
+endsnippet
+
+snippet get_ccopt_effective_max_capacitance "Innovus command" i
+get_ccopt_effective_max_capacitance
+endsnippet
+
+snippet get_ccopt_flexible_htrees "Innovus command" i
+get_ccopt_flexible_htrees
+endsnippet
+
+snippet get_ccopt_mode "Innovus command" i
+get_ccopt_mode
+endsnippet
+
+snippet get_ccopt_preferred_cell_stripe "Innovus command" i
+get_ccopt_preferred_cell_stripe
+endsnippet
+
+snippet get_ccopt_property "Innovus command" i
+get_ccopt_property
+endsnippet
+
+snippet get_ccopt_skew_group_delay "Innovus command" i
+get_ccopt_skew_group_delay
+endsnippet
+
+snippet get_ccopt_skew_group_path "Innovus command" i
+get_ccopt_skew_group_path
+endsnippet
+
+snippet get_ccopt_skew_groups "Innovus command" i
+get_ccopt_skew_groups
+endsnippet
+
+snippet get_cells "Innovus command" i
+get_cells
+endsnippet
+
+snippet get_clocks "Innovus command" i
+get_clocks
+endsnippet
+
+snippet get_constant_for_timing "Innovus command" i
+get_constant_for_timing
+endsnippet
+
+snippet get_constraint_mode "Innovus command" i
+get_constraint_mode
+endsnippet
+
+snippet get_ctd_win_id "Innovus command" i
+get_ctd_win_id
+endsnippet
+
+snippet get_ctd_win_title "Innovus command" i
+get_ctd_win_title
+endsnippet
+
+snippet get_delay_corner "Innovus command" i
+get_delay_corner
+endsnippet
+
+snippet get_designs "Innovus command" i
+get_designs
+endsnippet
+
+snippet get_equivalent_cells "Innovus command" i
+get_equivalent_cells
+endsnippet
+
+snippet get_generated_clocks "Innovus command" i
+get_generated_clocks
+endsnippet
+
+snippet get_glitch_threshold "Innovus command" i
+get_glitch_threshold
+endsnippet
+
+snippet get_global "Innovus command" i
+get_global
+endsnippet
+
+snippet get_interactive_constraint_modes "Innovus command" i
+get_interactive_constraint_modes
+endsnippet
+
+snippet get_lib_arcs "Innovus command" i
+get_lib_arcs
+endsnippet
+
+snippet get_lib_cell_leakage_power "Innovus command" i
+get_lib_cell_leakage_power
+endsnippet
+
+snippet get_lib_cells "Innovus command" i
+get_lib_cells
+endsnippet
+
+snippet get_lib_clock_tree_path_delay "Innovus command" i
+get_lib_clock_tree_path_delay
+endsnippet
+
+snippet get_lib_pg_pins "Innovus command" i
+get_lib_pg_pins
+endsnippet
+
+snippet get_lib_pins "Innovus command" i
+get_lib_pins
+endsnippet
+
+snippet get_library_set "Innovus command" i
+get_library_set
+endsnippet
+
+snippet get_libs "Innovus command" i
+get_libs
+endsnippet
+
+snippet get_message "Innovus command" i
+get_message
+endsnippet
+
+snippet get_metric "Innovus command" i
+get_metric
+endsnippet
+
+snippet get_nets "Innovus command" i
+get_nets
+endsnippet
+
+snippet get_oa_default_rule_lib "Innovus command" i
+get_oa_default_rule_lib
+endsnippet
+
+snippet get_object_name "Innovus command" i
+get_object_name
+endsnippet
+
+snippet get_op_cond "Innovus command" i
+get_op_cond
+endsnippet
+
+snippet get_path_groups "Innovus command" i
+get_path_groups
+endsnippet
+
+snippet get_pg_inst_term_net "Innovus command" i
+get_pg_inst_term_net
+endsnippet
+
+snippet get_pg_nets "Innovus command" i
+get_pg_nets
+endsnippet
+
+snippet get_pg_pins "Innovus command" i
+get_pg_pins
+endsnippet
+
+snippet get_physical_info "Innovus command" i
+get_physical_info
+endsnippet
+
+snippet get_pins "Innovus command" i
+get_pins
+endsnippet
+
+snippet get_ports "Innovus command" i
+get_ports
+endsnippet
+
+snippet get_power "Innovus command" i
+get_power
+endsnippet
+
+snippet get_power_analysis_mode "Innovus command" i
+get_power_analysis_mode
+endsnippet
+
+snippet get_propagated_clock "Innovus command" i
+get_propagated_clock
+endsnippet
+
+snippet get_property "Innovus command" i
+get_property
+endsnippet
+
+snippet get_proto_design_mode "Innovus command" i
+get_proto_design_mode
+endsnippet
+
+snippet get_proto_mode "Innovus command" i
+get_proto_mode
+endsnippet
+
+snippet get_proto_model "Innovus command" i
+get_proto_model
+endsnippet
+
+snippet get_ptn_fplan_mode "Innovus command" i
+get_ptn_fplan_mode
+endsnippet
+
+snippet get_rc_corner "Innovus command" i
+get_rc_corner
+endsnippet
+
+snippet get_replay_session_filename "Innovus command" i
+get_replay_session_filename
+endsnippet
+
+snippet get_resistance_unit "Innovus command" i
+get_resistance_unit
+endsnippet
+
+snippet get_sdc_mode "Innovus command" i
+get_sdc_mode
+endsnippet
+
+snippet get_socv_rc_variation_factor "Innovus command" i
+get_socv_rc_variation_factor
+endsnippet
+
+snippet get_time_unit "Innovus command" i
+get_time_unit
+endsnippet
+
+snippet get_trace_obj_connectivity_mode "Innovus command" i
+get_trace_obj_connectivity_mode
+endsnippet
+
+snippet get_verify_drc_mode "Innovus command" i
+get_verify_drc_mode
+endsnippet
+
+snippet get_via_pillars "Innovus command" i
+get_via_pillars
+endsnippet
+
+snippet get_visible_nets "Innovus command" i
+get_visible_nets
+endsnippet
+
+snippet get_well_tap_mode "Innovus command" i
+get_well_tap_mode
+endsnippet
+
+snippet globalDetailRoute "Innovus command" i
+globalDetailRoute
+endsnippet
+
+snippet globalNetConnect "Innovus command" i
+globalNetConnect
+endsnippet
+
+snippet globalRoute "Innovus command" i
+globalRoute
+endsnippet
+
+snippet group "Innovus command" i
+group
+endsnippet
+
+snippet group_path "Innovus command" i
+group_path
+endsnippet
+
+snippet gui_close_cell_view "Innovus command" i
+gui_close_cell_view
+endsnippet
+
+snippet gui_deselect "Innovus command" i
+gui_deselect
+endsnippet
+
+snippet gui_open_cell_view "Innovus command" i
+gui_open_cell_view
+endsnippet
+
+snippet gui_select "Innovus command" i
+gui_select
+endsnippet
+
+snippet handlePtnAreaIo "Innovus command" i
+handlePtnAreaIo
+endsnippet
+
+snippet help "Innovus command" i
+help
+endsnippet
+
+snippet hier_clock_route "Innovus command" i
+hier_clock_route
+endsnippet
+
+snippet highlight "Innovus command" i
+highlight
+endsnippet
+
+snippet highlight_pin "Innovus command" i
+highlight_pin
+endsnippet
+
+snippet highlight_timing_report "Innovus command" i
+highlight_timing_report
+endsnippet
+
+snippet hiliteFeedthroughNets "Innovus command" i
+hiliteFeedthroughNets
+endsnippet
+
+snippet hilite_proto_model "Innovus command" i
+hilite_proto_model
+endsnippet
+
+snippet identify_proto_model "Innovus command" i
+identify_proto_model
+endsnippet
+
+snippet importPowerSwitch "Innovus command" i
+importPowerSwitch
+endsnippet
+
+snippet import_ilm_data "Innovus command" i
+import_ilm_data
+endsnippet
+
+snippet index_collection "Innovus command" i
+index_collection
+endsnippet
+
+snippet initCoreRow "Innovus command" i
+initCoreRow
+endsnippet
+
+snippet init_abstract_view "Innovus command" i
+init_abstract_view
+endsnippet
+
+snippet init_check_output_pin_constant "Innovus command" i
+init_check_output_pin_constant
+endsnippet
+
+snippet init_cpf_file "Innovus command" i
+init_cpf_file
+endsnippet
+
+snippet init_design "Innovus command" i
+init_design
+endsnippet
+
+snippet init_design_netlisttype "Innovus command" i
+init_design_netlisttype
+endsnippet
+
+snippet init_design_settop "Innovus command" i
+init_design_settop
+endsnippet
+
+snippet init_design_uniquify "Innovus command" i
+init_design_uniquify
+endsnippet
+
+snippet init_gnd_net "Innovus command" i
+init_gnd_net
+endsnippet
+
+snippet init_ignore_pgpin_polarity_check "Innovus command" i
+init_ignore_pgpin_polarity_check
+endsnippet
+
+snippet init_import_mode "Innovus command" i
+init_import_mode
+endsnippet
+
+snippet init_io_file "Innovus command" i
+init_io_file
+endsnippet
+
+snippet init_layout_view "Innovus command" i
+init_layout_view
+endsnippet
+
+snippet init_lef_file "Innovus command" i
+init_lef_file
+endsnippet
+
+snippet init_mmmc_file "Innovus command" i
+init_mmmc_file
+endsnippet
+
+snippet init_oa_default_rule "Innovus command" i
+init_oa_default_rule
+endsnippet
+
+snippet init_oa_design_cell "Innovus command" i
+init_oa_design_cell
+endsnippet
+
+snippet init_oa_design_lib "Innovus command" i
+init_oa_design_lib
+endsnippet
+
+snippet init_oa_design_view "Innovus command" i
+init_oa_design_view
+endsnippet
+
+snippet init_oa_ref_lib "Innovus command" i
+init_oa_ref_lib
+endsnippet
+
+snippet init_oa_search_lib "Innovus command" i
+init_oa_search_lib
+endsnippet
+
+snippet init_oa_special_rule "Innovus command" i
+init_oa_special_rule
+endsnippet
+
+snippet init_pwr_net "Innovus command" i
+init_pwr_net
+endsnippet
+
+snippet init_remove_assigns "Innovus command" i
+init_remove_assigns
+endsnippet
+
+snippet init_top_cell "Innovus command" i
+init_top_cell
+endsnippet
+
+snippet init_verilog "Innovus command" i
+init_verilog
+endsnippet
+
+snippet init_verilog_tolerate_port_mismatch "Innovus command" i
+init_verilog_tolerate_port_mismatch
+endsnippet
+
+snippet inn_save_lef_ignore_abstracts "Innovus command" i
+inn_save_lef_ignore_abstracts
+endsnippet
+
+snippet innovus "Innovus command" i
+innovus
+endsnippet
+
+snippet insertPtnFeedthrough "Innovus command" i
+insertPtnFeedthrough
+endsnippet
+
+snippet insertRepeater "Innovus command" i
+insertRepeater
+endsnippet
+
+snippet insert_ccopt_source_group_roots "Innovus command" i
+insert_ccopt_source_group_roots
+endsnippet
+
+snippet ioInstOverlapCheck "Innovus command" i
+ioInstOverlapCheck
+endsnippet
+
+snippet justifyBudget "Innovus command" i
+justifyBudget
+endsnippet
+
+snippet justifyException "Innovus command" i
+justifyException
+endsnippet
+
+snippet layerNameNoAbbreviation "Innovus command" i
+layerNameNoAbbreviation
+endsnippet
+
+snippet lefDefOutVersion "Innovus command" i
+lefDefOutVersion
+endsnippet
+
+snippet lefExtend2DCellShapes "Innovus command" i
+lefExtend2DCellShapes
+endsnippet
+
+snippet legalizeFPlan "Innovus command" i
+legalizeFPlan
+endsnippet
+
+snippet legalizePin "Innovus command" i
+legalizePin
+endsnippet
+
+snippet lib_build_asynch_de_assert_arc "Innovus command" i
+lib_build_asynch_de_assert_arc
+endsnippet
+
+snippet lib_build_timing_cond_default_arc "Innovus command" i
+lib_build_timing_cond_default_arc
+endsnippet
+
+snippet lineSelect "Innovus command" i
+lineSelect
+endsnippet
+
+snippet list_gui_marker "Innovus command" i
+list_gui_marker
+endsnippet
+
+snippet list_property "Innovus command" i
+list_property
+endsnippet
+
+snippet loadBlackBoxNetlist "Innovus command" i
+loadBlackBoxNetlist
+endsnippet
+
+snippet loadDefFile "Innovus command" i
+loadDefFile
+endsnippet
+
+snippet loadDrc "Innovus command" i
+loadDrc
+endsnippet
+
+snippet loadECO "Innovus command" i
+loadECO
+endsnippet
+
+snippet loadFPlan "Innovus command" i
+loadFPlan
+endsnippet
+
+snippet loadFootPrint "Innovus command" i
+loadFootPrint
+endsnippet
+
+snippet loadIoFile "Innovus command" i
+loadIoFile
+endsnippet
+
+snippet loadLefFile "Innovus command" i
+loadLefFile
+endsnippet
+
+snippet loadPtnPin "Innovus command" i
+loadPtnPin
+endsnippet
+
+snippet loadSpecialRoute "Innovus command" i
+loadSpecialRoute
+endsnippet
+
+snippet loadViolationReport "Innovus command" i
+loadViolationReport
+endsnippet
+
+snippet loadWorkspace "Innovus command" i
+loadWorkspace
+endsnippet
+
+snippet load_netlist_ignore_undefined_cell "Innovus command" i
+load_netlist_ignore_undefined_cell
+endsnippet
+
+snippet load_path_categories "Innovus command" i
+load_path_categories
+endsnippet
+
+snippet load_timing_debug_report "Innovus command" i
+load_timing_debug_report
+endsnippet
+
+snippet man "Innovus command" i
+man
+endsnippet
+
+snippet map_activity_file "Innovus command" i
+map_activity_file
+endsnippet
+
+snippet map_die_package "Innovus command" i
+map_die_package
+endsnippet
+
+snippet mark_physical_power_domains "Innovus command" i
+mark_physical_power_domains
+endsnippet
+
+snippet merge_clock_cells "Innovus command" i
+merge_clock_cells
+endsnippet
+
+snippet merge_hierarchical_def "Innovus command" i
+merge_hierarchical_def
+endsnippet
+
+snippet merge_model_timing "Innovus command" i
+merge_model_timing
+endsnippet
+
+snippet merge_pg_library "Innovus command" i
+merge_pg_library
+endsnippet
+
+snippet metric_advanced_url_endpoint "Innovus command" i
+metric_advanced_url_endpoint
+endsnippet
+
+snippet metric_capture_depth "Innovus command" i
+metric_capture_depth
+endsnippet
+
+snippet metric_capture_design_image "Innovus command" i
+metric_capture_design_image
+endsnippet
+
+snippet metric_capture_max_drc_markers "Innovus command" i
+metric_capture_max_drc_markers
+endsnippet
+
+snippet metric_capture_min_count "Innovus command" i
+metric_capture_min_count
+endsnippet
+
+snippet metric_capture_overwrite "Innovus command" i
+metric_capture_overwrite
+endsnippet
+
+snippet metric_capture_per_view "Innovus command" i
+metric_capture_per_view
+endsnippet
+
+snippet metric_capture_timing_paths "Innovus command" i
+metric_capture_timing_paths
+endsnippet
+
+snippet metric_capture_tns_histogram "Innovus command" i
+metric_capture_tns_histogram
+endsnippet
+
+snippet metric_capture_tns_histogram_buckets "Innovus command" i
+metric_capture_tns_histogram_buckets
+endsnippet
+
+snippet metric_capture_tns_histogram_paths "Innovus command" i
+metric_capture_tns_histogram_paths
+endsnippet
+
+snippet metric_category_default "Innovus command" i
+metric_category_default
+endsnippet
+
+snippet metric_current_run_id "Innovus command" i
+metric_current_run_id
+endsnippet
+
+snippet metric_page_cfg "Innovus command" i
+metric_page_cfg
+endsnippet
+
+snippet metric_summary_metrics "Innovus command" i
+metric_summary_metrics
+endsnippet
+
+snippet modifyBudget "Innovus command" i
+modifyBudget
+endsnippet
+
+snippet modifyPipelineNetGroup "Innovus command" i
+modifyPipelineNetGroup
+endsnippet
+
+snippet modifyPowerDomainAttr "Innovus command" i
+modifyPowerDomainAttr
+endsnippet
+
+snippet modify_ccopt_skew_group "Innovus command" i
+modify_ccopt_skew_group
+endsnippet
+
+snippet modify_ndr "Innovus command" i
+modify_ndr
+endsnippet
+
+snippet monitor_hosts "Innovus command" i
+monitor_hosts
+endsnippet
+
+snippet moveGroupPins "Innovus command" i
+moveGroupPins
+endsnippet
+
+snippet moveMacroInsideModule "Innovus command" i
+moveMacroInsideModule
+endsnippet
+
+snippet movePowerSwitch "Innovus command" i
+movePowerSwitch
+endsnippet
+
+snippet moveSelObj "Innovus command" i
+moveSelObj
+endsnippet
+
+snippet mustjoinallports_is_one_pin "Innovus command" i
+mustjoinallports_is_one_pin
+endsnippet
+
+snippet oaIn "Innovus command" i
+oaIn
+endsnippet
+
+snippet oaOut "Innovus command" i
+oaOut
+endsnippet
+
+snippet oasisOut "Innovus command" i
+oasisOut
+endsnippet
+
+snippet optBusSinkGroup "Innovus command" i
+optBusSinkGroup
+endsnippet
+
+snippet optDesign "Innovus command" i
+optDesign
+endsnippet
+
+snippet optPower "Innovus command" i
+optPower
+endsnippet
+
+snippet optPowerSwitch "Innovus command" i
+optPowerSwitch
+endsnippet
+
+snippet optVirtual "Innovus command" i
+optVirtual
+endsnippet
+
+snippet optimize_esd "Innovus command" i
+optimize_esd
+endsnippet
+
+snippet Puts "Innovus command" i
+Puts
+endsnippet
+
+snippet pan "Innovus command" i
+pan
+endsnippet
+
+snippet panCenter "Innovus command" i
+panCenter
+endsnippet
+
+snippet panPage "Innovus command" i
+panPage
+endsnippet
+
+snippet parse_proc_arguments "Innovus command" i
+parse_proc_arguments
+endsnippet
+
+snippet partition "Innovus command" i
+partition
+endsnippet
+
+snippet pasteObject "Innovus command" i
+pasteObject
+endsnippet
+
+snippet pinAlignment "Innovus command" i
+pinAlignment
+endsnippet
+
+snippet pinAnalysis "Innovus command" i
+pinAnalysis
+endsnippet
+
+snippet placeAIO "Innovus command" i
+placeAIO
+endsnippet
+
+snippet placeBondPad "Innovus command" i
+placeBondPad
+endsnippet
+
+snippet placeCursor "Innovus command" i
+placeCursor
+endsnippet
+
+snippet placeDesign "Innovus command" i
+placeDesign
+endsnippet
+
+snippet placeInstance "Innovus command" i
+placeInstance
+endsnippet
+
+snippet placeJtag "Innovus command" i
+placeJtag
+endsnippet
+
+snippet placePIO "Innovus command" i
+placePIO
+endsnippet
+
+snippet placePad "Innovus command" i
+placePad
+endsnippet
+
+snippet placePadIO "Innovus command" i
+placePadIO
+endsnippet
+
+snippet placePipeline "Innovus command" i
+placePipeline
+endsnippet
+
+snippet placeSpareModule "Innovus command" i
+placeSpareModule
+endsnippet
+
+snippet place_connected "Innovus command" i
+place_connected
+endsnippet
+
+snippet place_opt_design "Innovus command" i
+place_opt_design
+endsnippet
+
+snippet planDesign "Innovus command" i
+planDesign
+endsnippet
+
+snippet prepareForEcoRoute "Innovus command" i
+prepareForEcoRoute
+endsnippet
+
+snippet preroute_opt_design "Innovus command" i
+preroute_opt_design
+endsnippet
+
+snippet preserve_ccopt_port "Innovus command" i
+preserve_ccopt_port
+endsnippet
+
+snippet propagate_activity "Innovus command" i
+propagate_activity
+endsnippet
+
+snippet proto_design "Innovus command" i
+proto_design
+endsnippet
+
+snippet ptn91EnableSpreadPinOnSide "Innovus command" i
+ptn91EnableSpreadPinOnSide
+endsnippet
+
+snippet ptngCreatePlaceBlkOnly "Innovus command" i
+ptngCreatePlaceBlkOnly
+endsnippet
+
+snippet ptngKeepSpecialPin "Innovus command" i
+ptngKeepSpecialPin
+endsnippet
+
+snippet pull_block_constraint "Innovus command" i
+pull_block_constraint
+endsnippet
+
+snippet push_ptn_network "Innovus command" i
+push_ptn_network
+endsnippet
+
+snippet pushdownBuffer "Innovus command" i
+pushdownBuffer
+endsnippet
+
+snippet queryDensityInBox "Innovus command" i
+queryDensityInBox
+endsnippet
+
+snippet queryFPlanObject "Innovus command" i
+queryFPlanObject
+endsnippet
+
+snippet queryPinDensity "Innovus command" i
+queryPinDensity
+endsnippet
+
+snippet query_objects "Innovus command" i
+query_objects
+endsnippet
+
+snippet query_power_data "Innovus command" i
+query_power_data
+endsnippet
+
+snippet range_collection "Innovus command" i
+range_collection
+endsnippet
+
+snippet rcOut "Innovus command" i
+rcOut
+endsnippet
+
+snippet readBumpLocation "Innovus command" i
+readBumpLocation
+endsnippet
+
+snippet readDieAbstract "Innovus command" i
+readDieAbstract
+endsnippet
+
+snippet readFlipChipProperty "Innovus command" i
+readFlipChipProperty
+endsnippet
+
+snippet readIoUpdate "Innovus command" i
+readIoUpdate
+endsnippet
+
+snippet readPackage "Innovus command" i
+readPackage
+endsnippet
+
+snippet readTSVConfig "Innovus command" i
+readTSVConfig
+endsnippet
+
+snippet readTransitionFile "Innovus command" i
+readTransitionFile
+endsnippet
+
+snippet read_activity_file "Innovus command" i
+read_activity_file
+endsnippet
+
+snippet read_codesign_die_abstract "Innovus command" i
+read_codesign_die_abstract
+endsnippet
+
+snippet read_parallel_edit_files "Innovus command" i
+read_parallel_edit_files
+endsnippet
+
+snippet read_parasitics "Innovus command" i
+read_parasitics
+endsnippet
+
+snippet read_partition "Innovus command" i
+read_partition
+endsnippet
+
+snippet read_power_intent "Innovus command" i
+read_power_intent
+endsnippet
+
+snippet read_power_rail_results "Innovus command" i
+read_power_rail_results
+endsnippet
+
+snippet read_sai "Innovus command" i
+read_sai
+endsnippet
+
+snippet read_sdf "Innovus command" i
+read_sdf
+endsnippet
+
+snippet read_spdf "Innovus command" i
+read_spdf
+endsnippet
+
+snippet read_stream "Innovus command" i
+read_stream
+endsnippet
+
+snippet read_twf "Innovus command" i
+read_twf
+endsnippet
+
+snippet rechainPowerSwitch "Innovus command" i
+rechainPowerSwitch
+endsnippet
+
+snippet reclaimArea "Innovus command" i
+reclaimArea
+endsnippet
+
+snippet recreatePtnCellBlockage "Innovus command" i
+recreatePtnCellBlockage
+endsnippet
+
+snippet redirect "Innovus command" i
+redirect
+endsnippet
+
+snippet redo "Innovus command" i
+redo
+endsnippet
+
+snippet redraw "Innovus command" i
+redraw
+endsnippet
+
+snippet refineMacro "Innovus command" i
+refineMacro
+endsnippet
+
+snippet refinePlace "Innovus command" i
+refinePlace
+endsnippet
+
+snippet registerTrigger "Innovus command" i
+registerTrigger
+endsnippet
+
+snippet register_selection_callback "Innovus command" i
+register_selection_callback
+endsnippet
+
+snippet remove_assigns "Innovus command" i
+remove_assigns
+endsnippet
+
+snippet remove_from_collection "Innovus command" i
+remove_from_collection
+endsnippet
+
+snippet remove_gui_marker "Innovus command" i
+remove_gui_marker
+endsnippet
+
+snippet reorganizeFanout "Innovus command" i
+reorganizeFanout
+endsnippet
+
+snippet replaceLefMacro "Innovus command" i
+replaceLefMacro
+endsnippet
+
+snippet replacePowerSwitch "Innovus command" i
+replacePowerSwitch
+endsnippet
+
+snippet replace_proto_model "Innovus command" i
+replace_proto_model
+endsnippet
+
+snippet reportAlwaysOnBuffer "Innovus command" i
+reportAlwaysOnBuffer
+endsnippet
+
+snippet reportBudget "Innovus command" i
+reportBudget
+endsnippet
+
+snippet reportBusSinkGroup "Innovus command" i
+reportBusSinkGroup
+endsnippet
+
+snippet reportCapViolation "Innovus command" i
+reportCapViolation
+endsnippet
+
+snippet reportCellPad "Innovus command" i
+reportCellPad
+endsnippet
+
+snippet reportCongestArea "Innovus command" i
+reportCongestArea
+endsnippet
+
+snippet reportCongestion "Innovus command" i
+reportCongestion
+endsnippet
+
+snippet reportCritInstance "Innovus command" i
+reportCritInstance
+endsnippet
+
+snippet reportCritNet "Innovus command" i
+reportCritNet
+endsnippet
+
+snippet reportCritTerm "Innovus command" i
+reportCritTerm
+endsnippet
+
+snippet reportDanglingPort "Innovus command" i
+reportDanglingPort
+endsnippet
+
+snippet reportDeCap "Innovus command" i
+reportDeCap
+endsnippet
+
+snippet reportDeCapCellCandidates "Innovus command" i
+reportDeCapCellCandidates
+endsnippet
+
+snippet reportDelayCalculation "Innovus command" i
+reportDelayCalculation
+endsnippet
+
+snippet reportDensityMap "Innovus command" i
+reportDensityMap
+endsnippet
+
+snippet reportFanoutViolation "Innovus command" i
+reportFanoutViolation
+endsnippet
+
+snippet reportFootPrint "Innovus command" i
+reportFootPrint
+endsnippet
+
+snippet reportFreqViolation "Innovus command" i
+reportFreqViolation
+endsnippet
+
+snippet reportGateCount "Innovus command" i
+reportGateCount
+endsnippet
+
+snippet reportIgnoredNets "Innovus command" i
+reportIgnoredNets
+endsnippet
+
+snippet reportIlmStatus "Innovus command" i
+reportIlmStatus
+endsnippet
+
+snippet reportInstPad "Innovus command" i
+reportInstPad
+endsnippet
+
+snippet reportIsolation "Innovus command" i
+reportIsolation
+endsnippet
+
+snippet reportJtagInst "Innovus command" i
+reportJtagInst
+endsnippet
+
+snippet reportLegalWireWidthForBump "Innovus command" i
+reportLegalWireWidthForBump
+endsnippet
+
+snippet reportLengthViolation "Innovus command" i
+reportLengthViolation
+endsnippet
+
+snippet reportMultiBitFFs "Innovus command" i
+reportMultiBitFFs
+endsnippet
+
+snippet reportNetGroup "Innovus command" i
+reportNetGroup
+endsnippet
+
+snippet reportNetStat "Innovus command" i
+reportNetStat
+endsnippet
+
+snippet reportPathGroupOptions "Innovus command" i
+reportPathGroupOptions
+endsnippet
+
+snippet reportPinAssignStatistics "Innovus command" i
+reportPinAssignStatistics
+endsnippet
+
+snippet reportPinDensityMap "Innovus command" i
+reportPinDensityMap
+endsnippet
+
+snippet reportPipeline "Innovus command" i
+reportPipeline
+endsnippet
+
+snippet reportPowerDomain "Innovus command" i
+reportPowerDomain
+endsnippet
+
+snippet reportPowerRoute "Innovus command" i
+reportPowerRoute
+endsnippet
+
+snippet reportPowerSwitch "Innovus command" i
+reportPowerSwitch
+endsnippet
+
+snippet reportProbePins "Innovus command" i
+reportProbePins
+endsnippet
+
+snippet reportRoute "Innovus command" i
+reportRoute
+endsnippet
+
+snippet reportRouteTypeConstraints "Innovus command" i
+reportRouteTypeConstraints
+endsnippet
+
+snippet reportScanCell "Innovus command" i
+reportScanCell
+endsnippet
+
+snippet reportScanChainPartition "Innovus command" i
+reportScanChainPartition
+endsnippet
+
+snippet reportSeedConnection "Innovus command" i
+reportSeedConnection
+endsnippet
+
+snippet reportSelect "Innovus command" i
+reportSelect
+endsnippet
+
+snippet reportShield "Innovus command" i
+reportShield
+endsnippet
+
+snippet reportShifter "Innovus command" i
+reportShifter
+endsnippet
+
+snippet reportSpecialRoute "Innovus command" i
+reportSpecialRoute
+endsnippet
+
+snippet reportTimingLib "Innovus command" i
+reportTimingLib
+endsnippet
+
+snippet reportTranViolation "Innovus command" i
+reportTranViolation
+endsnippet
+
+snippet reportUnalignedNets "Innovus command" i
+reportUnalignedNets
+endsnippet
+
+snippet reportUnsnapBlocks "Innovus command" i
+reportUnsnapBlocks
+endsnippet
+
+snippet reportVoltage "Innovus command" i
+reportVoltage
+endsnippet
+
+snippet reportVtInstCount "Innovus command" i
+reportVtInstCount
+endsnippet
+
+snippet reportWire "Innovus command" i
+reportWire
+endsnippet
+
+snippet report_analysis_coverage "Innovus command" i
+report_analysis_coverage
+endsnippet
+
+snippet report_analysis_summary "Innovus command" i
+report_analysis_summary
+endsnippet
+
+snippet report_analysis_views "Innovus command" i
+report_analysis_views
+endsnippet
+
+snippet report_annotated_assertions "Innovus command" i
+report_annotated_assertions
+endsnippet
+
+snippet report_annotated_check "Innovus command" i
+report_annotated_check
+endsnippet
+
+snippet report_annotated_delay "Innovus command" i
+report_annotated_delay
+endsnippet
+
+snippet report_annotated_parasitics "Innovus command" i
+report_annotated_parasitics
+endsnippet
+
+snippet report_annotations "Innovus command" i
+report_annotations
+endsnippet
+
+snippet report_aocv_derate "Innovus command" i
+report_aocv_derate
+endsnippet
+
+snippet report_area "Innovus command" i
+report_area
+endsnippet
+
+snippet report_case_analysis "Innovus command" i
+report_case_analysis
+endsnippet
+
+snippet report_ccopt_cell_halo_violations "Innovus command" i
+report_ccopt_cell_halo_violations
+endsnippet
+
+snippet report_ccopt_clock_tree_convergence "Innovus command" i
+report_ccopt_clock_tree_convergence
+endsnippet
+
+snippet report_ccopt_clock_tree_structure "Innovus command" i
+report_ccopt_clock_tree_structure
+endsnippet
+
+snippet report_ccopt_clock_trees "Innovus command" i
+report_ccopt_clock_trees
+endsnippet
+
+snippet report_ccopt_pin_insertion_delays "Innovus command" i
+report_ccopt_pin_insertion_delays
+endsnippet
+
+snippet report_ccopt_preserved_clock_tree_ports "Innovus command" i
+report_ccopt_preserved_clock_tree_ports
+endsnippet
+
+snippet report_ccopt_skew_groups "Innovus command" i
+report_ccopt_skew_groups
+endsnippet
+
+snippet report_ccopt_worst_chain "Innovus command" i
+report_ccopt_worst_chain
+endsnippet
+
+snippet report_cell_edge_spacing "Innovus command" i
+report_cell_edge_spacing
+endsnippet
+
+snippet report_cell_edge_type "Innovus command" i
+report_cell_edge_type
+endsnippet
+
+snippet report_cell_instance_timing "Innovus command" i
+report_cell_instance_timing
+endsnippet
+
+snippet report_clock_gating_check "Innovus command" i
+report_clock_gating_check
+endsnippet
+
+snippet report_clock_propagation "Innovus command" i
+report_clock_propagation
+endsnippet
+
+snippet report_clock_timing "Innovus command" i
+report_clock_timing
+endsnippet
+
+snippet report_clocks "Innovus command" i
+report_clocks
+endsnippet
+
+snippet report_command_mode "Innovus command" i
+report_command_mode
+endsnippet
+
+snippet report_constraint "Innovus command" i
+report_constraint
+endsnippet
+
+snippet report_cppr "Innovus command" i
+report_cppr
+endsnippet
+
+snippet report_design "Innovus command" i
+report_design
+endsnippet
+
+snippet report_double_clocking "Innovus command" i
+report_double_clocking
+endsnippet
+
+snippet report_fanin "Innovus command" i
+report_fanin
+endsnippet
+
+snippet report_fanout "Innovus command" i
+report_fanout
+endsnippet
+
+snippet report_globals "Innovus command" i
+report_globals
+endsnippet
+
+snippet report_inactive_arcs "Innovus command" i
+report_inactive_arcs
+endsnippet
+
+snippet report_inst_space_group "Innovus command" i
+report_inst_space_group
+endsnippet
+
+snippet report_instance_cdb "Innovus command" i
+report_instance_cdb
+endsnippet
+
+snippet report_instance_library "Innovus command" i
+report_instance_library
+endsnippet
+
+snippet report_instance_power "Innovus command" i
+report_instance_power
+endsnippet
+
+snippet report_lib_cells "Innovus command" i
+report_lib_cells
+endsnippet
+
+snippet report_message "Innovus command" i
+report_message
+endsnippet
+
+snippet report_metal_fill "Innovus command" i
+report_metal_fill
+endsnippet
+
+snippet report_min_pulse_width "Innovus command" i
+report_min_pulse_width
+endsnippet
+
+snippet report_mode "Innovus command" i
+report_mode
+endsnippet
+
+snippet report_narrow_channel "Innovus command" i
+report_narrow_channel
+endsnippet
+
+snippet report_net "Innovus command" i
+report_net
+endsnippet
+
+snippet report_net_parasitics "Innovus command" i
+report_net_parasitics
+endsnippet
+
+snippet report_noise "Innovus command" i
+report_noise
+endsnippet
+
+snippet report_oa_lib "Innovus command" i
+report_oa_lib
+endsnippet
+
+snippet report_obj_connectivity "Innovus command" i
+report_obj_connectivity
+endsnippet
+
+snippet report_path_exceptions "Innovus command" i
+report_path_exceptions
+endsnippet
+
+snippet report_path_groups "Innovus command" i
+report_path_groups
+endsnippet
+
+snippet report_pg_keepout "Innovus command" i
+report_pg_keepout
+endsnippet
+
+snippet report_ports "Innovus command" i
+report_ports
+endsnippet
+
+snippet report_power "Innovus command" i
+report_power
+endsnippet
+
+snippet report_power_rail_results "Innovus command" i
+report_power_rail_results
+endsnippet
+
+snippet report_precision "Innovus command" i
+report_precision
+endsnippet
+
+snippet report_precision_capacitance "Innovus command" i
+report_precision_capacitance
+endsnippet
+
+snippet report_precision_derate "Innovus command" i
+report_precision_derate
+endsnippet
+
+snippet report_precision_power "Innovus command" i
+report_precision_power
+endsnippet
+
+snippet report_precision_sensitivity "Innovus command" i
+report_precision_sensitivity
+endsnippet
+
+snippet report_preserves "Innovus command" i
+report_preserves
+endsnippet
+
+snippet report_property "Innovus command" i
+report_property
+endsnippet
+
+snippet report_proto_model "Innovus command" i
+report_proto_model
+endsnippet
+
+snippet report_rcdb "Innovus command" i
+report_rcdb
+endsnippet
+
+snippet report_resource "Innovus command" i
+report_resource
+endsnippet
+
+snippet report_route "Innovus command" i
+report_route
+endsnippet
+
+snippet report_statistical_timing_derate_factors "Innovus command" i
+report_statistical_timing_derate_factors
+endsnippet
+
+snippet report_timing "Innovus command" i
+report_timing
+endsnippet
+
+snippet report_timing_derate "Innovus command" i
+report_timing_derate
+endsnippet
+
+snippet report_timing_format "Innovus command" i
+report_timing_format
+endsnippet
+
+snippet report_tracks "Innovus command" i
+report_tracks
+endsnippet
+
+snippet report_unit_parasitics "Innovus command" i
+report_unit_parasitics
+endsnippet
+
+snippet report_vector_profile "Innovus command" i
+report_vector_profile
+endsnippet
+
+snippet report_voltage_scaling "Innovus command" i
+report_voltage_scaling
+endsnippet
+
+snippet report_wire_load "Innovus command" i
+report_wire_load
+endsnippet
+
+snippet resetBusGuideMultiColors "Innovus command" i
+resetBusGuideMultiColors
+endsnippet
+
+snippet resetModifiedBudget "Innovus command" i
+resetModifiedBudget
+endsnippet
+
+snippet resetMultiColorsHier "Innovus command" i
+resetMultiColorsHier
+endsnippet
+
+snippet resetPathGroupOptions "Innovus command" i
+resetPathGroupOptions
+endsnippet
+
+snippet reset_all_ccopt_preserved_clock_tree_ports "Innovus command" i
+reset_all_ccopt_preserved_clock_tree_ports
+endsnippet
+
+snippet reset_annotated_check "Innovus command" i
+reset_annotated_check
+endsnippet
+
+snippet reset_annotated_delay "Innovus command" i
+reset_annotated_delay
+endsnippet
+
+snippet reset_annotated_transition "Innovus command" i
+reset_annotated_transition
+endsnippet
+
+snippet reset_aocv_stage_weight "Innovus command" i
+reset_aocv_stage_weight
+endsnippet
+
+snippet reset_case_analysis "Innovus command" i
+reset_case_analysis
+endsnippet
+
+snippet reset_ccopt_config "Innovus command" i
+reset_ccopt_config
+endsnippet
+
+snippet reset_ccopt_preserved_clock_tree_port "Innovus command" i
+reset_ccopt_preserved_clock_tree_port
+endsnippet
+
+snippet reset_ccopt_routing_state "Innovus command" i
+reset_ccopt_routing_state
+endsnippet
+
+snippet reset_clock "Innovus command" i
+reset_clock
+endsnippet
+
+snippet reset_clock_gating_check "Innovus command" i
+reset_clock_gating_check
+endsnippet
+
+snippet reset_clock_groups "Innovus command" i
+reset_clock_groups
+endsnippet
+
+snippet reset_clock_latency "Innovus command" i
+reset_clock_latency
+endsnippet
+
+snippet reset_clock_sense "Innovus command" i
+reset_clock_sense
+endsnippet
+
+snippet reset_clock_transition "Innovus command" i
+reset_clock_transition
+endsnippet
+
+snippet reset_clock_tree_latency "Innovus command" i
+reset_clock_tree_latency
+endsnippet
+
+snippet reset_clock_uncertainty "Innovus command" i
+reset_clock_uncertainty
+endsnippet
+
+snippet reset_data_check "Innovus command" i
+reset_data_check
+endsnippet
+
+snippet reset_disable_clock_gating_check "Innovus command" i
+reset_disable_clock_gating_check
+endsnippet
+
+snippet reset_disable_timing "Innovus command" i
+reset_disable_timing
+endsnippet
+
+snippet reset_drive "Innovus command" i
+reset_drive
+endsnippet
+
+snippet reset_driving_cell "Innovus command" i
+reset_driving_cell
+endsnippet
+
+snippet reset_generated_clock "Innovus command" i
+reset_generated_clock
+endsnippet
+
+snippet reset_ideal_latency "Innovus command" i
+reset_ideal_latency
+endsnippet
+
+snippet reset_ideal_network "Innovus command" i
+reset_ideal_network
+endsnippet
+
+snippet reset_ideal_transition "Innovus command" i
+reset_ideal_transition
+endsnippet
+
+snippet reset_input_delay "Innovus command" i
+reset_input_delay
+endsnippet
+
+snippet reset_load "Innovus command" i
+reset_load
+endsnippet
+
+snippet reset_max_capacitance "Innovus command" i
+reset_max_capacitance
+endsnippet
+
+snippet reset_max_fanout "Innovus command" i
+reset_max_fanout
+endsnippet
+
+snippet reset_max_time_borrow "Innovus command" i
+reset_max_time_borrow
+endsnippet
+
+snippet reset_max_transition "Innovus command" i
+reset_max_transition
+endsnippet
+
+snippet reset_min_capacitance "Innovus command" i
+reset_min_capacitance
+endsnippet
+
+snippet reset_min_fanout "Innovus command" i
+reset_min_fanout
+endsnippet
+
+snippet reset_min_pulse_width "Innovus command" i
+reset_min_pulse_width
+endsnippet
+
+snippet reset_min_transition "Innovus command" i
+reset_min_transition
+endsnippet
+
+snippet reset_mode "Innovus command" i
+reset_mode
+endsnippet
+
+snippet reset_net_is_edit_flag "Innovus command" i
+reset_net_is_edit_flag
+endsnippet
+
+snippet reset_output_delay "Innovus command" i
+reset_output_delay
+endsnippet
+
+snippet reset_parasitics "Innovus command" i
+reset_parasitics
+endsnippet
+
+snippet reset_path_adjust_group "Innovus command" i
+reset_path_adjust_group
+endsnippet
+
+snippet reset_path_exception "Innovus command" i
+reset_path_exception
+endsnippet
+
+snippet reset_path_group "Innovus command" i
+reset_path_group
+endsnippet
+
+snippet reset_power_activity "Innovus command" i
+reset_power_activity
+endsnippet
+
+snippet reset_propagated_clock "Innovus command" i
+reset_propagated_clock
+endsnippet
+
+snippet reset_property "Innovus command" i
+reset_property
+endsnippet
+
+snippet reset_pulse_clock_max_transition "Innovus command" i
+reset_pulse_clock_max_transition
+endsnippet
+
+snippet reset_pulse_clock_max_width "Innovus command" i
+reset_pulse_clock_max_width
+endsnippet
+
+snippet reset_pulse_clock_min_transition "Innovus command" i
+reset_pulse_clock_min_transition
+endsnippet
+
+snippet reset_pulse_clock_min_width "Innovus command" i
+reset_pulse_clock_min_width
+endsnippet
+
+snippet reset_resistance "Innovus command" i
+reset_resistance
+endsnippet
+
+snippet reset_sdf_assertions "Innovus command" i
+reset_sdf_assertions
+endsnippet
+
+snippet reset_spare_insts "Innovus command" i
+reset_spare_insts
+endsnippet
+
+snippet reset_timing_derate "Innovus command" i
+reset_timing_derate
+endsnippet
+
+snippet reset_wire_load_mode "Innovus command" i
+reset_wire_load_mode
+endsnippet
+
+snippet reset_wire_load_model "Innovus command" i
+reset_wire_load_model
+endsnippet
+
+snippet reset_wire_load_selection_group "Innovus command" i
+reset_wire_load_selection_group
+endsnippet
+
+snippet resizeBlackBox "Innovus command" i
+resizeBlackBox
+endsnippet
+
+snippet resizeFloorplan "Innovus command" i
+resizeFloorplan
+endsnippet
+
+snippet restoreDesign "Innovus command" i
+restoreDesign
+endsnippet
+
+snippet restoreRC "Innovus command" i
+restoreRC
+endsnippet
+
+snippet restore_ccopt_config "Innovus command" i
+restore_ccopt_config
+endsnippet
+
+snippet restore_power_database "Innovus command" i
+restore_power_database
+endsnippet
+
+snippet resume "Innovus command" i
+resume
+endsnippet
+
+snippet routeAndBufferBusSinkGroup "Innovus command" i
+routeAndBufferBusSinkGroup
+endsnippet
+
+snippet routeDesign "Innovus command" i
+routeDesign
+endsnippet
+
+snippet routePGPinUseSignalRoute "Innovus command" i
+routePGPinUseSignalRoute
+endsnippet
+
+snippet routePointToPoint "Innovus command" i
+routePointToPoint
+endsnippet
+
+snippet route_ccopt_clock_tree_nets "Innovus command" i
+route_ccopt_clock_tree_nets
+endsnippet
+
+snippet route_fix_signoff_drc "Innovus command" i
+route_fix_signoff_drc
+endsnippet
+
+snippet route_opt_design "Innovus command" i
+route_opt_design
+endsnippet
+
+snippet runCLP "Innovus command" i
+runCLP
+endsnippet
+
+snippet runLEC "Innovus command" i
+runLEC
+endsnippet
+
+snippet runRcNetlistRestruct "Innovus command" i
+runRcNetlistRestruct
+endsnippet
+
+snippet run_abstract "Innovus command" i
+run_abstract
+endsnippet
+
+snippet run_decap_eco "Innovus command" i
+run_decap_eco
+endsnippet
+
+snippet run_pvs_drc_rules "Innovus command" i
+run_pvs_drc_rules
+endsnippet
+
+snippet run_pvs_incremental_metal_fill "Innovus command" i
+run_pvs_incremental_metal_fill
+endsnippet
+
+snippet run_pvs_metal_fill "Innovus command" i
+run_pvs_metal_fill
+endsnippet
+
+snippet run_replay "Innovus command" i
+run_replay
+endsnippet
+
+snippet run_vsr "Innovus command" i
+run_vsr
+endsnippet
+
+snippet saveBlackBox "Innovus command" i
+saveBlackBox
+endsnippet
+
+snippet saveDesign "Innovus command" i
+saveDesign
+endsnippet
+
+snippet saveDrc "Innovus command" i
+saveDrc
+endsnippet
+
+snippet saveExcludeNet "Innovus command" i
+saveExcludeNet
+endsnippet
+
+snippet saveFPlan "Innovus command" i
+saveFPlan
+endsnippet
+
+snippet saveHInstColor "Innovus command" i
+saveHInstColor
+endsnippet
+
+snippet saveIoFile "Innovus command" i
+saveIoFile
+endsnippet
+
+snippet saveModel "Innovus command" i
+saveModel
+endsnippet
+
+snippet saveNetlist "Innovus command" i
+saveNetlist
+endsnippet
+
+snippet saveOaBlackboxes "Innovus command" i
+saveOaBlackboxes
+endsnippet
+
+snippet savePartition "Innovus command" i
+savePartition
+endsnippet
+
+snippet savePtnPin "Innovus command" i
+savePtnPin
+endsnippet
+
+snippet saveRC "Innovus command" i
+saveRC
+endsnippet
+
+snippet saveRouteGuide "Innovus command" i
+saveRouteGuide
+endsnippet
+
+snippet saveSignalStormConstraint "Innovus command" i
+saveSignalStormConstraint
+endsnippet
+
+snippet saveSpecialRoute "Innovus command" i
+saveSpecialRoute
+endsnippet
+
+snippet saveTestcase "Innovus command" i
+saveTestcase
+endsnippet
+
+snippet saveTimingBudget "Innovus command" i
+saveTimingBudget
+endsnippet
+
+snippet saveWhatIfConstraints "Innovus command" i
+saveWhatIfConstraints
+endsnippet
+
+snippet saveWhatIfTimingAssertions "Innovus command" i
+saveWhatIfTimingAssertions
+endsnippet
+
+snippet saveWhatIfTimingModel "Innovus command" i
+saveWhatIfTimingModel
+endsnippet
+
+snippet saveWorkspace "Innovus command" i
+saveWorkspace
+endsnippet
+
+snippet save_abstract "Innovus command" i
+save_abstract
+endsnippet
+
+snippet save_ccopt_config "Innovus command" i
+save_ccopt_config
+endsnippet
+
+snippet save_global "Innovus command" i
+save_global
+endsnippet
+
+snippet save_path_categories "Innovus command" i
+save_path_categories
+endsnippet
+
+snippet scale_what_if_capacitance "Innovus command" i
+scale_what_if_capacitance
+endsnippet
+
+snippet scale_what_if_current "Innovus command" i
+scale_what_if_current
+endsnippet
+
+snippet scale_what_if_resistance "Innovus command" i
+scale_what_if_resistance
+endsnippet
+
+snippet scanReorder "Innovus command" i
+scanReorder
+endsnippet
+
+snippet scanTrace "Innovus command" i
+scanTrace
+endsnippet
+
+snippet script_search_path "Innovus command" i
+script_search_path
+endsnippet
+
+snippet selectBusGuide "Innovus command" i
+selectBusGuide
+endsnippet
+
+snippet selectBusGuideSegment "Innovus command" i
+selectBusGuideSegment
+endsnippet
+
+snippet selectBusSinkGroup "Innovus command" i
+selectBusSinkGroup
+endsnippet
+
+snippet selectGroup "Innovus command" i
+selectGroup
+endsnippet
+
+snippet selectIOPin "Innovus command" i
+selectIOPin
+endsnippet
+
+snippet selectInst "Innovus command" i
+selectInst
+endsnippet
+
+snippet selectInstByCellName "Innovus command" i
+selectInstByCellName
+endsnippet
+
+snippet selectInstOnNet "Innovus command" i
+selectInstOnNet
+endsnippet
+
+snippet selectModule "Innovus command" i
+selectModule
+endsnippet
+
+snippet selectNet "Innovus command" i
+selectNet
+endsnippet
+
+snippet selectObjByProp "Innovus command" i
+selectObjByProp
+endsnippet
+
+snippet selectPGPin "Innovus command" i
+selectPGPin
+endsnippet
+
+snippet selectPin "Innovus command" i
+selectPin
+endsnippet
+
+snippet selectPtnPinGuide "Innovus command" i
+selectPtnPinGuide
+endsnippet
+
+snippet selectRouteBlk "Innovus command" i
+selectRouteBlk
+endsnippet
+
+snippet select_bump "Innovus command" i
+select_bump
+endsnippet
+
+snippet select_highlighted "Innovus command" i
+select_highlighted
+endsnippet
+
+snippet select_obj "Innovus command" i
+select_obj
+endsnippet
+
+snippet select_row "Innovus command" i
+select_row
+endsnippet
+
+snippet setActiveLogicViewMode "Innovus command" i
+setActiveLogicViewMode
+endsnippet
+
+snippet setAddRingMode "Innovus command" i
+setAddRingMode
+endsnippet
+
+snippet setAddStripeMode "Innovus command" i
+setAddStripeMode
+endsnippet
+
+snippet setAnalysisMode "Innovus command" i
+setAnalysisMode
+endsnippet
+
+snippet setAnalyzeProtoMode "Innovus command" i
+setAnalyzeProtoMode
+endsnippet
+
+snippet setAttribute "Innovus command" i
+setAttribute
+endsnippet
+
+snippet setBottomIoPadOrient "Innovus command" i
+setBottomIoPadOrient
+endsnippet
+
+snippet setBudgetingMode "Innovus command" i
+setBudgetingMode
+endsnippet
+
+snippet setBufFootPrint "Innovus command" i
+setBufFootPrint
+endsnippet
+
+snippet setBumpFixed "Innovus command" i
+setBumpFixed
+endsnippet
+
+snippet setBumpPlacementStatus "Innovus command" i
+setBumpPlacementStatus
+endsnippet
+
+snippet setBusGuideMultiColors "Innovus command" i
+setBusGuideMultiColors
+endsnippet
+
+snippet setCheckMode "Innovus command" i
+setCheckMode
+endsnippet
+
+snippet setClonePtnOrient "Innovus command" i
+setClonePtnOrient
+endsnippet
+
+snippet setCompressLevel "Innovus command" i
+setCompressLevel
+endsnippet
+
+snippet setCycleBudgetRatio "Innovus command" i
+setCycleBudgetRatio
+endsnippet
+
+snippet setDbGetMode "Innovus command" i
+setDbGetMode
+endsnippet
+
+snippet setDefaultWorkspace "Innovus command" i
+setDefaultWorkspace
+endsnippet
+
+snippet setDelayCalMode "Innovus command" i
+setDelayCalMode
+endsnippet
+
+snippet setDelayFootPrint "Innovus command" i
+setDelayFootPrint
+endsnippet
+
+snippet setDensityMapMode "Innovus command" i
+setDensityMapMode
+endsnippet
+
+snippet setDesignMode "Innovus command" i
+setDesignMode
+endsnippet
+
+snippet setDistributeHost "Innovus command" i
+setDistributeHost
+endsnippet
+
+snippet setDontUse "Innovus command" i
+setDontUse
+endsnippet
+
+snippet setDrawView "Innovus command" i
+setDrawView
+endsnippet
+
+snippet setEcoMode "Innovus command" i
+setEcoMode
+endsnippet
+
+snippet setEdit "Innovus command" i
+setEdit
+endsnippet
+
+snippet setEndCapMode "Innovus command" i
+setEndCapMode
+endsnippet
+
+snippet setExportMode "Innovus command" i
+setExportMode
+endsnippet
+
+snippet setExtractRCMode "Innovus command" i
+setExtractRCMode
+endsnippet
+
+snippet setFPlanMode "Innovus command" i
+setFPlanMode
+endsnippet
+
+snippet setFPlanRowSpacingAndType "Innovus command" i
+setFPlanRowSpacingAndType
+endsnippet
+
+snippet setFillerMode "Innovus command" i
+setFillerMode
+endsnippet
+
+snippet setFinishFPlanMode "Innovus command" i
+setFinishFPlanMode
+endsnippet
+
+snippet setFixedBlockSize "Innovus command" i
+setFixedBlockSize
+endsnippet
+
+snippet setFixedBudget "Innovus command" i
+setFixedBudget
+endsnippet
+
+snippet setFlipChipMode "Innovus command" i
+setFlipChipMode
+endsnippet
+
+snippet setFlipping "Innovus command" i
+setFlipping
+endsnippet
+
+snippet setGenerateViaMode "Innovus command" i
+setGenerateViaMode
+endsnippet
+
+snippet setHInstColorId "Innovus command" i
+setHInstColorId
+endsnippet
+
+snippet setHierMode "Innovus command" i
+setHierMode
+endsnippet
+
+snippet setIlmMode "Innovus command" i
+setIlmMode
+endsnippet
+
+snippet setIlmType "Innovus command" i
+setIlmType
+endsnippet
+
+snippet setImportMode "Innovus command" i
+setImportMode
+endsnippet
+
+snippet setInstGroupPhyHier "Innovus command" i
+setInstGroupPhyHier
+endsnippet
+
+snippet setInstancePlacementStatus "Innovus command" i
+setInstancePlacementStatus
+endsnippet
+
+snippet setIntegRouteConstraint "Innovus command" i
+setIntegRouteConstraint
+endsnippet
+
+snippet setInvFootPrint "Innovus command" i
+setInvFootPrint
+endsnippet
+
+snippet setIoFlowFlag "Innovus command" i
+setIoFlowFlag
+endsnippet
+
+snippet setIoRowMargin "Innovus command" i
+setIoRowMargin
+endsnippet
+
+snippet setIsolatedCutRule "Innovus command" i
+setIsolatedCutRule
+endsnippet
+
+snippet setLatencyFile "Innovus command" i
+setLatencyFile
+endsnippet
+
+snippet setLayerPreference "Innovus command" i
+setLayerPreference
+endsnippet
+
+snippet setLibraryUnit "Innovus command" i
+setLibraryUnit
+endsnippet
+
+snippet setLicenseCheck "Innovus command" i
+setLicenseCheck
+endsnippet
+
+snippet setLimitedAccessFeature "Innovus command" i
+setLimitedAccessFeature
+endsnippet
+
+snippet setMaxCapPerFreq "Innovus command" i
+setMaxCapPerFreq
+endsnippet
+
+snippet setMaxCapPerFreqTran "Innovus command" i
+setMaxCapPerFreqTran
+endsnippet
+
+snippet setMaxRouteLayer "Innovus command" i
+setMaxRouteLayer
+endsnippet
+
+snippet setMaxTranPerFreq "Innovus command" i
+setMaxTranPerFreq
+endsnippet
+
+snippet setMessageLimit "Innovus command" i
+setMessageLimit
+endsnippet
+
+snippet setMetalFill "Innovus command" i
+setMetalFill
+endsnippet
+
+snippet setMetalFillSpacingTable "Innovus command" i
+setMetalFillSpacingTable
+endsnippet
+
+snippet setModuleView "Innovus command" i
+setModuleView
+endsnippet
+
+snippet setMsvMode "Innovus command" i
+setMsvMode
+endsnippet
+
+snippet setMultiColorsHier "Innovus command" i
+setMultiColorsHier
+endsnippet
+
+snippet setMultiCpuUsage "Innovus command" i
+setMultiCpuUsage
+endsnippet
+
+snippet setNanoRouteMode "Innovus command" i
+setNanoRouteMode
+endsnippet
+
+snippet setNet "Innovus command" i
+setNet
+endsnippet
+
+snippet setOasisOutMode "Innovus command" i
+setOasisOutMode
+endsnippet
+
+snippet setOaxMode "Innovus command" i
+setOaxMode
+endsnippet
+
+snippet setObjFPlanBox "Innovus command" i
+setObjFPlanBox
+endsnippet
+
+snippet setObjFPlanBoxList "Innovus command" i
+setObjFPlanBoxList
+endsnippet
+
+snippet setObjFPlanPolygon "Innovus command" i
+setObjFPlanPolygon
+endsnippet
+
+snippet setOptMode "Innovus command" i
+setOptMode
+endsnippet
+
+snippet setOutboundReport "Innovus command" i
+setOutboundReport
+endsnippet
+
+snippet setPGPinUseSignalRoute "Innovus command" i
+setPGPinUseSignalRoute
+endsnippet
+
+snippet setPathGroupOptions "Innovus command" i
+setPathGroupOptions
+endsnippet
+
+snippet setPinAssignMode "Innovus command" i
+setPinAssignMode
+endsnippet
+
+snippet setPinConstraint "Innovus command" i
+setPinConstraint
+endsnippet
+
+snippet setPinDensityMapMode "Innovus command" i
+setPinDensityMapMode
+endsnippet
+
+snippet setPlaceMode "Innovus command" i
+setPlaceMode
+endsnippet
+
+snippet setPlanDesignMode "Innovus command" i
+setPlanDesignMode
+endsnippet
+
+snippet setPreference "Innovus command" i
+setPreference
+endsnippet
+
+snippet setProbePin "Innovus command" i
+setProbePin
+endsnippet
+
+snippet setPromotedMacroPin "Innovus command" i
+setPromotedMacroPin
+endsnippet
+
+snippet setPtnPinStatus "Innovus command" i
+setPtnPinStatus
+endsnippet
+
+snippet setPtnPinUSE "Innovus command" i
+setPtnPinUSE
+endsnippet
+
+snippet setPtnUserCnsFile "Innovus command" i
+setPtnUserCnsFile
+endsnippet
+
+snippet setRCPOptMode "Innovus command" i
+setRCPOptMode
+endsnippet
+
+snippet setRailPrototypeMode "Innovus command" i
+setRailPrototypeMode
+endsnippet
+
+snippet setResizeFPlanMode "Innovus command" i
+setResizeFPlanMode
+endsnippet
+
+snippet setResizeLine "Innovus command" i
+setResizeLine
+endsnippet
+
+snippet setRouteBlkDefaultLayer "Innovus command" i
+setRouteBlkDefaultLayer
+endsnippet
+
+snippet setRouteMode "Innovus command" i
+setRouteMode
+endsnippet
+
+snippet setSIMode "Innovus command" i
+setSIMode
+endsnippet
+
+snippet setScanReorderMode "Innovus command" i
+setScanReorderMode
+endsnippet
+
+snippet setSchedulingFile "Innovus command" i
+setSchedulingFile
+endsnippet
+
+snippet setSelHInstColor "Innovus command" i
+setSelHInstColor
+endsnippet
+
+snippet setSelectedDensityArea "Innovus command" i
+setSelectedDensityArea
+endsnippet
+
+snippet setSelectedObstruct "Innovus command" i
+setSelectedObstruct
+endsnippet
+
+snippet setSelectedPtnCut "Innovus command" i
+setSelectedPtnCut
+endsnippet
+
+snippet setSelectedPtnFeedthrough "Innovus command" i
+setSelectedPtnFeedthrough
+endsnippet
+
+snippet setSelectedPtnPinBlk "Innovus command" i
+setSelectedPtnPinBlk
+endsnippet
+
+snippet setSelectedPtnPinGuide "Innovus command" i
+setSelectedPtnPinGuide
+endsnippet
+
+snippet setSelectedRouteBlk "Innovus command" i
+setSelectedRouteBlk
+endsnippet
+
+snippet setSelectedStripBoxShape "Innovus command" i
+setSelectedStripBoxShape
+endsnippet
+
+snippet setSelectedStripBoxState "Innovus command" i
+setSelectedStripBoxState
+endsnippet
+
+snippet setSelectedWireState "Innovus command" i
+setSelectedWireState
+endsnippet
+
+snippet setShrinkFactor "Innovus command" i
+setShrinkFactor
+endsnippet
+
+snippet setSignoffOptMode "Innovus command" i
+setSignoffOptMode
+endsnippet
+
+snippet setSnapGrid "Innovus command" i
+setSnapGrid
+endsnippet
+
+snippet setSpecialRouteType "Innovus command" i
+setSpecialRouteType
+endsnippet
+
+snippet setSrouteMode "Innovus command" i
+setSrouteMode
+endsnippet
+
+snippet setStreamOutMode "Innovus command" i
+setStreamOutMode
+endsnippet
+
+snippet setTieHiLoMode "Innovus command" i
+setTieHiLoMode
+endsnippet
+
+snippet setTopCell "Innovus command" i
+setTopCell
+endsnippet
+
+snippet setUsefulSkewMode "Innovus command" i
+setUsefulSkewMode
+endsnippet
+
+snippet setVerifyGeometryMode "Innovus command" i
+setVerifyGeometryMode
+endsnippet
+
+snippet setViaEdit "Innovus command" i
+setViaEdit
+endsnippet
+
+snippet setViaFill "Innovus command" i
+setViaFill
+endsnippet
+
+snippet setViaGenMode "Innovus command" i
+setViaGenMode
+endsnippet
+
+snippet setWhatIfClockLatency "Innovus command" i
+setWhatIfClockLatency
+endsnippet
+
+snippet setWhatIfClockPort "Innovus command" i
+setWhatIfClockPort
+endsnippet
+
+snippet setWhatIfCombDelay "Innovus command" i
+setWhatIfCombDelay
+endsnippet
+
+snippet setWhatIfDriveType "Innovus command" i
+setWhatIfDriveType
+endsnippet
+
+snippet setWhatIfLoadType "Innovus command" i
+setWhatIfLoadType
+endsnippet
+
+snippet setWhatIfPortParameters "Innovus command" i
+setWhatIfPortParameters
+endsnippet
+
+snippet setWhatIfPortPriority "Innovus command" i
+setWhatIfPortPriority
+endsnippet
+
+snippet setWhatIfSeqDelay "Innovus command" i
+setWhatIfSeqDelay
+endsnippet
+
+snippet setWhatIfTimingCheck "Innovus command" i
+setWhatIfTimingCheck
+endsnippet
+
+snippet setWhatIfTimingMode "Innovus command" i
+setWhatIfTimingMode
+endsnippet
+
+snippet setWindowPreference "Innovus command" i
+setWindowPreference
+endsnippet
+
+snippet setWireDelayFactor "Innovus command" i
+setWireDelayFactor
+endsnippet
+
+snippet set_abstract_mode "Innovus command" i
+set_abstract_mode
+endsnippet
+
+snippet set_active_clocks "Innovus command" i
+set_active_clocks
+endsnippet
+
+snippet set_advanced_package_options "Innovus command" i
+set_advanced_package_options
+endsnippet
+
+snippet set_advanced_pg_library_mode "Innovus command" i
+set_advanced_pg_library_mode
+endsnippet
+
+snippet set_advanced_rail_options "Innovus command" i
+set_advanced_rail_options
+endsnippet
+
+snippet set_analysis_view "Innovus command" i
+set_analysis_view
+endsnippet
+
+snippet set_annotated_check "Innovus command" i
+set_annotated_check
+endsnippet
+
+snippet set_annotated_delay "Innovus command" i
+set_annotated_delay
+endsnippet
+
+snippet set_annotated_glitch "Innovus command" i
+set_annotated_glitch
+endsnippet
+
+snippet set_annotated_transition "Innovus command" i
+set_annotated_transition
+endsnippet
+
+snippet set_aocv_interface_path_offset "Innovus command" i
+set_aocv_interface_path_offset
+endsnippet
+
+snippet set_aocv_stage_weight "Innovus command" i
+set_aocv_stage_weight
+endsnippet
+
+snippet set_aocv_thresholds "Innovus command" i
+set_aocv_thresholds
+endsnippet
+
+snippet set_case_analysis "Innovus command" i
+set_case_analysis
+endsnippet
+
+snippet set_ccopt_mode "Innovus command" i
+set_ccopt_mode
+endsnippet
+
+snippet set_ccopt_preserved_clock_tree_port "Innovus command" i
+set_ccopt_preserved_clock_tree_port
+endsnippet
+
+snippet set_ccopt_property "Innovus command" i
+set_ccopt_property
+endsnippet
+
+snippet set_cdb_binding "Innovus command" i
+set_cdb_binding
+endsnippet
+
+snippet set_cell_binding "Innovus command" i
+set_cell_binding
+endsnippet
+
+snippet set_cell_power_domain "Innovus command" i
+set_cell_power_domain
+endsnippet
+
+snippet set_clock_exclusivity "Innovus command" i
+set_clock_exclusivity
+endsnippet
+
+snippet set_clock_gating_check "Innovus command" i
+set_clock_gating_check
+endsnippet
+
+snippet set_clock_groups "Innovus command" i
+set_clock_groups
+endsnippet
+
+snippet set_clock_latency "Innovus command" i
+set_clock_latency
+endsnippet
+
+snippet set_clock_sense "Innovus command" i
+set_clock_sense
+endsnippet
+
+snippet set_clock_transition "Innovus command" i
+set_clock_transition
+endsnippet
+
+snippet set_clock_uncertainty "Innovus command" i
+set_clock_uncertainty
+endsnippet
+
+snippet set_ctd_win_title "Innovus command" i
+set_ctd_win_title
+endsnippet
+
+snippet set_data_check "Innovus command" i
+set_data_check
+endsnippet
+
+snippet set_default_switching_activity "Innovus command" i
+set_default_switching_activity
+endsnippet
+
+snippet set_default_view "Innovus command" i
+set_default_view
+endsnippet
+
+snippet set_disable_clock_gating_check "Innovus command" i
+set_disable_clock_gating_check
+endsnippet
+
+snippet set_disable_timing "Innovus command" i
+set_disable_timing
+endsnippet
+
+snippet set_dont_touch "Innovus command" i
+set_dont_touch
+endsnippet
+
+snippet set_dont_touch_network "Innovus command" i
+set_dont_touch_network
+endsnippet
+
+snippet set_dont_use "Innovus command" i
+set_dont_use
+endsnippet
+
+snippet set_drive "Innovus command" i
+set_drive
+endsnippet
+
+snippet set_driving_cell "Innovus command" i
+set_driving_cell
+endsnippet
+
+snippet set_dynamic_power_simulation "Innovus command" i
+set_dynamic_power_simulation
+endsnippet
+
+snippet set_dynamic_rail_simulation "Innovus command" i
+set_dynamic_rail_simulation
+endsnippet
+
+snippet set_false_path "Innovus command" i
+set_false_path
+endsnippet
+
+snippet set_fanout_load "Innovus command" i
+set_fanout_load
+endsnippet
+
+snippet set_glitch_threshold "Innovus command" i
+set_glitch_threshold
+endsnippet
+
+snippet set_global "Innovus command" i
+set_global
+endsnippet
+
+snippet set_guard_band_derate "Innovus command" i
+set_guard_band_derate
+endsnippet
+
+snippet set_ideal_latency "Innovus command" i
+set_ideal_latency
+endsnippet
+
+snippet set_ideal_network "Innovus command" i
+set_ideal_network
+endsnippet
+
+snippet set_ideal_transition "Innovus command" i
+set_ideal_transition
+endsnippet
+
+snippet set_input_delay "Innovus command" i
+set_input_delay
+endsnippet
+
+snippet set_input_transition "Innovus command" i
+set_input_transition
+endsnippet
+
+snippet set_inst_temperature_file "Innovus command" i
+set_inst_temperature_file
+endsnippet
+
+snippet set_interactive_constraint_modes "Innovus command" i
+set_interactive_constraint_modes
+endsnippet
+
+snippet set_io_thresholds "Innovus command" i
+set_io_thresholds
+endsnippet
+
+snippet set_library_attribute "Innovus command" i
+set_library_attribute
+endsnippet
+
+snippet set_load "Innovus command" i
+set_load
+endsnippet
+
+snippet set_logic_one "Innovus command" i
+set_logic_one
+endsnippet
+
+snippet set_logic_zero "Innovus command" i
+set_logic_zero
+endsnippet
+
+snippet set_max_capacitance "Innovus command" i
+set_max_capacitance
+endsnippet
+
+snippet set_max_delay "Innovus command" i
+set_max_delay
+endsnippet
+
+snippet set_max_fanout "Innovus command" i
+set_max_fanout
+endsnippet
+
+snippet set_max_time_borrow "Innovus command" i
+set_max_time_borrow
+endsnippet
+
+snippet set_max_transition "Innovus command" i
+set_max_transition
+endsnippet
+
+snippet set_message "Innovus command" i
+set_message
+endsnippet
+
+snippet set_min_capacitance "Innovus command" i
+set_min_capacitance
+endsnippet
+
+snippet set_min_delay "Innovus command" i
+set_min_delay
+endsnippet
+
+snippet set_min_fanout "Innovus command" i
+set_min_fanout
+endsnippet
+
+snippet set_min_pulse_width "Innovus command" i
+set_min_pulse_width
+endsnippet
+
+snippet set_min_transition "Innovus command" i
+set_min_transition
+endsnippet
+
+snippet set_mode "Innovus command" i
+set_mode
+endsnippet
+
+snippet set_model_priority "Innovus command" i
+set_model_priority
+endsnippet
+
+snippet set_multi_die_analysis_mode "Innovus command" i
+set_multi_die_analysis_mode
+endsnippet
+
+snippet set_multicycle_path "Innovus command" i
+set_multicycle_path
+endsnippet
+
+snippet set_net_group "Innovus command" i
+set_net_group
+endsnippet
+
+snippet set_noise_lib_pin "Innovus command" i
+set_noise_lib_pin
+endsnippet
+
+snippet set_normalized_driver_waveform_lib "Innovus command" i
+set_normalized_driver_waveform_lib
+endsnippet
+
+snippet set_object_color "Innovus command" i
+set_object_color
+endsnippet
+
+snippet set_output_delay "Innovus command" i
+set_output_delay
+endsnippet
+
+snippet set_package "Innovus command" i
+set_package
+endsnippet
+
+snippet set_path_adjust "Innovus command" i
+set_path_adjust
+endsnippet
+
+snippet set_path_adjust_group "Innovus command" i
+set_path_adjust_group
+endsnippet
+
+snippet set_pg_library_mode "Innovus command" i
+set_pg_library_mode
+endsnippet
+
+snippet set_pg_nets "Innovus command" i
+set_pg_nets
+endsnippet
+
+snippet set_pll_timing "Innovus command" i
+set_pll_timing
+endsnippet
+
+snippet set_power "Innovus command" i
+set_power
+endsnippet
+
+snippet set_power_analysis_mode "Innovus command" i
+set_power_analysis_mode
+endsnippet
+
+snippet set_power_calc_temperature "Innovus command" i
+set_power_calc_temperature
+endsnippet
+
+snippet set_power_data "Innovus command" i
+set_power_data
+endsnippet
+
+snippet set_power_include_file "Innovus command" i
+set_power_include_file
+endsnippet
+
+snippet set_power_network_optimization_mode "Innovus command" i
+set_power_network_optimization_mode
+endsnippet
+
+snippet set_power_output_dir "Innovus command" i
+set_power_output_dir
+endsnippet
+
+snippet set_power_pads "Innovus command" i
+set_power_pads
+endsnippet
+
+snippet set_power_rail_display "Innovus command" i
+set_power_rail_display
+endsnippet
+
+snippet set_power_rail_layers_nets "Innovus command" i
+set_power_rail_layers_nets
+endsnippet
+
+snippet set_propagated_clock "Innovus command" i
+set_propagated_clock
+endsnippet
+
+snippet set_property "Innovus command" i
+set_property
+endsnippet
+
+snippet set_proto_design_mode "Innovus command" i
+set_proto_design_mode
+endsnippet
+
+snippet set_proto_mode "Innovus command" i
+set_proto_mode
+endsnippet
+
+snippet set_proto_model "Innovus command" i
+set_proto_model
+endsnippet
+
+snippet set_proto_model_physical_constraint "Innovus command" i
+set_proto_model_physical_constraint
+endsnippet
+
+snippet set_proto_timing_settings "Innovus command" i
+set_proto_timing_settings
+endsnippet
+
+snippet set_ptn_fplan_mode "Innovus command" i
+set_ptn_fplan_mode
+endsnippet
+
+snippet set_pulse_clock_max_transition "Innovus command" i
+set_pulse_clock_max_transition
+endsnippet
+
+snippet set_pulse_clock_max_width "Innovus command" i
+set_pulse_clock_max_width
+endsnippet
+
+snippet set_pulse_clock_min_transition "Innovus command" i
+set_pulse_clock_min_transition
+endsnippet
+
+snippet set_pulse_clock_min_width "Innovus command" i
+set_pulse_clock_min_width
+endsnippet
+
+snippet set_quiet_attacker "Innovus command" i
+set_quiet_attacker
+endsnippet
+
+snippet set_rail_analysis_domain "Innovus command" i
+set_rail_analysis_domain
+endsnippet
+
+snippet set_rail_analysis_mode "Innovus command" i
+set_rail_analysis_mode
+endsnippet
+
+snippet set_resistance "Innovus command" i
+set_resistance
+endsnippet
+
+snippet set_socv_rc_variation_factor "Innovus command" i
+set_socv_rc_variation_factor
+endsnippet
+
+snippet set_switching_activity "Innovus command" i
+set_switching_activity
+endsnippet
+
+snippet set_table_style "Innovus command" i
+set_table_style
+endsnippet
+
+snippet set_timing_derate "Innovus command" i
+set_timing_derate
+endsnippet
+
+snippet set_trace_obj_connectivity_mode "Innovus command" i
+set_trace_obj_connectivity_mode
+endsnippet
+
+snippet set_twf_attribute "Innovus command" i
+set_twf_attribute
+endsnippet
+
+snippet set_verify_drc_mode "Innovus command" i
+set_verify_drc_mode
+endsnippet
+
+snippet set_via_pillars "Innovus command" i
+set_via_pillars
+endsnippet
+
+snippet set_virtual_clock_network_parameters "Innovus command" i
+set_virtual_clock_network_parameters
+endsnippet
+
+snippet set_visible_nets "Innovus command" i
+set_visible_nets
+endsnippet
+
+snippet set_voltage_regulator_module "Innovus command" i
+set_voltage_regulator_module
+endsnippet
+
+snippet set_well_tap_mode "Innovus command" i
+set_well_tap_mode
+endsnippet
+
+snippet set_wire_load_mode "Innovus command" i
+set_wire_load_mode
+endsnippet
+
+snippet set_wire_load_model "Innovus command" i
+set_wire_load_model
+endsnippet
+
+snippet set_wire_load_selection_group "Innovus command" i
+set_wire_load_selection_group
+endsnippet
+
+snippet shiftObject "Innovus command" i
+shiftObject
+endsnippet
+
+snippet shiftOrigin "Innovus command" i
+shiftOrigin
+endsnippet
+
+snippet showPtnWireX "Innovus command" i
+showPtnWireX
+endsnippet
+
+snippet show_ccopt_cell_name_info "Innovus command" i
+show_ccopt_cell_name_info
+endsnippet
+
+snippet signoffOptDesign "Innovus command" i
+signoffOptDesign
+endsnippet
+
+snippet signoffTimeDesign "Innovus command" i
+signoffTimeDesign
+endsnippet
+
+snippet sizeof_collection "Innovus command" i
+sizeof_collection
+endsnippet
+
+snippet skewClock "Innovus command" i
+skewClock
+endsnippet
+
+snippet snapFPlan "Innovus command" i
+snapFPlan
+endsnippet
+
+snippet snapFPlanIO "Innovus command" i
+snapFPlanIO
+endsnippet
+
+snippet snapPtnPinsToTracks "Innovus command" i
+snapPtnPinsToTracks
+endsnippet
+
+snippet soft_stack_size_limit "Innovus command" i
+soft_stack_size_limit
+endsnippet
+
+snippet sort_collection "Innovus command" i
+sort_collection
+endsnippet
+
+snippet source "Innovus command" i
+source
+endsnippet
+
+snippet spaceBondPad "Innovus command" i
+spaceBondPad
+endsnippet
+
+snippet spaceIoInst "Innovus command" i
+spaceIoInst
+endsnippet
+
+snippet spaceObject "Innovus command" i
+spaceObject
+endsnippet
+
+snippet specifyBlackBox "Innovus command" i
+specifyBlackBox
+endsnippet
+
+snippet specifyCellEdgeSpacing "Innovus command" i
+specifyCellEdgeSpacing
+endsnippet
+
+snippet specifyCellEdgeType "Innovus command" i
+specifyCellEdgeType
+endsnippet
+
+snippet specifyCellPad "Innovus command" i
+specifyCellPad
+endsnippet
+
+snippet specifyIlm "Innovus command" i
+specifyIlm
+endsnippet
+
+snippet specifyInstPad "Innovus command" i
+specifyInstPad
+endsnippet
+
+snippet specifyJtag "Innovus command" i
+specifyJtag
+endsnippet
+
+snippet specifyLockupElement "Innovus command" i
+specifyLockupElement
+endsnippet
+
+snippet specifyNetWeight "Innovus command" i
+specifyNetWeight
+endsnippet
+
+snippet specifyPartition "Innovus command" i
+specifyPartition
+endsnippet
+
+snippet specifyScanCell "Innovus command" i
+specifyScanCell
+endsnippet
+
+snippet specifyScanChain "Innovus command" i
+specifyScanChain
+endsnippet
+
+snippet specifyScanChainPartition "Innovus command" i
+specifyScanChainPartition
+endsnippet
+
+snippet specifySelectiveBlkgGate "Innovus command" i
+specifySelectiveBlkgGate
+endsnippet
+
+snippet specifySpareGate "Innovus command" i
+specifySpareGate
+endsnippet
+
+snippet specify_lib "Innovus command" i
+specify_lib
+endsnippet
+
+snippet specify_pg_keepout "Innovus command" i
+specify_pg_keepout
+endsnippet
+
+snippet spefIn "Innovus command" i
+spefIn
+endsnippet
+
+snippet spgM3StripePushDown "Innovus command" i
+spgM3StripePushDown
+endsnippet
+
+snippet spgM3StripeShrink "Innovus command" i
+spgM3StripeShrink
+endsnippet
+
+snippet sroute "Innovus command" i
+sroute
+endsnippet
+
+snippet staggerBondPad "Innovus command" i
+staggerBondPad
+endsnippet
+
+snippet start_parallel_edit "Innovus command" i
+start_parallel_edit
+endsnippet
+
+snippet start_record "Innovus command" i
+start_record
+endsnippet
+
+snippet start_replay_session "Innovus command" i
+start_replay_session
+endsnippet
+
+snippet streamOut "Innovus command" i
+streamOut
+endsnippet
+
+snippet stretchRows "Innovus command" i
+stretchRows
+endsnippet
+
+snippet summaryReport "Innovus command" i
+summaryReport
+endsnippet
+
+snippet suppressMessage "Innovus command" i
+suppressMessage
+endsnippet
+
+snippet suspend "Innovus command" i
+suspend
+endsnippet
+
+snippet swapPins "Innovus command" i
+swapPins
+endsnippet
+
+snippet swapSignal "Innovus command" i
+swapSignal
+endsnippet
+
+snippet swap_well_taps "Innovus command" i
+swap_well_taps
+endsnippet
+
+snippet synthesize_ccopt_flexible_htrees "Innovus command" i
+synthesize_ccopt_flexible_htrees
+endsnippet
+
+snippet timeDesign "Innovus command" i
+timeDesign
+endsnippet
+
+snippet timing_all_registers_include_icg_cells "Innovus command" i
+timing_all_registers_include_icg_cells
+endsnippet
+
+snippet timing_allow_input_delay_on_clock_source "Innovus command" i
+timing_allow_input_delay_on_clock_source
+endsnippet
+
+snippet timing_analysis_precision_ps "Innovus command" i
+timing_analysis_precision_ps
+endsnippet
+
+snippet timing_aocv_analysis_mode "Innovus command" i
+timing_aocv_analysis_mode
+endsnippet
+
+snippet timing_aocv_derate_mode "Innovus command" i
+timing_aocv_derate_mode
+endsnippet
+
+snippet timing_aocv_slack_threshold "Innovus command" i
+timing_aocv_slack_threshold
+endsnippet
+
+snippet timing_aocv_stage_count_recalculate_on_timing_reset "Innovus command" i
+timing_aocv_stage_count_recalculate_on_timing_reset
+endsnippet
+
+snippet timing_apply_check_derate_to_external_output_delay "Innovus command" i
+timing_apply_check_derate_to_external_output_delay
+endsnippet
+
+snippet timing_apply_default_primary_input_assertion "Innovus command" i
+timing_apply_default_primary_input_assertion
+endsnippet
+
+snippet timing_apply_exceptions_to_data_check_related_pin "Innovus command" i
+timing_apply_exceptions_to_data_check_related_pin
+endsnippet
+
+snippet timing_build_all_hierarchical_pins "Innovus command" i
+timing_build_all_hierarchical_pins
+endsnippet
+
+snippet timing_cap_unit "Innovus command" i
+timing_cap_unit
+endsnippet
+
+snippet timing_case_analysis_for_icg_propagation "Innovus command" i
+timing_case_analysis_for_icg_propagation
+endsnippet
+
+snippet timing_case_analysis_for_sequential_propagation "Innovus command" i
+timing_case_analysis_for_sequential_propagation
+endsnippet
+
+snippet timing_check_timing_report_all_checks "Innovus command" i
+timing_check_timing_report_all_checks
+endsnippet
+
+snippet timing_clock_phase_propagation "Innovus command" i
+timing_clock_phase_propagation
+endsnippet
+
+snippet timing_clock_sense_incremental_mode "Innovus command" i
+timing_clock_sense_incremental_mode
+endsnippet
+
+snippet timing_clock_source_use_driving_cell "Innovus command" i
+timing_clock_source_use_driving_cell
+endsnippet
+
+snippet timing_collection_result_display_limit "Innovus command" i
+timing_collection_result_display_limit
+endsnippet
+
+snippet timing_collection_variable_assignment_compatibility "Innovus command" i
+timing_collection_variable_assignment_compatibility
+endsnippet
+
+snippet timing_constraint_disable_min_max_input_delay_worst_casing "Innovus command" i
+timing_constraint_disable_min_max_input_delay_worst_casing
+endsnippet
+
+snippet timing_constraint_enable_logging "Innovus command" i
+timing_constraint_enable_logging
+endsnippet
+
+snippet timing_constraint_enable_report_invalid_begin_end_points "Innovus command" i
+timing_constraint_enable_report_invalid_begin_end_points
+endsnippet
+
+snippet timing_constraint_enable_search_path "Innovus command" i
+timing_constraint_enable_search_path
+endsnippet
+
+snippet timing_continue_on_error "Innovus command" i
+timing_continue_on_error
+endsnippet
+
+snippet timing_cppr_opposite_edge_mean_scale_factor "Innovus command" i
+timing_cppr_opposite_edge_mean_scale_factor
+endsnippet
+
+snippet timing_cppr_opposite_edge_sigma_scale_factor "Innovus command" i
+timing_cppr_opposite_edge_sigma_scale_factor
+endsnippet
+
+snippet timing_cppr_propagate_thru_latches "Innovus command" i
+timing_cppr_propagate_thru_latches
+endsnippet
+
+snippet timing_cppr_remove_clock_to_data_crp "Innovus command" i
+timing_cppr_remove_clock_to_data_crp
+endsnippet
+
+snippet timing_cppr_self_loop_mode "Innovus command" i
+timing_cppr_self_loop_mode
+endsnippet
+
+snippet timing_cppr_skip_clock_reconvergence "Innovus command" i
+timing_cppr_skip_clock_reconvergence
+endsnippet
+
+snippet timing_cppr_threshold_ps "Innovus command" i
+timing_cppr_threshold_ps
+endsnippet
+
+snippet timing_cppr_transition_sense "Innovus command" i
+timing_cppr_transition_sense
+endsnippet
+
+snippet timing_create_clock_default_propagated "Innovus command" i
+timing_create_clock_default_propagated
+endsnippet
+
+snippet timing_create_clock_use_ideal_slew "Innovus command" i
+timing_create_clock_use_ideal_slew
+endsnippet
+
+snippet timing_default_opcond_per_lib "Innovus command" i
+timing_default_opcond_per_lib
+endsnippet
+
+snippet timing_defer_mmmc_object_updates "Innovus command" i
+timing_defer_mmmc_object_updates
+endsnippet
+
+snippet timing_derate_aocv_dynamic_delays "Innovus command" i
+timing_derate_aocv_dynamic_delays
+endsnippet
+
+snippet timing_derate_aocv_reference_point "Innovus command" i
+timing_derate_aocv_reference_point
+endsnippet
+
+snippet timing_derate_dynamic_compatibility "Innovus command" i
+timing_derate_dynamic_compatibility
+endsnippet
+
+snippet timing_derate_ocv_reference_point "Innovus command" i
+timing_derate_ocv_reference_point
+endsnippet
+
+snippet timing_derate_spatial_distance_unit "Innovus command" i
+timing_derate_spatial_distance_unit
+endsnippet
+
+snippet timing_disable_bidi_output_timing_checks "Innovus command" i
+timing_disable_bidi_output_timing_checks
+endsnippet
+
+snippet timing_disable_bus_contention_check "Innovus command" i
+timing_disable_bus_contention_check
+endsnippet
+
+snippet timing_disable_clock_gating_checks "Innovus command" i
+timing_disable_clock_gating_checks
+endsnippet
+
+snippet timing_disable_clockperiod_checks "Innovus command" i
+timing_disable_clockperiod_checks
+endsnippet
+
+snippet timing_disable_drv_reports_on_constant_nets "Innovus command" i
+timing_disable_drv_reports_on_constant_nets
+endsnippet
+
+snippet timing_disable_floating_bus_check "Innovus command" i
+timing_disable_floating_bus_check
+endsnippet
+
+snippet timing_disable_genclk_combinational_blocking "Innovus command" i
+timing_disable_genclk_combinational_blocking
+endsnippet
+
+snippet timing_disable_inferred_clock_gating_checks "Innovus command" i
+timing_disable_inferred_clock_gating_checks
+endsnippet
+
+snippet timing_disable_internal_inout_cell_paths "Innovus command" i
+timing_disable_internal_inout_cell_paths
+endsnippet
+
+snippet timing_disable_internal_inout_net_arcs "Innovus command" i
+timing_disable_internal_inout_net_arcs
+endsnippet
+
+snippet timing_disable_invalid_clock_check "Innovus command" i
+timing_disable_invalid_clock_check
+endsnippet
+
+snippet timing_disable_lib_pulsewidth_checks "Innovus command" i
+timing_disable_lib_pulsewidth_checks
+endsnippet
+
+snippet timing_disable_library_data_to_data_checks "Innovus command" i
+timing_disable_library_data_to_data_checks
+endsnippet
+
+snippet timing_disable_library_tiehi_tielo "Innovus command" i
+timing_disable_library_tiehi_tielo
+endsnippet
+
+snippet timing_disable_netlist_constants "Innovus command" i
+timing_disable_netlist_constants
+endsnippet
+
+snippet timing_disable_nochange_checks "Innovus command" i
+timing_disable_nochange_checks
+endsnippet
+
+snippet timing_disable_non_sequential_checks "Innovus command" i
+timing_disable_non_sequential_checks
+endsnippet
+
+snippet timing_disable_output_as_clock_port "Innovus command" i
+timing_disable_output_as_clock_port
+endsnippet
+
+snippet timing_disable_recovery_removal_checks "Innovus command" i
+timing_disable_recovery_removal_checks
+endsnippet
+
+snippet timing_disable_report_header_info "Innovus command" i
+timing_disable_report_header_info
+endsnippet
+
+snippet timing_disable_retime_clock_path_slew_propagation "Innovus command" i
+timing_disable_retime_clock_path_slew_propagation
+endsnippet
+
+snippet timing_disable_sdf_retain_arc_merging "Innovus command" i
+timing_disable_sdf_retain_arc_merging
+endsnippet
+
+snippet timing_disable_set_case_analysis "Innovus command" i
+timing_disable_set_case_analysis
+endsnippet
+
+snippet timing_disable_skew_checks "Innovus command" i
+timing_disable_skew_checks
+endsnippet
+
+snippet timing_disable_test_signal_arc "Innovus command" i
+timing_disable_test_signal_arc
+endsnippet
+
+snippet timing_disable_timing_model_latch_inferencing "Innovus command" i
+timing_disable_timing_model_latch_inferencing
+endsnippet
+
+snippet timing_disable_tristate_disable_arcs "Innovus command" i
+timing_disable_tristate_disable_arcs
+endsnippet
+
+snippet timing_disable_user_data_to_data_checks "Innovus command" i
+timing_disable_user_data_to_data_checks
+endsnippet
+
+snippet timing_driving_cell_override_library "Innovus command" i
+timing_driving_cell_override_library
+endsnippet
+
+snippet timing_dynamic_loop_breaking "Innovus command" i
+timing_dynamic_loop_breaking
+endsnippet
+
+snippet timing_enable_all_fanin_fanout_levels_compatibility "Innovus command" i
+timing_enable_all_fanin_fanout_levels_compatibility
+endsnippet
+
+snippet timing_enable_aocv_slack_based "Innovus command" i
+timing_enable_aocv_slack_based
+endsnippet
+
+snippet timing_enable_backward_compatible_path_adjust_mode "Innovus command" i
+timing_enable_backward_compatible_path_adjust_mode
+endsnippet
+
+snippet timing_enable_case_analysis_conflict_warning "Innovus command" i
+timing_enable_case_analysis_conflict_warning
+endsnippet
+
+snippet timing_enable_clock2clock_clockgating_check "Innovus command" i
+timing_enable_clock2clock_clockgating_check
+endsnippet
+
+snippet timing_enable_clock_phase_based_rise_fall_derating "Innovus command" i
+timing_enable_clock_phase_based_rise_fall_derating
+endsnippet
+
+snippet timing_enable_data_through_clock_gating "Innovus command" i
+timing_enable_data_through_clock_gating
+endsnippet
+
+snippet timing_enable_default_delay_arc "Innovus command" i
+timing_enable_default_delay_arc
+endsnippet
+
+snippet timing_enable_derating_for_pulsewidth_checks "Innovus command" i
+timing_enable_derating_for_pulsewidth_checks
+endsnippet
+
+snippet timing_enable_early_late_data_slews_for_setuphold_mode_checks "Innovus command" i
+timing_enable_early_late_data_slews_for_setuphold_mode_checks
+endsnippet
+
+snippet timing_enable_genclk_divide_by_inherit_parent_duty_cycle "Innovus command" i
+timing_enable_genclk_divide_by_inherit_parent_duty_cycle
+endsnippet
+
+snippet timing_enable_genclk_edge_based_source_latency "Innovus command" i
+timing_enable_genclk_edge_based_source_latency
+endsnippet
+
+snippet timing_enable_get_object_escaped_name_backward_compatible "Innovus command" i
+timing_enable_get_object_escaped_name_backward_compatible
+endsnippet
+
+snippet timing_enable_minmax_delay_segmentation "Innovus command" i
+timing_enable_minmax_delay_segmentation
+endsnippet
+
+snippet timing_enable_mmmc_loop_handling "Innovus command" i
+timing_enable_mmmc_loop_handling
+endsnippet
+
+snippet timing_enable_multi_drive_net_reduction_with_assertions "Innovus command" i
+timing_enable_multi_drive_net_reduction_with_assertions
+endsnippet
+
+snippet timing_enable_multi_threaded_reporting "Innovus command" i
+timing_enable_multi_threaded_reporting
+endsnippet
+
+snippet timing_enable_multifrequency_latch_analysis "Innovus command" i
+timing_enable_multifrequency_latch_analysis
+endsnippet
+
+snippet timing_enable_path_exception_to_pin_compatibility "Innovus command" i
+timing_enable_path_exception_to_pin_compatibility
+endsnippet
+
+snippet timing_enable_pessimistic_cppr_for_reconvergent_clock_paths "Innovus command" i
+timing_enable_pessimistic_cppr_for_reconvergent_clock_paths
+endsnippet
+
+snippet timing_enable_power_ground_constants "Innovus command" i
+timing_enable_power_ground_constants
+endsnippet
+
+snippet timing_enable_preset_clear_arcs "Innovus command" i
+timing_enable_preset_clear_arcs
+endsnippet
+
+snippet timing_enable_pulsed_latch "Innovus command" i
+timing_enable_pulsed_latch
+endsnippet
+
+snippet timing_enable_sdc_compatible_data_check_mcp "Innovus command" i
+timing_enable_sdc_compatible_data_check_mcp
+endsnippet
+
+snippet timing_enable_si_cppr "Innovus command" i
+timing_enable_si_cppr
+endsnippet
+
+snippet timing_enable_simultaneous_setup_hold_mode "Innovus command" i
+timing_enable_simultaneous_setup_hold_mode
+endsnippet
+
+snippet timing_enable_ssta_clock_only "Innovus command" i
+timing_enable_ssta_clock_only
+endsnippet
+
+snippet timing_enable_tristate_clock_gating "Innovus command" i
+timing_enable_tristate_clock_gating
+endsnippet
+
+snippet timing_enable_uncertainty_for_clock_checks "Innovus command" i
+timing_enable_uncertainty_for_clock_checks
+endsnippet
+
+snippet timing_enable_uncertainty_for_pulsewidth_checks "Innovus command" i
+timing_enable_uncertainty_for_pulsewidth_checks
+endsnippet
+
+snippet timing_extract_model_aocv_mode "Innovus command" i
+timing_extract_model_aocv_mode
+endsnippet
+
+snippet timing_extract_model_case_analysis_in_library "Innovus command" i
+timing_extract_model_case_analysis_in_library
+endsnippet
+
+snippet timing_extract_model_consider_design_level_drv "Innovus command" i
+timing_extract_model_consider_design_level_drv
+endsnippet
+
+snippet timing_extract_model_disable_cycle_adjustment "Innovus command" i
+timing_extract_model_disable_cycle_adjustment
+endsnippet
+
+snippet timing_extract_model_exhaustive_validation_dir "Innovus command" i
+timing_extract_model_exhaustive_validation_dir
+endsnippet
+
+snippet timing_extract_model_exhaustive_validation_mode "Innovus command" i
+timing_extract_model_exhaustive_validation_mode
+endsnippet
+
+snippet timing_extract_model_gating_as_nochange_arc "Innovus command" i
+timing_extract_model_gating_as_nochange_arc
+endsnippet
+
+snippet timing_extract_model_ideal_clock_latency_arc "Innovus command" i
+timing_extract_model_ideal_clock_latency_arc
+endsnippet
+
+snippet timing_extract_model_slew_propagation_mode "Innovus command" i
+timing_extract_model_slew_propagation_mode
+endsnippet
+
+snippet timing_extract_model_write_clock_checks_as_arc "Innovus command" i
+timing_extract_model_write_clock_checks_as_arc
+endsnippet
+
+snippet timing_extract_model_write_clock_checks_as_scalar_tables "Innovus command" i
+timing_extract_model_write_clock_checks_as_scalar_tables
+endsnippet
+
+snippet timing_generate_normalized_driver_waveform "Innovus command" i
+timing_generate_normalized_driver_waveform
+endsnippet
+
+snippet timing_generated_clocks_inherit_ideal_latency "Innovus command" i
+timing_generated_clocks_inherit_ideal_latency
+endsnippet
+
+snippet timing_get_of_objects_hier_compatibility "Innovus command" i
+timing_get_of_objects_hier_compatibility
+endsnippet
+
+snippet timing_hier_object_name_compatibility "Innovus command" i
+timing_hier_object_name_compatibility
+endsnippet
+
+snippet timing_ignore_lumped_rc_assertions "Innovus command" i
+timing_ignore_lumped_rc_assertions
+endsnippet
+
+snippet timing_io_use_clock_network_latency "Innovus command" i
+timing_io_use_clock_network_latency
+endsnippet
+
+snippet timing_ipd_derate_flow_use_path_segment_delay_difference "Innovus command" i
+timing_ipd_derate_flow_use_path_segment_delay_difference
+endsnippet
+
+snippet timing_library_convert_async_setuphold_to_recrem "Innovus command" i
+timing_library_convert_async_setuphold_to_recrem
+endsnippet
+
+snippet timing_library_create_statetable_multi_sequential_cells "Innovus command" i
+timing_library_create_statetable_multi_sequential_cells
+endsnippet
+
+snippet timing_library_genclk_use_group_name "Innovus command" i
+timing_library_genclk_use_group_name
+endsnippet
+
+snippet timing_library_hold_sigma_multiplier "Innovus command" i
+timing_library_hold_sigma_multiplier
+endsnippet
+
+snippet timing_library_infer_async_pins_from_timing_arcs "Innovus command" i
+timing_library_infer_async_pins_from_timing_arcs
+endsnippet
+
+snippet timing_library_infer_cap_range_from_ccs_receiver_model "Innovus command" i
+timing_library_infer_cap_range_from_ccs_receiver_model
+endsnippet
+
+snippet timing_library_infer_cap_range_from_ecsm_receiver_model "Innovus command" i
+timing_library_infer_cap_range_from_ecsm_receiver_model
+endsnippet
+
+snippet timing_library_merge_worst_case_mpw_arcs "Innovus command" i
+timing_library_merge_worst_case_mpw_arcs
+endsnippet
+
+snippet timing_library_read_ccs_noise_data "Innovus command" i
+timing_library_read_ccs_noise_data
+endsnippet
+
+snippet timing_library_read_ccs_power_data "Innovus command" i
+timing_library_read_ccs_power_data
+endsnippet
+
+snippet timing_library_read_without_power "Innovus command" i
+timing_library_read_without_power
+endsnippet
+
+snippet timing_library_scale_aocv_to_socv_to_n_sigma "Innovus command" i
+timing_library_scale_aocv_to_socv_to_n_sigma
+endsnippet
+
+snippet timing_library_setup_sigma_multiplier "Innovus command" i
+timing_library_setup_sigma_multiplier
+endsnippet
+
+snippet timing_library_sort_non_monotonic_ccs_index "Innovus command" i
+timing_library_sort_non_monotonic_ccs_index
+endsnippet
+
+snippet timing_library_support_mismatched_arcs "Innovus command" i
+timing_library_support_mismatched_arcs
+endsnippet
+
+snippet timing_library_support_multi_sequential_cells "Innovus command" i
+timing_library_support_multi_sequential_cells
+endsnippet
+
+snippet timing_library_use_trilib_drv_values "Innovus command" i
+timing_library_use_trilib_drv_values
+endsnippet
+
+snippet timing_library_zero_negative_timing_check_arcs "Innovus command" i
+timing_library_zero_negative_timing_check_arcs
+endsnippet
+
+snippet timing_multifrequency_clock_rounding_factor "Innovus command" i
+timing_multifrequency_clock_rounding_factor
+endsnippet
+
+snippet timing_normalized_driver_waveform_clip_linear_part "Innovus command" i
+timing_normalized_driver_waveform_clip_linear_part
+endsnippet
+
+snippet timing_normalized_driver_waveform_weight_factor "Innovus command" i
+timing_normalized_driver_waveform_weight_factor
+endsnippet
+
+snippet timing_null_collection_return_compatibility "Innovus command" i
+timing_null_collection_return_compatibility
+endsnippet
+
+snippet timing_prefix_module_name_with_library_genclk "Innovus command" i
+timing_prefix_module_name_with_library_genclk
+endsnippet
+
+snippet timing_propagate_latch_data_uncertainty "Innovus command" i
+timing_propagate_latch_data_uncertainty
+endsnippet
+
+snippet timing_property_clock_used_as_data_unconstrained_clock_source_paths "Innovus command" i
+timing_property_clock_used_as_data_unconstrained_clock_source_paths
+endsnippet
+
+snippet timing_read_library_without_ecsm "Innovus command" i
+timing_read_library_without_ecsm
+endsnippet
+
+snippet timing_read_library_without_sensitivity "Innovus command" i
+timing_read_library_without_sensitivity
+endsnippet
+
+snippet timing_recompute_sdf_in_setuphold_mode "Innovus command" i
+timing_recompute_sdf_in_setuphold_mode
+endsnippet
+
+snippet timing_reduce_multi_drive_net_arcs "Innovus command" i
+timing_reduce_multi_drive_net_arcs
+endsnippet
+
+snippet timing_reduce_multi_drive_net_arcs_threshold "Innovus command" i
+timing_reduce_multi_drive_net_arcs_threshold
+endsnippet
+
+snippet timing_remove_clock_reconvergence_pessimism "Innovus command" i
+timing_remove_clock_reconvergence_pessimism
+endsnippet
+
+snippet timing_report_backward_compatible_max_paths_reporting "Innovus command" i
+timing_report_backward_compatible_max_paths_reporting
+endsnippet
+
+snippet timing_report_constraint_enable_extended_drv_format "Innovus command" i
+timing_report_constraint_enable_extended_drv_format
+endsnippet
+
+snippet timing_report_enable_markers "Innovus command" i
+timing_report_enable_markers
+endsnippet
+
+snippet timing_report_enable_max_capacitance_drv_for_constants "Innovus command" i
+timing_report_enable_max_capacitance_drv_for_constants
+endsnippet
+
+snippet timing_report_enable_max_path_limit_crossed "Innovus command" i
+timing_report_enable_max_path_limit_crossed
+endsnippet
+
+snippet timing_report_enable_si_debug "Innovus command" i
+timing_report_enable_si_debug
+endsnippet
+
+snippet timing_report_enable_unique_pins_multiple_capture_clock_paths "Innovus command" i
+timing_report_enable_unique_pins_multiple_capture_clock_paths
+endsnippet
+
+snippet timing_report_enable_use_valid_start_end_points "Innovus command" i
+timing_report_enable_use_valid_start_end_points
+endsnippet
+
+snippet timing_report_enable_verbose_ssta_mode "Innovus command" i
+timing_report_enable_verbose_ssta_mode
+endsnippet
+
+snippet timing_report_generated_clock_info "Innovus command" i
+timing_report_generated_clock_info
+endsnippet
+
+snippet timing_report_group_based_mode "Innovus command" i
+timing_report_group_based_mode
+endsnippet
+
+snippet timing_report_max_transition_check_using_nsigma_slew "Innovus command" i
+timing_report_max_transition_check_using_nsigma_slew
+endsnippet
+
+snippet timing_report_retime_formatting_mode "Innovus command" i
+timing_report_retime_formatting_mode
+endsnippet
+
+snippet timing_report_timing_header_detail_info "Innovus command" i
+timing_report_timing_header_detail_info
+endsnippet
+
+snippet timing_report_unconstrained_path_early_late_header "Innovus command" i
+timing_report_unconstrained_path_early_late_header
+endsnippet
+
+snippet timing_report_unconstrained_paths "Innovus command" i
+timing_report_unconstrained_paths
+endsnippet
+
+snippet timing_report_use_worst_parallel_cell_arc "Innovus command" i
+timing_report_use_worst_parallel_cell_arc
+endsnippet
+
+snippet timing_resolve_driver_conflicts "Innovus command" i
+timing_resolve_driver_conflicts
+endsnippet
+
+snippet timing_sdf_adjust_negative_setuphold "Innovus command" i
+timing_sdf_adjust_negative_setuphold
+endsnippet
+
+snippet timing_sdf_enable_setuphold_scond_ccond "Innovus command" i
+timing_sdf_enable_setuphold_scond_ccond
+endsnippet
+
+snippet timing_self_loop_paths_no_skew "Innovus command" i
+timing_self_loop_paths_no_skew
+endsnippet
+
+snippet timing_self_loop_paths_no_skew_max_depth "Innovus command" i
+timing_self_loop_paths_no_skew_max_depth
+endsnippet
+
+snippet timing_self_loop_paths_no_skew_max_slack "Innovus command" i
+timing_self_loop_paths_no_skew_max_slack
+endsnippet
+
+snippet timing_set_clock_source_to_output_as_data "Innovus command" i
+timing_set_clock_source_to_output_as_data
+endsnippet
+
+snippet timing_set_nsigma_multiplier "Innovus command" i
+timing_set_nsigma_multiplier
+endsnippet
+
+snippet timing_set_scaling_for_negative_checks "Innovus command" i
+timing_set_scaling_for_negative_checks
+endsnippet
+
+snippet timing_set_scaling_for_negative_delays "Innovus command" i
+timing_set_scaling_for_negative_delays
+endsnippet
+
+snippet timing_socv_nsigma_hold_multiplier "Innovus command" i
+timing_socv_nsigma_hold_multiplier
+endsnippet
+
+snippet timing_socv_nsigma_setup_multiplier "Innovus command" i
+timing_socv_nsigma_setup_multiplier
+endsnippet
+
+snippet timing_socv_preserve_variation_with_annotations "Innovus command" i
+timing_socv_preserve_variation_with_annotations
+endsnippet
+
+snippet timing_socv_rc_variation_mode "Innovus command" i
+timing_socv_rc_variation_mode
+endsnippet
+
+snippet timing_socv_statistical_min_max_mode "Innovus command" i
+timing_socv_statistical_min_max_mode
+endsnippet
+
+snippet timing_ssta_report_endpoint_description "Innovus command" i
+timing_ssta_report_endpoint_description
+endsnippet
+
+snippet timing_suppress_escape_characters "Innovus command" i
+timing_suppress_escape_characters
+endsnippet
+
+snippet timing_suppress_ilm_constraint_mismatches "Innovus command" i
+timing_suppress_ilm_constraint_mismatches
+endsnippet
+
+snippet timing_time_unit "Innovus command" i
+timing_time_unit
+endsnippet
+
+snippet timing_use_clock_pin_attribute_for_clock_net_marking "Innovus command" i
+timing_use_clock_pin_attribute_for_clock_net_marking
+endsnippet
+
+snippet timing_use_latch_early_launch_edge "Innovus command" i
+timing_use_latch_early_launch_edge
+endsnippet
+
+snippet timing_use_latch_time_borrow "Innovus command" i
+timing_use_latch_time_borrow
+endsnippet
+
+snippet timing_write_sdf_no_escape_backslash_control "Innovus command" i
+timing_write_sdf_no_escape_backslash_control
+endsnippet
+
+snippet trPrintIgnoredPadNets "Innovus command" i
+trPrintIgnoredPadNets
+endsnippet
+
+snippet traceJtag "Innovus command" i
+traceJtag
+endsnippet
+
+snippet trace_obj_connectivity "Innovus command" i
+trace_obj_connectivity
+endsnippet
+
+snippet translateSNDCSetupFile "Innovus command" i
+translateSNDCSetupFile
+endsnippet
+
+snippet trimMetalFill "Innovus command" i
+trimMetalFill
+endsnippet
+
+snippet trimMetalFillNearNet "Innovus command" i
+trimMetalFillNearNet
+endsnippet
+
+snippet uiAdd "Innovus command" i
+uiAdd
+endsnippet
+
+snippet uiDelete "Innovus command" i
+uiDelete
+endsnippet
+
+snippet uiFind "Innovus command" i
+uiFind
+endsnippet
+
+snippet uiGet "Innovus command" i
+uiGet
+endsnippet
+
+snippet uiGetRecordObjByInfo "Innovus command" i
+uiGetRecordObjByInfo
+endsnippet
+
+snippet uiSet "Innovus command" i
+uiSet
+endsnippet
+
+snippet uiSetTool "Innovus command" i
+uiSetTool
+endsnippet
+
+snippet ui_view_box "Innovus command" i
+ui_view_box
+endsnippet
+
+snippet unassignBump "Innovus command" i
+unassignBump
+endsnippet
+
+snippet unassignBumpByName "Innovus command" i
+unassignBumpByName
+endsnippet
+
+snippet unassignTSV "Innovus command" i
+unassignTSV
+endsnippet
+
+snippet undo "Innovus command" i
+undo
+endsnippet
+
+snippet unfixAllIos "Innovus command" i
+unfixAllIos
+endsnippet
+
+snippet unfixBondPad "Innovus command" i
+unfixBondPad
+endsnippet
+
+snippet unfixBump "Innovus command" i
+unfixBump
+endsnippet
+
+snippet unflattenIlm "Innovus command" i
+unflattenIlm
+endsnippet
+
+snippet ungroup "Innovus command" i
+ungroup
+endsnippet
+
+snippet unloadPtnPin "Innovus command" i
+unloadPtnPin
+endsnippet
+
+snippet unlockOaDesign "Innovus command" i
+unlockOaDesign
+endsnippet
+
+snippet unplaceAllBlocks "Innovus command" i
+unplaceAllBlocks
+endsnippet
+
+snippet unplaceAllGuides "Innovus command" i
+unplaceAllGuides
+endsnippet
+
+snippet unplaceAllInsts "Innovus command" i
+unplaceAllInsts
+endsnippet
+
+snippet unplaceGuide "Innovus command" i
+unplaceGuide
+endsnippet
+
+snippet unplaceGuideConstraints "Innovus command" i
+unplaceGuideConstraints
+endsnippet
+
+snippet unplaceJtag "Innovus command" i
+unplaceJtag
+endsnippet
+
+snippet unregister_selection_callback "Innovus command" i
+unregister_selection_callback
+endsnippet
+
+snippet unsetFixedBlockSize "Innovus command" i
+unsetFixedBlockSize
+endsnippet
+
+snippet unsetMessageLimit "Innovus command" i
+unsetMessageLimit
+endsnippet
+
+snippet unsetPinConstraint "Innovus command" i
+unsetPinConstraint
+endsnippet
+
+snippet unsetProbePin "Innovus command" i
+unsetProbePin
+endsnippet
+
+snippet unset_ccopt_property "Innovus command" i
+unset_ccopt_property
+endsnippet
+
+snippet unspecifyBlackBox "Innovus command" i
+unspecifyBlackBox
+endsnippet
+
+snippet unspecifyIlm "Innovus command" i
+unspecifyIlm
+endsnippet
+
+snippet unspecifyJtag "Innovus command" i
+unspecifyJtag
+endsnippet
+
+snippet unspecifySelectiveBlkgGate "Innovus command" i
+unspecifySelectiveBlkgGate
+endsnippet
+
+snippet unsuppressMessage "Innovus command" i
+unsuppressMessage
+endsnippet
+
+snippet update_analysis_view "Innovus command" i
+update_analysis_view
+endsnippet
+
+snippet update_bus_guide "Innovus command" i
+update_bus_guide
+endsnippet
+
+snippet update_ccopt_clock_tree "Innovus command" i
+update_ccopt_clock_tree
+endsnippet
+
+snippet update_clock_latencies "Innovus command" i
+update_clock_latencies
+endsnippet
+
+snippet update_clock_tree_source_latency "Innovus command" i
+update_clock_tree_source_latency
+endsnippet
+
+snippet update_constraint_mode "Innovus command" i
+update_constraint_mode
+endsnippet
+
+snippet update_delay_corner "Innovus command" i
+update_delay_corner
+endsnippet
+
+snippet update_glitch "Innovus command" i
+update_glitch
+endsnippet
+
+snippet update_io_latency "Innovus command" i
+update_io_latency
+endsnippet
+
+snippet update_library_set "Innovus command" i
+update_library_set
+endsnippet
+
+snippet update_names "Innovus command" i
+update_names
+endsnippet
+
+snippet update_oa_lib "Innovus command" i
+update_oa_lib
+endsnippet
+
+snippet update_partition "Innovus command" i
+update_partition
+endsnippet
+
+snippet update_rc_corner "Innovus command" i
+update_rc_corner
+endsnippet
+
+snippet uu2dbu "Innovus command" i
+uu2dbu
+endsnippet
+
+snippet vPuts "Innovus command" i
+vPuts
+endsnippet
+
+snippet validate_pg_library "Innovus command" i
+validate_pg_library
+endsnippet
+
+snippet verifyACLimit "Innovus command" i
+verifyACLimit
+endsnippet
+
+snippet verifyACLimitSetFreq "Innovus command" i
+verifyACLimitSetFreq
+endsnippet
+
+snippet verifyCMP "Innovus command" i
+verifyCMP
+endsnippet
+
+snippet verifyConnectivity "Innovus command" i
+verifyConnectivity
+endsnippet
+
+snippet verifyCutDensity "Innovus command" i
+verifyCutDensity
+endsnippet
+
+snippet verifyEndCap "Innovus command" i
+verifyEndCap
+endsnippet
+
+snippet verifyFlipChipRoutingConstraints "Innovus command" i
+verifyFlipChipRoutingConstraints
+endsnippet
+
+snippet verifyGeometry "Innovus command" i
+verifyGeometry
+endsnippet
+
+snippet verifyIO2BumpConnectivity "Innovus command" i
+verifyIO2BumpConnectivity
+endsnippet
+
+snippet verifyIsolatedCut "Innovus command" i
+verifyIsolatedCut
+endsnippet
+
+snippet verifyLitho "Innovus command" i
+verifyLitho
+endsnippet
+
+snippet verifyMetalDensity "Innovus command" i
+verifyMetalDensity
+endsnippet
+
+snippet verifyPowerDomain "Innovus command" i
+verifyPowerDomain
+endsnippet
+
+snippet verifyPowerSwitch "Innovus command" i
+verifyPowerSwitch
+endsnippet
+
+snippet verifyPowerVia "Innovus command" i
+verifyPowerVia
+endsnippet
+
+snippet verifyProcessAntenna "Innovus command" i
+verifyProcessAntenna
+endsnippet
+
+snippet verifyTieCell "Innovus command" i
+verifyTieCell
+endsnippet
+
+snippet verifyTracks "Innovus command" i
+verifyTracks
+endsnippet
+
+snippet verifyWellAntenna "Innovus command" i
+verifyWellAntenna
+endsnippet
+
+snippet verifyWellTap "Innovus command" i
+verifyWellTap
+endsnippet
+
+snippet verifyWireGap "Innovus command" i
+verifyWireGap
+endsnippet
+
+snippet verify_PG_short "Innovus command" i
+verify_PG_short
+endsnippet
+
+snippet verify_drc "Innovus command" i
+verify_drc
+endsnippet
+
+snippet verify_stacked_die "Innovus command" i
+verify_stacked_die
+endsnippet
+
+snippet viewBumpConnection "Innovus command" i
+viewBumpConnection
+endsnippet
+
+snippet viewLast "Innovus command" i
+viewLast
+endsnippet
+
+snippet viewLog "Innovus command" i
+viewLog
+endsnippet
+
+snippet viewSnapshot "Innovus command" i
+viewSnapshot
+endsnippet
+
+snippet view_dynamic_movie "Innovus command" i
+view_dynamic_movie
+endsnippet
+
+snippet view_dynamic_waveform "Innovus command" i
+view_dynamic_waveform
+endsnippet
+
+snippet view_esd_violation "Innovus command" i
+view_esd_violation
+endsnippet
+
+snippet view_package_results "Innovus command" i
+view_package_results
+endsnippet
+
+snippet violationBrowser "Innovus command" i
+violationBrowser
+endsnippet
+
+snippet violationBrowserDeleteByArea "Innovus command" i
+violationBrowserDeleteByArea
+endsnippet
+
+snippet violationBrowserReport "Innovus command" i
+violationBrowserReport
+endsnippet
+
+snippet vl_tolerate_illegal_syntax "Innovus command" i
+vl_tolerate_illegal_syntax
+endsnippet
+
+snippet win "Innovus command" i
+win
+endsnippet
+
+snippet windowDeselect "Innovus command" i
+windowDeselect
+endsnippet
+
+snippet windowSelect "Innovus command" i
+windowSelect
+endsnippet
+
+snippet windowToggleSelect "Innovus command" i
+windowToggleSelect
+endsnippet
+
+snippet wireload "Innovus command" i
+wireload
+endsnippet
+
+snippet writeAnnotatedTransition "Innovus command" i
+writeAnnotatedTransition
+endsnippet
+
+snippet writeBumpLocation "Innovus command" i
+writeBumpLocation
+endsnippet
+
+snippet writeDesignTiming "Innovus command" i
+writeDesignTiming
+endsnippet
+
+snippet writeDieAbstract "Innovus command" i
+writeDieAbstract
+endsnippet
+
+snippet writeFPlanScript "Innovus command" i
+writeFPlanScript
+endsnippet
+
+snippet writeFlipChipProperty "Innovus command" i
+writeFlipChipProperty
+endsnippet
+
+snippet writeFlowTemplate "Innovus command" i
+writeFlowTemplate
+endsnippet
+
+snippet writeHif "Innovus command" i
+writeHif
+endsnippet
+
+snippet writeIntegRouteConstraint "Innovus command" i
+writeIntegRouteConstraint
+endsnippet
+
+snippet writeMicroBumpMappingFile "Innovus command" i
+writeMicroBumpMappingFile
+endsnippet
+
+snippet writeSetLoad "Innovus command" i
+writeSetLoad
+endsnippet
+
+snippet writeTimingCon "Innovus command" i
+writeTimingCon
+endsnippet
+
+snippet writeVSMappingFile "Innovus command" i
+writeVSMappingFile
+endsnippet
+
+snippet write_category_summary "Innovus command" i
+write_category_summary
+endsnippet
+
+snippet write_codesign_die_abstract "Innovus command" i
+write_codesign_die_abstract
+endsnippet
+
+snippet write_extraction_spec "Innovus command" i
+write_extraction_spec
+endsnippet
+
+snippet write_global_slack_report "Innovus command" i
+write_global_slack_report
+endsnippet
+
+snippet write_global_slack_worst_trigger_path_on_clocks "Innovus command" i
+write_global_slack_worst_trigger_path_on_clocks
+endsnippet
+
+snippet write_ldb "Innovus command" i
+write_ldb
+endsnippet
+
+snippet write_lef_abstract "Innovus command" i
+write_lef_abstract
+endsnippet
+
+snippet write_lef_library "Innovus command" i
+write_lef_library
+endsnippet
+
+snippet write_model_timing "Innovus command" i
+write_model_timing
+endsnippet
+
+snippet write_oa_techfile "Innovus command" i
+write_oa_techfile
+endsnippet
+
+snippet write_power_constraints "Innovus command" i
+write_power_constraints
+endsnippet
+
+snippet write_power_intent "Innovus command" i
+write_power_intent
+endsnippet
+
+snippet write_sdf "Innovus command" i
+write_sdf
+endsnippet
+
+snippet write_tcf "Innovus command" i
+write_tcf
+endsnippet
+
+snippet write_text_timing_report "Innovus command" i
+write_text_timing_report
+endsnippet
+
+snippet write_timing_windows "Innovus command" i
+write_timing_windows
+endsnippet
+
+snippet zoomBox "Innovus command" i
+zoomBox
+endsnippet
+
+snippet zoomIn "Innovus command" i
+zoomIn
+endsnippet
+
+snippet zoomOut "Innovus command" i
+zoomOut
+endsnippet
+
+snippet zoomSelected "Innovus command" i
+zoomSelected
+endsnippet
+
+snippet zoomTo "Innovus command" i
+zoomTo
+endsnippet

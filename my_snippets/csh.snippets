@@ -1,0 +1,34 @@
+snippet shebang "shebang" 
+#!/bin/csh -f
+
+endsnippet
+
+snippet foreach "foreach" 
+foreach ${1:name} (${2:wordlist})
+	${3:command}
+end
+
+endsnippet
+
+snippet if "if" 
+if (${1:expr}) then
+	${2:cmds}
+${3:else if (${4:expr}) then
+	${5:cmds}}
+${6:else
+    ${7:cmds}}
+endif
+
+endsnippet
+
+snippet while "while" 
+while (${1:expr})
+	${2:command}
+end
+
+endsnippet
+
+snippet set "set" 
+set ${1:varname} = ${2:value}
+
+endsnippet

@@ -74,3 +74,52 @@ vim`!v ':set '. (&expandtab ? printf('et sw=%i ts=%i', &sw, &ts) : printf('noet 
 endsnippet
 
 # vim:ft=snippets:
+# This file contains snippets that are always defined. I personally
+# have snippets for signatures and often needed texts
+
+##############
+# NICE BOXES #
+##############
+snippet statement "statement for the script" !b
+#========================================================================
+#   Author:         `whoami`
+#   Date:           `date +"%Y-%m-%d %H:%M:%S"`
+#   Description:    $1
+#   Usage:          $2
+#   History:        $3
+#========================================================================
+
+endsnippet
+
+snippet add_by "add by user" 
+######################### Add by `whoami` at `date +"%Y-%m-%d %H:%M:%S"` begin #########################
+$1
+########################## Add by `whoami` at `date +"%Y-%m-%d %H:%M:%S"` end ##########################
+
+endsnippet
+
+snippet date "date" i
+date +"%Y-%m-%d_%H:%M:%S"
+endsnippet
+
+snippet box_dash "a box composed of dash sign" !b
+# ---------------------------------------------------------------------
+# $1
+# ---------------------------------------------------------------------
+endsnippet
+
+snippet xterm "run something in xterm" i
+xterm -T "$1" -e "$2"
+endsnippet
+
+snippet gnome_terminal "run something in gnome-terminal" 
+gnome-terminal --title="$1" -e "$2"
+endsnippet
+
+snippet printf
+printf("${1:%s}\n"${1/([^%]|%%)*(%.)?.*/(?2:, :\);)/}$2${1/([^%]|%%)*(%.)?.*/(?2:\);)/}
+endsnippet
+
+snippet time_now "Insert current time" i
+`date +"%Y-%m-%d %H:%M:%S"`
+endsnippet

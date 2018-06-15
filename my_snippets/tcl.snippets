@@ -17,6 +17,10 @@ foreach ${1:var} ${2:\$list} {
 
 endsnippet
 
+snippet [sdsd "Description" i
+haha
+
+endsnippet
 snippet if "if... (if)" b
 if {${1:condition}} {
 	${2}
@@ -25,8 +29,7 @@ if {${1:condition}} {
 endsnippet
 
 snippet proc "proc... (proc)" b
-proc ${1:name} {${2:args}} \
-{
+proc ${1:name} {${2:args}} {
 	${3}
 }
 
@@ -50,3 +53,524 @@ while {${1:condition}} {
 endsnippet
 
 # vim:ft=snippets:
+#######################################################################
+#                            tcl built-in                             #
+#######################################################################
+snippet shebang "shebang for tcl" !b
+#!/usr/bin/tclsh
+
+endsnippet
+
+############
+#  string  #
+############
+snippet string_compare "Perform a character-by-character comparison of strings string1 and string2." i
+string compare ${1:?-nocase?} ${2:?-length length?} ${3:string1} ${4:string2}
+endsnippet
+
+snippet string_equal "Perform a character-by-character comparison of strings string1 and string2." i
+string equal ${1:?-nocase?} ${2:?-length length?} ${3:string1} ${4:string2}
+endsnippet
+
+snippet string_first "Search haystackString for a sequence of characters that exactly match the characters in needleString." i
+string first ${1:needleString} ${2:haystackString} ${3:?startIndex?}
+endsnippet
+
+snippet string_index "Returns the charIndex’th character of the string argument." i
+string index ${1:string} ${2:charIndex}
+endsnippet
+
+snippet string_is_class "Returns 1 if string is a valid member of the specified character class, otherwise returns 0." i
+string is class ${1:?-strict?} ${2:?-failindex varname?} ${3:string}
+endsnippet
+
+snippet string_last "Search  haystackString  for  a sequence of characters that exactly match the characters in needleString.	If found, return the index of the first character in the last such match within haystackString.	 If there is no match, then return -1." i
+string last ${1:needleString} ${2:haystackString} ${3:?lastIndex?}
+endsnippet
+
+snippet string_length "Returns a decimal string giving the number of characters in string." i
+string length ${1:string}
+endsnippet
+
+snippet string_map "Replaces substrings in string based on the key-value pairs in mapping." i
+string map ${1:?-nocase?} ${2:mapping string}
+endsnippet
+
+snippet string_match "See  if  pattern	matches	 string; return 1 if it does, 0 if it does not." i
+string match ${1:?-nocase?} ${2:pattern} ${3:string}
+endsnippet
+
+snippet string_range "Returns a range of consecutive characters from string, starting with the character whose index is first and ending with the character whose index is last." i
+string range ${1:string} ${2:first} ${3:last}
+endsnippet
+
+snippet string_repeat "Returns string repeated count number of times." i
+string repeat ${1:string} ${2:count}
+endsnippet
+
+snippet string_replace "Removes a range of consecutive characters from string, starting with the character whose index is first and ending with the character whose index is last." i
+string replace ${1:string} ${2:first} ${3:last} ${4:?newstring?}
+endsnippet
+
+snippet string_reversr "Returns a string that is the same length as string but with its characters in the reverse order." i
+string reverse ${1:string}
+endsnippet
+
+snippet string_tolower "Returns a value equal to string except that all upper (or title) case letters have been converted to lower case." i
+string tolower ${1:string} ${2:?first?} ${3:?last?}
+endsnippet
+
+snippet string_totitle "Returns a value equal to string except that the first character in string is converted to its Unicode title case variant (or upper case if there is no title case variant) and the rest of the string is converted to lower case." i
+string totitle ${1:string} ${2:?first?} ${3:?last?}
+endsnippet
+
+snippet string_toupper "Returns  a  value equal to string except that all lower (or title) case letters have been converted to upper case." i
+string toupper ${1:string} ${2:?first?} ${3:?last?}
+endsnippet
+
+snippet string_trim "Returns a value equal to string except that any leading or trailing characters present in the string given by chars are removed." i
+string trim ${1:string} ${2:?chars?}
+endsnippet
+
+snippet string_trim_left "Returns  a  value equal to string except that any leading characters present in the string given by chars are removed." i
+string trimleft ${1:string} ${2:?chars?}
+endsnippet
+
+snippet string_trim_right "Returns a value equal to string except that any trailing characters present in the string given by chars are removed." i
+string trimright ${1:string} ${2:?chars?}
+endsnippet
+
+##########
+#  dict  #
+##########
+snippet dict_append "This appends the given string (or strings) to the value that the given key maps to" i
+dict append ${1:dictionaryVariable} ${2:key} ${3:?string ...?}
+endsnippet
+
+snippet dict_create "Create  a	 new dictionary that contains each of the key/value mappings listed as arguments" i
+dict create ${1:?key value ...?}
+endsnippet
+
+snippet dict_exists "This returns a boolean value indicating whether the given key (or path of keys through a set of nested dictionaries) exists in the given	dictionary  value." i
+dict exists ${1:dictionaryValue} ${2:key} ${3:?key ...?}
+endsnippet
+
+snippet dict_filter "This  takes  a  dictionary  value	 and  returns a new dictionary that contains just those key/value pairs that match the specified filter type" i
+dict filter ${1:dictionaryValue} ${2:filterType} ${3:?arg ...?}
+endsnippet
+
+snippet dict_for "To iterate across a dict" i
+dict for {${1:keyVar} ${2:valueVar}} ${3:dictionaryValue} {
+	${4:body}
+}
+endsnippet
+
+snippet dict_get "Given  a	dictionary  value  (first  argument)  and a key (second argument), this will retrieve the value for that key." i
+dict get ${1:dictionaryValue} ${2:?key ...?}
+endsnippet
+
+snippet glob "Return names of files that match patterns" i
+glob -nocomplain $1
+endsnippet
+
+snippet dict_incr "This adds the given increment value (an integer that defaults to 1 if not specified) to the value that the given key maps to" i
+dict incr ${1:dictionaryVariable} ${2:key} ${3:?increment?}
+endsnippet
+
+snippet dict_keys "Return a list of all keys in the given dictionary value." i
+dict keys ${1:dictionaryValue} ${2:?globPattern?}
+endsnippet
+
+snippet dict_lappend "This  appends  the  given	 items to the list value that the given key maps to" i
+dict lappend ${1:dictionaryVariable} ${2:key} ${3:?value ...?}
+endsnippet
+
+snippet dict_remove "Return a new dictionary that is a copy of an old one passed in as first argument except without mappings for each of the keys listed." i
+dict remove ${1:dictionaryValue} ${2:?key ...?}
+endsnippet
+
+snippet dict_replace "Return  a	 new dictionary that is a copy of an old one passed in as first argument except with some values different or some extra key/value pairs added." i 
+dict replace ${1:dictionaryValue} ${2:?key value ...?}
+endsnippet
+
+snippet dict_set "This operation takes the name of a variable containing a dictionary value and places an updated dictionary value in that variable" i
+dict set ${1:dictionaryVariable} ${2:key} ${3:value}
+endsnippet
+
+snippet dict_size "Return the number of key/value mappings in the given dictionary value." i
+dict size ${1:dictionaryValue}
+endsnippet
+
+snippet dict_unset "This  operation  (the companion to dict set) takes the name of a variable containing a dictionary value and places an updated dictionary value in that variable that does not contain a mapping for the given key." i
+dict unset ${1:dictionaryVariable} ${2:key} ${3:?key ...?}
+endsnippet
+
+snippet dict_values "Return  a	 list  of  all	values	in the given dictionary value." i
+dict values ${1:dictionaryValue} ${2:?globPattern?}
+endsnippet
+
+snippet dict_with "Puts dictionary values into variables named by the dictionary keys, evaluates the given scripts" i
+dict with ${1:dictionaryVariable} ${2:?key ...?} {
+	${3:body}
+}
+endsnippet
+##########
+#  file  #
+##########
+snippet file_atime "Returns a decimal string giving the time at which file name was last accessed." i
+file atime ${1:name} ${2:?time?}
+endsnippet
+
+snippet file_copy "Makes a copy of the file or directory source under the pathname target." i
+file copy ${1:?-force?} ${2:?--?} ${3:source ?source ...?} ${4:targetDir}
+endsnippet
+
+snippet file_delete "Removes the file or directory specified by each pathname argument." i
+file delete ${1:?-force?} ${2:?--?} ${3:?pathname ... ?}
+endsnippet
+
+snippet file_dirname "Returns  a name comprised of all of the path components in name excluding the last element." i
+file dirname ${1:name}
+endsnippet
+
+snippet file_executable "Returns 1 if file name is executable by the current user, 0 otherwise." i
+file executable ${1:name}
+endsnippet
+
+snippet file_exists "Returns 1 if file name exists and the current user has search privileges for the directories leading to it, 0 otherwise." i
+file exists ${1:name}
+endsnippet
+
+snippet file_extension "Returns all of the characters in name after and including the last dot in the last element of name." i
+file extension ${1:name}
+endsnippet
+
+snippet file_isdirectory "Returns 1 if file name is a directory, 0 otherwise." i
+file isdirectory ${1:name}
+endsnippet
+
+snippet file_isfile "Returns 1 if file name is a regular file, 0 otherwise." i
+file isfile ${1:name}
+endsnippet
+
+snippet file_join "Takes one or more file names and combines them, using the correct path separator for the current platform." i
+file join ${1:name ?name ...?}
+endsnippet
+
+snippet file_link "Create link to target" i
+file link ${1:?-linktype(symbolic|hard)?} ${2:linkName} ${3:?target?}
+endsnippet
+
+snippet file_mkdir "Creates  each directory specified." i
+file mkdir ${1:?dir ...?}
+endsnippet
+
+snippet file_mtime "Returns a decimal string giving the time at which file name was last modified." i
+file mtime ${1:name} ${2:?time?}
+endsnippet
+
+snippet file_nativename "Returns the platform-specific name of the file." i
+file nativename ${1:name}
+endsnippet
+
+snippet file_normalize "Returns a unique normalized path representation for the file-system object (file, directory, link, etc), whose string value can be used as a unique identifier for it." i
+file normalize ${1:name}
+endsnippet
+
+snippet file_owned "Returns 1 if file name is owned by the current user, 0 otherwise." i
+file owned ${1:name}
+endsnippet
+
+snippet file_readable "Returns 1 if file name is readable by the current user, 0 otherwise." i
+file readable ${1:name}
+endsnippet
+
+snippet file_readlink "Returns the value of the symbolic link given by name (i.e. the name of the file it points to)." i
+file readlink ${1:name}
+endsnippet
+
+snippet file_rename "takes the file or directory specified by pathname source and renames it to target" i
+file rename ${1:?-force?} ${2:?--?} ${3:source} ${4:target}
+endsnippet
+
+snippet file_rootname "Returns all of the characters in name up to but not including the last “.”  character in the last component of name." i
+file rootname ${1:name}
+endsnippet
+
+snippet file_separator "If  no  argument is given, returns the character which is used to separate path segments for native files on this platform." i
+file separator ${1:?name?}
+endsnippet
+
+snippet file_size "Returns a decimal string giving the size of file name in bytes." i
+file size ${1:name}
+endsnippet
+
+snippet file_split "Returns a list whose elements are the path components in name." i
+file split ${1:name}
+endsnippet
+
+snippet file_tail "Returns all of the characters in the last filesystem component of name." i
+file tail ${1:name}
+endsnippet
+
+snippet file_writable "Returns 1 if file name is writable by the current user, 0 otherwise." i
+file writable ${1:name}
+endsnippet
+
+##########
+#  info  #
+##########
+snippet info_args "Returns a list containing the names of the arguments to procedure procname, in order" i
+info args ${1:procname}
+endsnippet
+
+snippet info_body "Returns the body of procedure procname" i
+info body ${1:procname}
+endsnippet
+
+snippet info_cmdcount "Returns a count of the total number of commands that have been invoked in this interpreter" i
+info cmdcount
+endsnippet
+
+snippet info_exists "Returns 1 if the variable named varName exists in the current context" i
+info exists ${1:varName}
+endsnippet
+
+snippet info_tclversion "Returns the value of the global variable tcl_version" i
+info tclversion
+endsnippet
+
+snippet info_hostname "Returns the name of the computer on which this invocation is being executed" i
+info hostname
+endsnippet
+############
+#  others  #
+############
+snippet package "package require" i
+package require ${1:package_name}
+endsnippet
+
+snippet expect "expect" i
+expect {
+    -timeout ${1:time in second}
+    -re "${2:pattern}" {${3:do something}}
+}
+endsnippet
+
+snippet catch "catch code block" i
+if {[catch {
+    ${1:cmd}
+} error_msg]} {
+    puts "CATCH: Found error in catch block: \$error_msg"
+}
+endsnippet
+
+snippet csh "Use csh syntax to run system command ,such as wildcard" i
+exec /bin/csh -c "${2:command}"
+endsnippet
+
+snippet lassign "Assign list elements to variables" i
+lassign ${1:list} ${2:varName} ${3:?varName ...?}
+endsnippet
+
+snippet time "time of now" i
+[clock format [clock second] -format {%Y/%m/%d %H:%M:%S}]
+endsnippet
+
+snippet array_name "get array indices matching pattern" i
+array names ${1:array_name} ${2:pattern}
+endsnippet
+
+snippet upvar "invoke variables in outside of proc" i
+upvar ${1:level,default: 1} ${2:other_var_name} ${3:local_var_name}
+endsnippet
+
+snippet clock_format "generate time string" i
+clock format [clock second] -format %m-%d_%H:%M:%S
+endsnippet
+
+snippet regsub "Perform substitutions based on regular expression pattern matching" i
+regsub ${1:?switches?} ${2:exp} ${3:string} ${4:subSpec} ${5:?varName?}
+endsnippet
+
+snippet regexp "Match a regular expression against a string" i
+regexp  ${1:?switches?} {${2:exp}} ${3:string} ${4:?matchVar?} ${5:?subMatchVar ...?}
+endsnippet
+
+snippet expr "expr" i
+expr {${1:expression}}
+endsnippet
+
+snippet expr_float "expr with precision control" i
+format "%.3f" [expr {${1:exp}}]
+endsnippet
+
+snippet format_float "format a floate number with specified precision" i
+format "%.${1:precision}f" ${2:float_number}
+endsnippet
+
+snippet format_left_justify "format a string to be left justified" i
+format "%-*s" ${1:width} ${2:string}
+endsnippet
+
+snippet format_right_justify "format a string to be right justified" i
+format "%*s" ${1:width} ${2:string}
+endsnippet
+
+snippet join "join" w
+join ${1:list} ${2:spliter}
+endsnippet
+
+snippet lsearch "lsearch" w
+lsearch ${1:$list} ${2:pattern}
+endsnippet
+
+snippet lrange "lrange" w
+lrange ${1:list} ${2:start} ${3:end}
+endsnippet
+
+snippet lindex "lindex" w
+lindex ${1:$list} ${2:index}
+endsnippet
+
+snippet llength "llength" w
+llength ${1:$list}
+endsnippet
+
+snippet linsert "linsert" w
+linsert ${1:$list} ${2:index} ${3:value}
+endsnippet
+
+snippet lappend "lappend *" w
+lappend ${1:listname} ${2:value}
+endsnippet
+
+snippet lreplace "lreplace" w
+lreplace ${1:$list} ${2:index} ${3:value}
+endsnippet
+
+snippet split "split" w
+split ${1:$list} ${2:spliter}
+endsnippet
+
+snippet lsort "lsort" w
+lsort ${1:-ascii -dictionary -integer -real} ${2:-incresing -decreasing} ${3:$list}
+endsnippet
+
+snippet concat "concat" w
+concat ${1:$list} ${2:value}
+endsnippet
+
+snippet openr "open and read" w
+set ${1:fh} [open ${2:file_name}]
+while {[gets $$1 line]>=0} {
+	${3:do something to $line}
+}
+endsnippet
+
+snippet openw "open and write" w
+set ${1:fh} [open ${2:file_name} w]
+puts $$1 ${3:something}
+endsnippet
+
+#######################################################################
+#                               Cadence                               #
+#######################################################################
+snippet ecoAddRepeater "add buffer on term" w
+ecoAddRepeater -term ${1:flatten_inst_name/pin_name} -cell ${2:cell_name} -relativeDistToSink 0.1
+endsnippet
+
+snippet ecoChangeCell "ecoChangeCell" w
+ecoChangeCell -inst ${1:flatten_inst_name} -cell ${2:CELL_NAME}
+endsnippet
+
+snippet addNet "addNet" w
+addNet ${1:net_name}
+endsnippet
+
+snippet attachTerm "attachTerm" w
+attachTerm ${1:flatten_inst_name} ${2:pin_name} ${3:net_name}
+endsnippet
+
+snippet ecoAddRepeater "add buffer on net" w
+ecoAddRepeater -offLoadAtLoc {${1:location}} -net ${2:net_name} -cell ${2:cell_name}
+endsnippet
+
+snippet MacroModel "MacroModel" 
+MacroModel pin ${1:pin_name} ${2:maxRiseDelay} ${3:minRiseDelay} ${4:maxFallDelay} ${5:minFallDelay} ${6:inputCap}
+endsnippet
+
+#######################################################################
+#                              Synopsys                               #
+#######################################################################
+snippet parse_proc_arguments "parse_proc_arguments proc of synopsys" i
+parse_proc_arguments -args $${1:args} options
+endsnippet
+
+snippet define_proc_attributes "Defines the arguments and attributes of a Tcl procedure in Synopsys style" i
+define_proc_attributes ${1:proc_name} -info "${2:help text}" \
+	-define_args {
+		{-${3:arg_name} "${4:option_help}" ${5:value_help} ${6:data_type} ${7:attributes}}
+		# data_type: string,  list,  boolean, int, float, or "one_of_string {required value_help {values {a b}}}".
+		# attributes: required, optional, value_help, values, merge_duplicates, remainder
+	}
+endsnippet
+
+snippet define_proc_arguments "Defines the arguments and attributes of a Tcl procedure in Cadence style" i
+define_proc_arguments ${1:proc_name} -info "${2:help text}" \
+	-define_args {
+		{-${3:arg_name} "${4:option_help}" ${5:value_help} ${6:data_type} ${7:attributes}}
+		# arg_name: Specifies the name of the argument.  
+		# option_help: Provides a short description of the  argument.   
+		# value_help: Specifies the help information for the associated option values. 
+		# data_type: string,  list,  boolean, int, float, or "one_of_string {required value_help {values {a b}}}".
+		# attributes: required, optional, internal, value_help, values {allowable_values}, merge_duplicates, bind_optionother_arg_name, mutual_exclusive_group
+	}
+endsnippet
+
+snippet remove_from_collection "Removes objects from a collection, resulting in a new collection. The base collection remains unchanged" i
+remove_from_collection ${1:[-intersect]} ${2:collection} ${3:object_spec}
+endsnippet
+
+snippet foreach_in_collection "Iterates over the elements of a collection" i
+foreach_in_collection ${1:itr_var} ${2:collection} {
+	${3:#body}
+}
+
+endsnippet
+
+snippet compare_collections "Compares the contents of two collections. If the same objects are in both collections, the result is 0" i
+compare_collections ${1:[-order_dependent]} ${2:collection1} ${3:collection2}
+endsnippet
+
+snippet sizeof_collection "Returns the number of objects in a collection" i
+sizeof_collection ${1:$collection}
+endsnippet
+
+snippet add_to_collection "Adds objects to a collection, resulting in a new collection. The base collection remains unchanged" i
+add_to_collection ${1:[-unique]} ${2:$collection} ${3:object_spec}
+endsnippet
+
+snippet append_to_collection "Adds objects to a collection and modifies a variable" i
+append_to_collection ${1:[-unique]} ${2:var_name} ${3:object_spec}
+endsnippet
+
+snippet copy_collection "Duplicates the contents of a collection, resulting in a new collection. The base collection remains unchangedDescription" i
+copy_collection ${1:collection1}
+endsnippet
+
+snippet index_collection "Given a collection and an index into it, if the index is in range, create a new collection containing only the single object at the index in the base collection. The base collection remains unchanged." i
+index_collection ${1:collection} ${2:index}
+endsnippet
+
+snippet scan "Parse string using conversion specifiers in the style of sscanf" i
+scan ${1:string} ${2:format} ${3:?varName varName ...?}
+endsnippet
+
+snippet scan_bbox "scan bbox in synopsys style" i
+scan ${1:string} {{%f %f} {%f %f}} ${2:prefix}llx $2lly $2urx $2ury
+endsnippet
+
+snippet scan_box "scan bbox in cadence style" i
+scan ${1:string} {%f %f %f %f} ${2:prefix}llx $2lly $2urx $2ury
+endsnippet

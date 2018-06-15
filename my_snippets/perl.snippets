@@ -137,3 +137,80 @@ until ($1) {
 endsnippet
 
 # vim:ft=snippets:
+###########################################################################
+#                            TextMate Snippets                            #
+###########################################################################
+snippet shebang "shebang for perl" !b
+#!/usr/bin/perl
+
+endsnippet
+
+snippet openw "open and write" 
+open ${1:FH},'>',"${2:file}" or die "\$0: failed to open input file '$2' : \$!\n";
+print $1 ${3:something};
+close $1;
+endsnippet
+
+snippet opena "open and append" 
+open ${1:FH},'>>',"${2:file}" or die "\$0: failed to open input file '$2' : \$!\n";
+print $1 ${3:something};
+close $1;
+endsnippet
+
+snippet openr "open and read" 
+open ${1:FH},'<',"${2:file}" or die "\$0: failed to open input file '$2' : \$!\n";
+${3:do something};
+close $1;
+endsnippet
+
+snippet chomp "strip whitespace,self change" i
+chomp ($1);
+endsnippet
+
+snippet split "split string" i
+split /${1:pattern}/, ${2:string}
+endsnippet
+
+#snippet eval "eval" i
+#eval {$1};
+#endsnippet
+snippet use "use" !b
+use autodie;
+use warnings;
+endsnippet
+
+snippet push "add something to the tail of array" i
+push @${1:array}, ${2:item};
+endsnippet
+
+snippet unshift "add something to the head of array" i
+unshift @${1:array}, ${2:item};
+endsnippet
+
+snippet pop "get and remove the last item of an array" i
+pop @${1:array};
+endsnippet
+
+snippet shift "get and remove the first item of an array" i
+shift @${1:array};
+endsnippet
+
+snippet qw "get an array of string" i
+qw (${1:word1 word2 ...})
+endsnippet
+
+snippet splice "delete something from start index or add something to array" i
+splice @${1:array}, ${2:start_index}, ${3:length_to_delete}, ${4:something_to_add_at_start_index};
+endsnippet
+
+snippet each "return (index,value) of array or (key,value) of hash" i
+each @${1:array}
+endsnippet
+
+snippet join "join pieces into a string" i
+join "${1:glue}", ${2:list_or_array}
+endsnippet
+
+snippet print "print" i
+print "$1\n";
+endsnippet
